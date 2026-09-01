@@ -1,9 +1,9 @@
 student:
-  name: "Nama Mahasiswa"
-  id: "NIM"
-  program: "Program Studi"
-  cohort: "Angkatan"
-  email: "nama@kampus.ac.id"
+  name: "Sarah Christine Rebecca Tambunan"
+  id: "18225065"
+  program: "Sistem dan Teknologi Informasi"
+  cohort: "2025"
+  email: "18225065@std.stei.itb.ac.id"
 
 course:
   code: "KIPP-2"
@@ -12,5 +12,5 @@ course:
   semester: "Semester / Tahun Akademik"
 
 repository:
-  url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  url: "https://github.com/sarah-chreta/kipp-students.git"
 
