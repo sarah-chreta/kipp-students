@@ -108,4 +108,17 @@ Gunakan rubrik berikut (diadaptasi dari *Rubrik Kinerja Kriteria 1: Pengenalan P
 
 ------------------------------------------------------------------------
 
-> **Pesan Etika & Privasi:** Peta karakter komunikasi ini berisi refleksi personal Anda \[339\]. Jika Anda membagikan lembar kerja ini di kelas untuk sesi diskusi kelompok atau penilaian rekan, **samarkan nama-nama orang lain** (misalnya: ganti nama keluarga atau sahabat menjadi inisial atau "Mitra A") demi melindungi privasi relasi Anda \[66, 342, 350\]. Simpan dokumen ini dengan nama berkas yang rapi dan konsisten (contoh: `M01-peta-karakter-nama.md`) untuk mempermudah penyusunan Portofolio Akhir Anda nanti \[350\].
+> **Pesan Etika & Privasi:** 
+
+
+### Pernyataan Etika & Privasi Saya
+
+Dalam menyusun Peta Karakter ini, saya menerapkan pesan etika dan privasi sebagai berikut:
+
+1. **Nama orang lain disamarkan.** Teman yang memberi umpan balik saya tulis dengan inisial (J.), dan anggota keluarga saya sebut berdasarkan perannya (orang tua, kakak), bukan nama lengkap.
+2. **Refleksi personal dibagikan secukupnya.** Bagian yang berisi perasaan dan kebiasaan pribadi saya (Bagian C) hanya saya bagikan kepada dosen, atau kepada teman diskusi jika memang diminta dalam sesi kelas.
+3. **Informasi pihak lain tidak saya ungkap lebih dari yang perlu.** Saya hanya menuliskan peran dan organisasi yang memang bagian dari pengalaman saya, tanpa membuka detail pribadi atau internal orang lain.
+4. **Berkas disimpan rapi.** Dokumen ini saya simpan dengan nama `M01-peta-karakter-sarah.md` agar mudah dikumpulkan dalam Portofolio Komunikasi.
+
+
+Peta karakter komunikasi ini berisi refleksi personal Anda \[339\]. Jika Anda membagikan lembar kerja ini di kelas untuk sesi diskusi kelompok atau penilaian rekan, **samarkan nama-nama orang lain** (misalnya: ganti nama keluarga atau sahabat menjadi inisial atau "Mitra A") demi melindungi privasi relasi Anda \[66, 342, 350\]. Simpan dokumen ini dengan nama berkas yang rapi dan konsisten (contoh: `M01-peta-karakter-nama.md`) untuk mempermudah penyusunan Portofolio Akhir Anda nanti \[350\].
