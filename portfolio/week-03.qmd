@@ -1,8 +1,8 @@
 ---
 title: "Relationship Conversation"
 week: 3
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "14"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -18,8 +18,79 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 - Evidence listening dan response.
 - Analisis relationship state sebelum dan sesudah.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 3](../examples/week-03.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Konteks performance
+
+**Tanggal dan setting:** 22 September 2026, sesi latihan berpasangan mata kuliah Komunikasi Interpersonal dan Publik. Latihan berupa *roleplay* "Mendengarkan Tanpa Memperbaiki" (Bab 03): pendengar tidak boleh memberi solusi, lalu dilanjutkan dengan sesi umpan balik. Peran dilakukan bergantian, dan portofolio ini mendokumentasikan sesi saat saya menjadi pendengar.
+
+**Persons dan relationship:** Saya sebagai pendengar dan Mitra A sebagai pembicara. Kami adalah teman satu angkatan. Nama mitra disamarkan untuk menjaga privasi.
+
+**Objective dan initial state:** *State* awal: mitra bercerita tentang pengalamannya menjadi *project manager* Tugas Besar pembuatan *visual novel game*, saat beberapa anggota kurang berkontribusi sehingga ia harus ikut mengerjakan bagian mereka. Nada ceritanya menunjukkan rasa lelah dan kesal. Dari sisi saya, ada kecenderungan otomatis untuk langsung mencari solusi, sesuai pola yang saya tulis di Lembar Kerja Bab 01. *Objective*: membuat mitra merasa benar-benar didengarkan tanpa menghakimi dan tanpa memaksakan solusi, lalu menanyakan jenis bantuan yang ia butuhkan.
+
+## Evidence
+
+::: {.evidence-block}
+**Potongan transcript (rekonstruksi dari catatan Lembar Kerja Bab 03):**
+
+> **Mitra A:** "Aku pernah jadi PM buat Tugas Besar *visual novel game*. Susahnya itu ngatur dan mantau kerja tiap anggota. Ada beberapa yang kurang kontribusi, jadi ujung-ujungnya aku yang bantu ngerjain bagian mereka."  
+> **Saya:** *(menyimak tanpa menyela, membiarkan mitra menyelesaikan ceritanya)*  
+> **Saya:** "Kenapa nggak dilaporin ke dosen aja?"  
+> **Mitra A:** *(menjelaskan situasinya)*  
+> **Saya:** "Kalau aku nggak salah nangkep, yang bikin kamu kewalahan sebenarnya bukan cuma banyaknya kerjaan, tapi karena tanggung jawab kelompok jadi bertumpu di kamu. Kamu harus mantau semua orang, dan waktu ada yang kurang kontribusi, kamu yang nutupin bagian mereka. Bener begitu?"  
+> **Mitra A:** "Iya, bener."  
+> **Saya:** "Kamu mau didengarkan aja, dibantu memetakan pilihan, atau butuh saran?"  
+> **Mitra A:** "Didengarkan aja. Tugasnya juga udah selesai, aku cuma pengen cerita."
+
+**Artefak pendukung:** Lembar Kerja Bab 03, berisi catatan tiga tingkat mendengarkan, pilihan mitra atas *golden question*, umpan balik mitra, jurnal refleksi, dan rubrik evaluasi diri.
+
+Kontribusi saya: berperan sebagai pendengar, melakukan parafrasa dan tebakan emosi, mengajukan *golden question*, serta meminta umpan balik dari mitra setelah sesi.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Mitra dilihat sebagai *person* yang lelah karena menanggung beban kelompok, bukan sebagai "PM yang gagal mengatur tim". Saya menjalankan *character* sahabat pendengar yang, sesuai peta karakter Minggu 1, memiliki risiko terlalu cepat memberi saran. Latihan ini memperlihatkan risiko itu secara langsung. |
+| Objective & state | *State* awal mitra: lelah dan kesal saat menceritakan pengalamannya. *State* akhir: mitra merasa didengarkan dan memilih cukup didengarkan, tanpa membutuhkan solusi. *Objective* saya tercapai sebagian. Mitra merasa didengar, tetapi sempat muncul satu pertanyaan yang mengarah ke solusi. |
+| Repertoire & language | Saya menggunakan tiga tingkat mendengarkan: menangkap fakta cerita (Tingkat 1), memparafrasakan makna ("tanggung jawab kelompok jadi bertumpu di kamu") (Tingkat 2), dan menebak emosi serta kebutuhan secara tentatif, yaitu lelah dan kesal serta butuh keadilan dan penghargaan (Tingkat 3). Saya juga mengajukan *golden question* secara eksplisit. |
+| Response & adaptation | Pertanyaan "kenapa nggak dilaporin ke dosen aja?" menunjukkan saran yang tertunda, bukan yang dilepaskan. Niat saya adalah "dengarkan dulu, baru kasih saran". Setelah itu saya kembali ke parafrasa, tetapi tidak melakukan *repair* eksplisit atas pertanyaan tersebut. |
+| Agreement/action | Mitra memilih **didengarkan saja** karena Tugas Besarnya sudah selesai. Saya menghormati pilihan tersebut dengan tidak melanjutkan ke pemberian saran. Kesepakatan tindak lanjut ada di sisi saya: komitmen latihan mendengarkan selama 14 hari. |
+| Relationship outcome | Mitra merasa saya hadir karena diberi waktu bercerita tanpa dipotong. Hubungan tetap hangat dan terbuka, terlihat dari kesediaan mitra memberi umpan balik jujur tentang momen ketika saya mulai berasumsi. |
+
+## Penggunaan AI
+
+- **Alat dan peran AI:** Claude, untuk membantu menyusun struktur portofolio dari catatan Lembar Kerja Bab 03 dan merapikan kode Quarto.
+- **Prompt atau instruksi penting:** Meminta bantuan mengisi template Minggu 3 berdasarkan jawaban saya di Lembar Kerja Bab 03.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Struktur analisis saya gunakan. Transcript adalah rekonstruksi dari catatan dan ingatan saya, lalu saya sesuaikan dengan ucapan yang sebenarnya. Saya tidak mengklaim adanya *repair* karena memang tidak saya lakukan saat sesi.
+- **Pemeriksaan accuracy, privacy, dan authority:** Isi percakapan berasal dari sesi latihan nyata. Nama mitra disamarkan menjadi Mitra A. Penilaian dan komitmen sepenuhnya ditentukan oleh saya.
+- **Apa yang tetap saya pelajari sebagai manusia:** Menahan dorongan memberi saran saat seseorang bercerita, dan menyadari bahwa pertanyaan pun bisa berisi saran terselubung.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Mitra merasa saya paling hadir ketika saya memberinya waktu untuk bercerita sepenuhnya tanpa memotong. Mitra juga menyampaikan bahwa saya mulai berasumsi dan ingin cepat memperbaiki ketika bertanya, "Kenapa nggak lapor ke dosen aja?"
+
+**Adaptation/replay:** Jika percakapan diulang, saya akan mengganti pertanyaan "kenapa nggak…?" dengan pertanyaan terbuka seperti "Bagian mana yang paling berat buatmu?". Jika pertanyaan yang mengarah ke solusi terlanjur keluar, saya akan melakukan *repair* singkat: "Maaf, tadi aku kebablasan langsung ke solusi. Lanjutkan ceritamu."
+
+**Next practice:** Dalam 14 hari ke depan, ketika sahabat atau keluarga bercerita, saya akan menahan saran maupun pertanyaan yang mengarah ke solusi selama 3 menit pertama, merangkum maknanya, lalu mengajukan *golden question*. Saya akan menerapkannya minimal 3 kali dan mencatat hasilnya secara singkat.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Mitra dilihat sebagai *person* yang lelah, bukan diberi label; risiko *character* sahabat pendengar dikenali |
+| Objective & State | 3 | *State* awal dan akhir mitra dinyatakan; *objective* tercapai sebagian |
+| Repertoire, Language & AI | 3 | Tiga tingkat mendengarkan dan *golden question* digunakan; batas AI dinyatakan jujur |
+| Response & Adaptation | 2 | Pertanyaan yang mengarah ke solusi sempat muncul dan tidak diikuti *repair* eksplisit |
+| Agreement, Action & Relationship | 3 | Pilihan mitra untuk didengarkan saja dihormati; komitmen 14 hari terukur |
+
+**Total:** 14 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
+
+
