@@ -34,7 +34,7 @@ Melakukan personal conversation dengan listening, clarity, boundary, dan relatio
 > **Mitra A:** "Aku pernah jadi PM buat Tugas Besar *visual novel game*. Susahnya itu ngatur dan mantau kerja tiap anggota. Ada beberapa yang kurang kontribusi, jadi ujung-ujungnya aku yang bantu ngerjain bagian mereka."  
 > **Saya:** *(menyimak tanpa menyela, membiarkan mitra menyelesaikan ceritanya)*  
 > **Saya:** "Kenapa nggak dilaporin ke dosen aja?"  
-> **Mitra A:** *(menjelaskan situasinya)*  
+> **Mitra A:** *(menanggapi pertanyaan tersebut, lalu melanjutkan ceritanya)*  
 > **Saya:** "Kalau aku nggak salah nangkep, yang bikin kamu kewalahan sebenarnya bukan cuma banyaknya kerjaan, tapi karena tanggung jawab kelompok jadi bertumpu di kamu. Kamu harus mantau semua orang, dan waktu ada yang kurang kontribusi, kamu yang nutupin bagian mereka. Bener begitu?"  
 > **Mitra A:** "Iya, bener."  
 > **Saya:** "Kamu mau didengarkan aja, dibantu memetakan pilihan, atau butuh saran?"  
@@ -60,7 +60,7 @@ Kontribusi saya: berperan sebagai pendengar, melakukan parafrasa dan tebakan emo
 
 - **Alat dan peran AI:** Claude, untuk membantu menyusun struktur portofolio dari catatan Lembar Kerja Bab 03 dan merapikan kode Quarto.
 - **Prompt atau instruksi penting:** Meminta bantuan mengisi template Minggu 3 berdasarkan jawaban saya di Lembar Kerja Bab 03.
-- **Bagian output yang digunakan, diubah, atau ditolak:** Struktur analisis saya gunakan. Transcript adalah rekonstruksi dari catatan dan ingatan saya, lalu saya sesuaikan dengan ucapan yang sebenarnya. Saya tidak mengklaim adanya *repair* karena memang tidak saya lakukan saat sesi.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Struktur analisis saya gunakan. Transcript adalah rekonstruksi dari catatan Lembar Kerja Bab 03 dan ingatan saya, bukan rekaman kata per kata. Saya tidak mengklaim adanya *repair* karena memang tidak saya lakukan saat sesi.
 - **Pemeriksaan accuracy, privacy, dan authority:** Isi percakapan berasal dari sesi latihan nyata. Nama mitra disamarkan menjadi Mitra A. Penilaian dan komitmen sepenuhnya ditentukan oleh saya.
 - **Apa yang tetap saya pelajari sebagai manusia:** Menahan dorongan memberi saran saat seseorang bercerita, dan menyadari bahwa pertanyaan pun bisa berisi saran terselubung.
 
