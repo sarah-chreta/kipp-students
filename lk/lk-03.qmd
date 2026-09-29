@@ -37,6 +37,7 @@ Persiapan Peran  --->  Sesi Bercerita  --->  Umpan Balik Sesi 1 --->   Tukar Per
    (1 Menit)             (3 Menit)               (2 Menit)               (6 Menit)               (8 Menit)
 ```
 
+
 ### **Langkah 1: Persiapan & Pembagian Peran (1 Menit)**
 * Tentukan siapa yang menjadi **Pembicara** pertama dan siapa yang menjadi **Pendengar** pertama.
 * **Pembicara:** Siapkan satu masalah atau keresahan ringan yang nyata, aman, dan nyaman untuk dibagikan (misalnya: kesulitan mengatur waktu belajar, lelah karena tugas kelompok, atau kebingungan memilih prioritas harian) [3.16]. *Jangan membagikan masalah yang terlalu sensitif atau trauma pribadi.* [A.1]
@@ -55,6 +56,7 @@ Persiapan Peran  --->  Sesi Bercerita  --->  Umpan Balik Sesi 1 --->   Tukar Per
 
 ### **Langkah 3: Sesi Umpan Balik Sesi 1 (2 Menit)**
 Pembicara memberikan umpan balik yang spesifik kepada Pendengar menggunakan dua pertanyaan pemandu berikut [3.16, D.4]:
+
 1. *"Pada bagian percakapan yang mana kamu merasa aku sungguh-sungguh hadir dan membuatmu merasa paling didengarkan?"*
 2. *"Pada saat apa kamu merasa aku mulai membuat asumsi sendiri atau tampak ingin buru-buru memperbaiki masalahmu?"*
 
@@ -70,7 +72,7 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 ## III. Lembar Kerja Mahasiswa
 
 **Nama Praktikan:** Sarah Christine Rebecca Tambunan  
-**Nama Mitra Latihan:** Azka Atha'us Salam  
+**Nama Mitra Latihan:** Azka Atha'us Salam (Mitra A)  
 **Tanggal Pelaksanaan:** 22 September 2026
 
 ### **BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)**
@@ -79,17 +81,18 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Tingkat 1 - Kata (Isi Literal Masalah):** [3.8.1]
    *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda?* (Hindari generalisasi seperti "selalu" atau "tidak pernah") [2.7.1]
    *Jawab:*
-   Mitra bercerita bahwa dirinya pernah menjadi project manager suatu visual novel game untuk Tugas Besar suatu mata kuliah. Kesulitan yang dialaminya adalah dalam mengatur dan memantau kinerja dari masing-masing anggota kelompok, dimana terdapat beberapa anggota kelompok yang kurang berkontribusi sehingga dirinya harus membantu mengerjakan bagian tugas anggota kelompoknya.
+   Mitra bercerita bahwa dirinya pernah menjadi *project manager* suatu *visual novel game* untuk Tugas Besar suatu mata kuliah. Kesulitan yang dialaminya adalah dalam mengatur dan memantau kinerja dari masing-masing anggota kelompok, di mana terdapat beberapa anggota kelompok yang kurang berkontribusi sehingga dirinya harus membantu mengerjakan bagian tugas anggota kelompoknya.
 
 2. **Tingkat 2 - Makna (Parafrasa Anda):** [3.8.2]
    *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*
    *Jawab:*
-   "Kalau aku tidak salah menangkap, yang membuatmu kewalahan sebenarnya bukan cuma banyaknya pekerjaan, tapi karena kamu merasa tanggung jawab kelompok jadi bertumpu di kamu. Sebagai project manager, kamu harus memantau semua orang, dan ketika ada anggota yang kurang berkontribusi, kamu yang akhirnya menutupi bagian mereka. Apakah benar begitu?"
+   "Kalau aku tidak salah menangkap, yang membuatmu kewalahan sebenarnya bukan cuma banyaknya pekerjaan, tapi karena kamu merasa tanggung jawab kelompok jadi bertumpu di kamu. Sebagai *project manager*, kamu harus memantau semua orang, dan ketika ada anggota yang kurang berkontribusi, kamu yang akhirnya menutupi bagian mereka. Apakah benar begitu?"
 
 3. **Tingkat 3 - Pribadi (Tebakan Emosi & Kebutuhan):** [3.8.3]
    *Tuliskan tebakan emosi dan kebutuhan bernilai yang Anda sampaikan secara tentatif.* (Contoh: Cemas karena butuh kepastian; kesal karena butuh penghargaan) [2.7.4, 3.8.3]
    *Jawab:*
-   *   **Perasaan Mitra:** Sepertinya mitra merasa lelah dan kewalahan, serta mungkin sedikit kesal atau kecewa kepada anggota yang kurang berkontribusi.
+
+   - **Perasaan Mitra:** Sepertinya mitra merasa lelah dan kewalahan, serta mungkin sedikit kesal atau kecewa kepada anggota yang kurang berkontribusi.
    - **Kebutuhan/Nilai Mitra:** Mitra tampaknya membutuhkan keadilan dalam pembagian kerja, rasa saling bertanggung jawab dalam tim, dan penghargaan atas usaha ekstra yang sudah ia keluarkan.
 
 4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:** [3.16]
@@ -103,7 +106,7 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Momen Kehadiran Paling Berdampak:**
    *Kapan mitra merasa paling didengarkan dan dipahami secara utuh? Tindakan verbal/nonverbal apa dari Anda yang membantunya?*
    *Jawab:*
-   Mitra merasa saya paling hadir ketika saya memberinya waktu untuk bercerita sepenuhnya tanpa memotong pembicaraannya. Saya membiarkan ia menyelesaikan ceritanya tentang pengalaman menjadi project manager terlebih dahulu sebelum saya merespons. Hal yang membantu adalah sikap saya yang tidak menyela, menyimak dengan tenang, dan menunda keinginan untuk langsung memberi tanggapan atau saran, sehingga mitra merasa ceritanya benar-benar didengarkan.
+   Mitra merasa saya paling hadir ketika saya memberinya waktu untuk bercerita sepenuhnya tanpa memotong pembicaraannya. Saya membiarkan ia menyelesaikan ceritanya tentang pengalaman menjadi *project manager* terlebih dahulu sebelum saya merespons. Hal yang membantu adalah sikap saya yang tidak menyela, menyimak dengan tenang, dan menunda keinginan untuk langsung memberi tanggapan atau saran, sehingga mitra merasa ceritanya benar-benar didengarkan.
 
 2. **Momen Asumsi atau "Buru-buru Memperbaiki":**
    *Di titik mana Anda tanpa sengaja membuat asumsi, menyela, memberikan ekspresi menghakimi, atau tampak ingin langsung memberikan solusi?*
@@ -123,14 +126,13 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 2. **Memahami vs. Menyetujui:** [3.10, 3.18]
    *Bagaimana latihan ini membantu Anda menyadari bahwa Anda bisa memahami dan memvalidasi perasaan seseorang secara mendalam tanpa harus menyetujui seluruh tindakan atau asumsi mereka?*
    *Jawab:*
-   Latihan ini membantu saya membedakan antara memahami perasaan seseorang dan menyetujui tindakannya. Dalam sesi, saya bisa memvalidasi bahwa mitra merasa lelah dan kesal karena harus menutupi pekerjaan anggota lain, tanpa harus ikut menilai anggota kelompoknya sebagai orang yang malas atau menyimpulkan bahwa semua keputusan mitra sebagai project manager sudah tepat. Validasi membuat mitra merasa aman untuk bercerita, sedangkan persetujuan adalah penilaian yang berbeda dan hanya perlu saya sampaikan jika diminta. Karena mitra memilih untuk didengarkan saja, yang ia butuhkan adalah dipahami, bukan dinilai.
+   Latihan ini membantu saya membedakan antara memahami perasaan seseorang dan menyetujui tindakannya. Dalam sesi, saya bisa memvalidasi bahwa mitra merasa lelah dan kesal karena harus menutupi pekerjaan anggota lain, tanpa harus ikut menilai anggota kelompoknya sebagai orang yang malas atau menyimpulkan bahwa semua keputusan mitra sebagai *project manager* sudah tepat. Validasi membuat mitra merasa aman untuk bercerita, sedangkan persetujuan adalah penilaian yang berbeda dan hanya perlu saya sampaikan jika diminta. Karena mitra memilih untuk didengarkan saja, yang ia butuhkan adalah dipahami, bukan dinilai.
 
 3. **Komitmen Langkah Pertumbuhan:** [9.1, B.2]
    *Tuliskan satu komitmen perilaku spesifik dan terukur yang akan Anda latih dalam 14 hari ke depan bersama keluarga atau sahabat terdekat Anda!* (Contoh: *"Saya akan menahan diri dari memberikan saran selama 5 menit pertama ketika pasangan/adik saya mulai mengeluh tentang harinya."*) [D.3]
    *Jawab:*
    Dalam 14 hari ke depan, saya berkomitmen untuk:
    Setiap kali sahabat dekat atau keluarga saya bercerita tentang masalahnya, saya akan menahan diri dari memberi saran maupun pertanyaan yang mengarah ke solusi (seperti "kenapa tidak…?") selama 3 menit pertama. Setelah itu, saya akan merangkum inti ceritanya dan bertanya, "Apakah kamu ingin didengarkan saja, dibantu memikirkan pilihan, atau butuh saran dariku?" Saya akan menerapkannya minimal 3 kali dalam 14 hari dan mencatat secara singkat hasil setiap percakapan.
-
 
 ---
 
@@ -147,6 +149,7 @@ Gunakan rubrik di bawah ini untuk menilai performa Anda sendiri selama sesi lati
 
 ### **Penghitungan Nilai Evaluasi Diri:**
 $$\text{Nilai Akhir} = \left( \frac{\text{Total Skor Keempat Dimensi}}{16} \right) \times 100$$
+
 *   *Skor Anda:* 11 / 16
 *   *Nilai Konversi:* 68,75 (Skala 100)
 
