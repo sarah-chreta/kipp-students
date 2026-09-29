@@ -69,9 +69,9 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 
 ## III. Lembar Kerja Mahasiswa
 
-**Nama Praktikan:** ___________________________  
-**Nama Mitra Latihan:** _______________________  
-**Tanggal Pelaksanaan:** ______________________  
+**Nama Praktikan:** Sarah Christine Rebecca Tambunan  
+**Nama Mitra Latihan:** Azka Atha'us Salam  
+**Tanggal Pelaksanaan:** 22 September 2026
 
 ### **BAGIAN A: Catatan Pendengar (Diisi saat Anda menjadi Pendengar)**
 *Tuliskan hasil tangkapan Anda terhadap cerita mitra Anda menggunakan kerangka Tiga Tingkat Mendengarkan:* [3.8]
@@ -79,27 +79,23 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Tingkat 1 - Kata (Isi Literal Masalah):** [3.8.1]
    *Apa fakta objektif atau kejadian nyata yang diceritakan oleh mitra Anda?* (Hindari generalisasi seperti "selalu" atau "tidak pernah") [2.7.1]
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Mitra bercerita bahwa dirinya pernah menjadi project manager suatu visual novel game untuk Tugas Besar suatu mata kuliah. Kesulitan yang dialaminya adalah dalam mengatur dan memantau kinerja dari masing-masing anggota kelompok, dimana terdapat beberapa anggota kelompok yang kurang berkontribusi sehingga dirinya harus membantu mengerjakan bagian tugas anggota kelompoknya.
 
 2. **Tingkat 2 - Makna (Parafrasa Anda):** [3.8.2]
    *Tuliskan kembali kalimat rangkuman/parafrasa yang Anda gunakan di depan mitra untuk mengonfirmasi cerita mereka.*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   "Kalau aku tidak salah menangkap, yang membuatmu kewalahan sebenarnya bukan cuma banyaknya pekerjaan, tapi karena kamu merasa tanggung jawab kelompok jadi bertumpu di kamu. Sebagai project manager, kamu harus memantau semua orang, dan ketika ada anggota yang kurang berkontribusi, kamu yang akhirnya menutupi bagian mereka. Apakah benar begitu?"
 
 3. **Tingkat 3 - Pribadi (Tebakan Emosi & Kebutuhan):** [3.8.3]
    *Tuliskan tebakan emosi dan kebutuhan bernilai yang Anda sampaikan secara tentatif.* (Contoh: Cemas karena butuh kepastian; kesal karena butuh penghargaan) [2.7.4, 3.8.3]
    *Jawab:*
-   *   **Perasaan Mitra:** _____________________________________________________________________
-   *   **Kebutuhan/Nilai Mitra:** ______________________________________________________________
+   *   **Perasaan Mitra:** Sepertinya mitra merasa lelah dan kewalahan, serta mungkin sedikit kesal atau kecewa kepada anggota yang kurang berkontribusi.
+   - **Kebutuhan/Nilai Mitra:** Mitra tampaknya membutuhkan keadilan dalam pembagian kerja, rasa saling bertanggung jawab dalam tim, dan penghargaan atas usaha ekstra yang sudah ia keluarkan.
 
 4. **Respons Pembicara terhadap "Pertanyaan Emas" Anda:** [3.16]
    *Apa pilihan tindakan yang akhirnya diinginkan oleh mitra Anda? (Hanya ingin didengarkan / dibantu memetakan pilihan / butuh saran)*
    *Jawab:*
-   Mitra memilih: ___________________________________________________________________________
-
----
+   Ketika saya bertanya, "Apakah kamu ingin didengarkan saja, dibantu memetakan pilihan, atau butuh saran?", mitra memilih **didengarkan saja**. Mitra menjelaskan bahwa Tugas Besar tersebut sudah selesai, sehingga ia tidak sedang mencari solusi. Ia hanya ingin menceritakan pengalamannya dan melepaskan rasa lelah serta kesal yang selama ini dipendam. Dari jawaban ini, saya menyadari bahwa dorongan saya untuk memberi saran tidak selalu dibutuhkan. Kadang, didengarkan dengan sungguh-sungguh sudah cukup bagi seseorang.
 
 ### **BAGIAN B: Catatan Umpan Balik (Diisi berdasarkan umpan balik yang Anda terima dari Pembicara)**
 *Tuliskan evaluasi jujur yang disampaikan oleh mitra Anda mengenai performa menyimak Anda:* [3.16, D.4]
@@ -107,14 +103,12 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Momen Kehadiran Paling Berdampak:**
    *Kapan mitra merasa paling didengarkan dan dipahami secara utuh? Tindakan verbal/nonverbal apa dari Anda yang membantunya?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Mitra merasa saya paling hadir ketika saya memberinya waktu untuk bercerita sepenuhnya tanpa memotong pembicaraannya. Saya membiarkan ia menyelesaikan ceritanya tentang pengalaman menjadi project manager terlebih dahulu sebelum saya merespons. Hal yang membantu adalah sikap saya yang tidak menyela, menyimak dengan tenang, dan menunda keinginan untuk langsung memberi tanggapan atau saran, sehingga mitra merasa ceritanya benar-benar didengarkan.
 
 2. **Momen Asumsi atau "Buru-buru Memperbaiki":**
    *Di titik mana Anda tanpa sengaja membuat asumsi, menyela, memberikan ekspresi menghakimi, atau tampak ingin langsung memberikan solusi?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Mitra menyampaikan bahwa saya mulai berasumsi dan ingin cepat memperbaiki ketika saya bertanya, "Kenapa tidak lapor ke dosen saja?" Pertanyaan tersebut terasa seperti langsung mengarah ke solusi, padahal saya belum memahami sepenuhnya situasi yang ia hadapi, misalnya apakah ia sudah pernah mencoba cara itu atau ada pertimbangan lain. Dari sini saya belajar bahwa pertanyaan yang terdengar seperti pertanyaan pun bisa sebenarnya berisi saran terselubung. Sebelum bertanya, saya perlu memastikan dulu bahwa pertanyaan saya bertujuan untuk memahami, bukan untuk mengarahkan mitra ke solusi yang sudah ada di kepala saya.
 
 ---
 
@@ -124,21 +118,19 @@ Isi Lembar Kerja yang disediakan di bawah ini secara jujur untuk dimasukkan ke d
 1. **Refleksi Kebiasaan Otomatis:** [3.18]
    *Apakah di kehidupan nyata Anda lebih sering berusaha langsung "memperbaiki masalah" atau mendengarkan terlebih dahulu? Apa yang Anda rasakan ketika dipaksa "menahan diri" dari memberikan solusi selama latihan ini?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Dalam kehidupan nyata, saya lebih sering berada di posisi pendengar sekaligus pemberi saran. Teman-teman dekat biasanya datang untuk bercerita, dan saya cenderung cepat membantu mencari solusi karena terbiasa menyelesaikan masalah, baik di organisasi maupun di tim. Selama sesi, saya menyadari bahwa saya memang bisa menahan diri untuk tidak menyela, tetapi di dalam pikiran saya sudah menyiapkan saran sejak awal. Niat saya adalah "mendengarkan dulu, baru memberi saran", sehingga saran itu sebenarnya hanya tertunda, bukan dilepaskan. Dorongan tersebut akhirnya muncul lewat pertanyaan "kenapa tidak lapor ke dosen saja?", padahal mitra hanya ingin didengarkan. Saat harus menahan diri, saya merasa sedikit gelisah karena ingin segera membantu, tetapi dari sini saya belajar bahwa kehadiran saya sudah merupakan bentuk bantuan.
 
 2. **Memahami vs. Menyetujui:** [3.10, 3.18]
    *Bagaimana latihan ini membantu Anda menyadari bahwa Anda bisa memahami dan memvalidasi perasaan seseorang secara mendalam tanpa harus menyetujui seluruh tindakan atau asumsi mereka?*
    *Jawab:*
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Latihan ini membantu saya membedakan antara memahami perasaan seseorang dan menyetujui tindakannya. Dalam sesi, saya bisa memvalidasi bahwa mitra merasa lelah dan kesal karena harus menutupi pekerjaan anggota lain, tanpa harus ikut menilai anggota kelompoknya sebagai orang yang malas atau menyimpulkan bahwa semua keputusan mitra sebagai project manager sudah tepat. Validasi membuat mitra merasa aman untuk bercerita, sedangkan persetujuan adalah penilaian yang berbeda dan hanya perlu saya sampaikan jika diminta. Karena mitra memilih untuk didengarkan saja, yang ia butuhkan adalah dipahami, bukan dinilai.
 
 3. **Komitmen Langkah Pertumbuhan:** [9.1, B.2]
    *Tuliskan satu komitmen perilaku spesifik dan terukur yang akan Anda latih dalam 14 hari ke depan bersama keluarga atau sahabat terdekat Anda!* (Contoh: *"Saya akan menahan diri dari memberikan saran selama 5 menit pertama ketika pasangan/adik saya mulai mengeluh tentang harinya."*) [D.3]
    *Jawab:*
    Dalam 14 hari ke depan, saya berkomitmen untuk:
-   __________________________________________________________________________________________
-   __________________________________________________________________________________________
+   Setiap kali sahabat dekat atau keluarga saya bercerita tentang masalahnya, saya akan menahan diri dari memberi saran maupun pertanyaan yang mengarah ke solusi (seperti "kenapa tidak…?") selama 3 menit pertama. Setelah itu, saya akan merangkum inti ceritanya dan bertanya, "Apakah kamu ingin didengarkan saja, dibantu memikirkan pilihan, atau butuh saran dariku?" Saya akan menerapkannya minimal 3 kali dalam 14 hari dan mencatat secara singkat hasil setiap percakapan.
+
 
 ---
 
@@ -148,15 +140,17 @@ Gunakan rubrik di bawah ini untuk menilai performa Anda sendiri selama sesi lati
 
 | Dimensi Penilaian | Awal (1) | Berkembang (2) | Cakap (3) | Unggul (4) |
 | :--- | :--- | :--- | :--- | :--- |
-| **1. Kehadiran & Menyimak Aktif** [C.2.1] | Menyiapkan bantahan, menyela cerita, atau sibuk melihat gawai/sekitar saat mitra berbicara. | Mendengarkan isi utama, tetapi perhatian sesekali teralih atau tidak fokus pada bahasa tubuh mitra. | Menyimak secara utuh tanpa interupsi, menunjukkan kontak mata yang hangat dan bahasa tubuh yang terbuka. | Menghadirkan ruang hening yang aman, menangkap bahasa nonverbal, dan memberikan tanda penerimaan penuh. |
-| **2. Pemisahan Fakta & Interpretasi** [C.2.2] | Segera membuat kesimpulan sepihak tentang karakter mitra atau buru-buru menyodorkan label negatif. | Menyadari perbedaan fakta dan asumsi, tetapi parafrasa masih tercampur dengan penilaian pribadi. | Mampu merangkum fakta cerita secara jernih dan melakukan parafrasa yang akurat tanpa bumbu asumsi. | Memisahkan fakta objektif dari emosi batin dengan sangat presisi, mengonfirmasikan parafrasa dengan rendah hati. |
-| **3. Pendalaman Rasa Ingin Tahu (Pertanyaan)** [C.2.3] | Mengajukan pertanyaan menuduh ("Kenapa kamu begitu?") atau memberikan interogasi beruntun. | Mengajukan pertanyaan yang berorientasi mengarahkan mitra menuju solusi yang Anda pikirkan. | Mengajukan maksimal 2 pertanyaan terbuka yang tulus membantu mitra mengeksplorasi perasaannya sendiri. | Pertanyaan yang diajukan membuka lapis pemahaman baru bagi Pembicara tentang masalahnya sendiri secara sukarela. |
-| **4. Validasi Emosi & Otonomi** [C.2.5] | Mengabaikan perasaan mitra, meremehkannya ("gitu aja sedih"), atau langsung menjejalkan solusi sepihak. | Menamai emosi mitra secara umum tetapi buru-buru beralih ke agenda penyelesaian. | Memvalidasi emosi mitra secara tentatif dan menanyakan jenis bantuan yang diinginkan di akhir sesi. | Validasi emosi terasa sangat hangat dan tulus; menghormati penuh otonomi mitra untuk menolak atau menerima saran. |
+| **1. Kehadiran & Menyimak Aktif** [C.2.1] | Menyiapkan bantahan, menyela cerita, atau sibuk melihat gawai/sekitar saat mitra berbicara. | Mendengarkan isi utama, tetapi perhatian sesekali teralih atau tidak fokus pada bahasa tubuh mitra. | $\checkmark$ Menyimak secara utuh tanpa interupsi, menunjukkan kontak mata yang hangat dan bahasa tubuh yang terbuka. | Menghadirkan ruang hening yang aman, menangkap bahasa nonverbal, dan memberikan tanda penerimaan penuh. |
+| **2. Pemisahan Fakta & Interpretasi** [C.2.2] | Segera membuat kesimpulan sepihak tentang karakter mitra atau buru-buru menyodorkan label negatif. | Menyadari perbedaan fakta dan asumsi, tetapi parafrasa masih tercampur dengan penilaian pribadi. | $\checkmark$ Mampu merangkum fakta cerita secara jernih dan melakukan parafrasa yang akurat tanpa bumbu asumsi. | Memisahkan fakta objektif dari emosi batin dengan sangat presisi, mengonfirmasikan parafrasa dengan rendah hati. |
+| **3. Pendalaman Rasa Ingin Tahu (Pertanyaan)** [C.2.3] | Mengajukan pertanyaan menuduh ("Kenapa kamu begitu?") atau memberikan interogasi beruntun. | $\checkmark$ Mengajukan pertanyaan yang berorientasi mengarahkan mitra menuju solusi yang Anda pikirkan. | Mengajukan maksimal 2 pertanyaan terbuka yang tulus membantu mitra mengeksplorasi perasaannya sendiri. | Pertanyaan yang diajukan membuka lapis pemahaman baru bagi Pembicara tentang masalahnya sendiri secara sukarela. |
+| **4. Validasi Emosi & Otonomi** [C.2.5] | Mengabaikan perasaan mitra, meremehkannya ("gitu aja sedih"), atau langsung menjejalkan solusi sepihak. | Menamai emosi mitra secara umum tetapi buru-buru beralih ke agenda penyelesaian. | $\checkmark$ Memvalidasi emosi mitra secara tentatif dan menanyakan jenis bantuan yang diinginkan di akhir sesi. | Validasi emosi terasa sangat hangat dan tulus; menghormati penuh otonomi mitra untuk menolak atau menerima saran. |
 
 ### **Penghitungan Nilai Evaluasi Diri:**
 $$\text{Nilai Akhir} = \left( \frac{\text{Total Skor Keempat Dimensi}}{16} \right) \times 100$$
-*   *Skor Anda:* ______ / 16
-*   *Nilai Konversi:* ______ (Skala 100)
+*   *Skor Anda:* 11 / 16
+*   *Nilai Konversi:* 68,75 (Skala 100)
+
+**Satu prioritas perbaikan:** Dimensi dengan skor terendah adalah Pendalaman Rasa Ingin Tahu (Pertanyaan). Langkah konkret saya adalah memeriksa setiap pertanyaan sebelum mengucapkannya: jika pertanyaan itu diawali "kenapa tidak…?" atau sudah berisi jawaban yang saya pikirkan, saya akan menggantinya dengan pertanyaan terbuka seperti "Bagian mana yang paling berat buatmu?"
 
 ---
 *Simpan dokumen panduan, catatan umpan balik, dan jurnal refleksi ini sebagai salah satu **Bukti Portofolio Pembelajaran** Anda untuk Bagian I.* [1.12, B.1]
