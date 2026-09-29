@@ -61,17 +61,18 @@ Alternatif kedua paling berguna karena sesuai dengan fakta (pembagian tugas belu
 ## Evidence
 
 ::: {.evidence-block}
-![Pesan ajakan diskusi yang saya kirim ke grup tim](images/M02-pesan-ajakan-diskusi.jpg)
+![Contoh komunikasi di grup tim BURU-BURU: saya membagikan logbook yang telah selesai, menjawab pertanyaan rekan tentang cara pengumpulan, dan rekan membagikan tautan prototipe Figma NUSATANI](images/M02-update-grup-tim.jpg)
 
 **Evidence tindakan:**
 
-- Catatan pribadi berisi pemisahan *fact* dan *story* sebelum saya menghubungi tim.
-- Pesan ajakan diskusi yang saya kirim ke grup tim pada malam yang sama.
-- Diskusi pembagian ulang tugas yang dianalisis pada portofolio Minggu 1.
+- Diskusi pembagian ulang tugas bersama tim, yang merupakan pelaksanaan *internal agreement* ini dan dianalisis pada portofolio Minggu 1.
+- Tangkapan layar grup tim di atas, yang menunjukkan praktik saling memberi *update* di grup: saya menyampaikan bahwa logbook sudah selesai, rekan bertanya secara terbuka tentang cara pengumpulan dan langsung dijawab, lalu rekan membagikan progres prototipe Figma. Pola ini sesuai dengan kesepakatan tim untuk memberi *update* singkat secara rutin di grup.
 
 **Response anggota:** Salah satu rekan menyampaikan bahwa ia sebenarnya bisa mengerjakan bagiannya, tetapi menunggu kejelasan batas pekerjaannya. Evidence ini memperbarui *story* saya: keterlambatan bukan karena anggota tidak peduli, melainkan karena pembagian tugas yang belum jelas.
 
-Kontribusi saya: menulis refleksi *fact* dan *story*, mengirim pesan ajakan diskusi, dan memimpin diskusi pembagian ulang tugas. Nama dan foto profil anggota pada screenshot disamarkan.
+**Keterbatasan evidence:** Pesan ajakan diskusi yang saya kirim ke grup tidak saya simpan tangkapan layarnya, sehingga evidence yang dilampirkan adalah contoh komunikasi tim dalam grup yang sama.
+
+Kontribusi saya: melakukan refleksi *fact* dan *story*, mengirim pesan ajakan diskusi, memimpin diskusi pembagian ulang tugas, dan aktif memberi *update* progres di grup. Nama rekan dan tautan dokumen tim pada tangkapan layar telah disamarkan.
 :::
 
 ## Analisis komunikasi
@@ -82,22 +83,22 @@ Kontribusi saya: menulis refleksi *fact* dan *story*, mengirim pesan ajakan disk
 | Objective & state | *Reaction* awal adalah dorongan mengambil alih pekerjaan anggota, disertai cemas dan lelah yang tinggi. *Desired response* adalah membuka komunikasi dengan tim. *State* berubah dari rencana bertindak sepihak menjadi kesepakatan batin untuk bertanya terlebih dahulu. |
 | Repertoire & language | Saya menggunakan pemisahan *fact* dan *story*, penamaan emosi dengan skala, jeda sebelum bertindak, dan dialog batin. Bahasa batin berubah dari "mereka tidak peduli" menjadi "kita belum tahu kenapa mereka diam". |
 | Response & adaptation | Alternatif *information gap* membuat saya menyadari bahwa sebagian masalah mungkin berasal dari instruksi saya yang kurang jelas. Rencana pun berubah dari mengerjakan sendiri menjadi memperjelas pembagian bersama tim. |
-| Agreement/action | *Internal agreement* dijalankan pada malam yang sama melalui pesan ajakan diskusi ke grup, lalu dilanjutkan dengan diskusi pembagian ulang tugas. |
-| Relationship outcome | Hubungan dengan diri sendiri membaik karena saya tidak memaksakan diri menanggung semuanya. Hubungan dengan tim juga terjaga karena tidak ada anggota yang dilabeli tidak peduli dan tidak ada pekerjaan yang diambil alih diam-diam. |
+| Agreement/action | *Internal agreement* dijalankan pada malam yang sama melalui pesan ajakan diskusi ke grup, lalu dilanjutkan dengan diskusi pembagian ulang tugas. Setelah itu, grup tim kembali aktif dengan *update* progres dari saya maupun rekan. |
+| Relationship outcome | Hubungan dengan diri sendiri membaik karena saya tidak memaksakan diri menanggung semuanya. Hubungan dengan tim juga terjaga karena tidak ada anggota yang dilabeli tidak peduli dan tidak ada pekerjaan yang diambil alih diam-diam. Rekan kembali nyaman bertanya dan berbagi progres secara terbuka di grup. |
 
 ## Penggunaan AI
 
 - **Alat dan peran AI:** Claude, untuk membantu menyusun struktur jurnal sesuai contoh Minggu 2, memberi contoh pemisahan *fact* dan *story*, serta merapikan kode Quarto.
 - **Prompt atau instruksi penting:** Meminta bantuan menyesuaikan template Intra-Self Journal dengan episode tim lomba dari portofolio Minggu 1, mengikuti format contoh yang diberikan dosen.
-- **Bagian output yang digunakan, diubah, atau ditolak:** Struktur tabel lapisan dan alternative narratives saya gunakan. Skala emosi, sinyal tubuh, dan dialog batin saya sesuaikan dengan yang benar-benar saya rasakan saat itu.
-- **Pemeriksaan accuracy, privacy, dan authority:** Episode berasal dari pengalaman nyata. Nama anggota ditulis dengan inisial, dan screenshot disamarkan sebelum diunggah. Saya tidak memasukkan identitas anggota tim ke AI.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Struktur tabel lapisan dan alternative narratives saya gunakan. Skala emosi, sinyal tubuh, dan dialog batin saya periksa ulang dan pastikan sesuai dengan yang saya rasakan saat itu. Keterangan evidence saya sesuaikan dengan isi tangkapan layar yang benar-benar saya miliki.
+- **Pemeriksaan accuracy, privacy, dan authority:** Episode berasal dari pengalaman nyata. Nama anggota ditulis dengan inisial, dan nama serta tautan dokumen tim pada tangkapan layar disamarkan sebelum diunggah. Saya tidak memasukkan identitas anggota tim ke AI.
 - **Apa yang tetap saya pelajari sebagai manusia:** Mengenali sinyal tubuh dan emosi saya sendiri, memilih untuk berhenti sejenak sebelum bertindak, dan memutuskan sendiri *response* yang lebih sehat.
 
 ## Feedback dan tindak lanjut
 
 **Feedback yang diterima:** Dalam diskusi, salah satu rekan tim menyampaikan bahwa ia menunggu kejelasan pembagian tugas dari saya. Masukan ini menunjukkan bahwa *story* awal saya ("mereka tidak peduli") tidak didukung fakta.
 
-**Adaptation/replay:** Setelah memisahkan *fact* dan *story*, saya tidak mengerjakan bagian anggota secara diam-diam, tetapi mengajak tim berdiskusi. Responsnya, anggota menyampaikan kendala mereka dan tugas terbagi ulang dengan tenggat yang realistis.
+**Adaptation/replay:** Setelah memisahkan *fact* dan *story*, saya tidak mengerjakan bagian anggota secara diam-diam, tetapi mengajak tim berdiskusi. Responsnya, anggota menyampaikan kendala mereka, tugas terbagi ulang dengan tenggat yang realistis, dan grup kembali aktif dengan *update* progres.
 
 **Next practice:** Setiap kali muncul dorongan untuk mengambil alih pekerjaan orang lain, saya akan menulis tiga kolom (*fact*, *story*, *next question*) selama 5 menit sebelum bertindak, lalu mengirim satu pertanyaan kepada pihak terkait.
 
@@ -109,7 +110,7 @@ Kontribusi saya: menulis refleksi *fact* dan *story*, mengirim pesan ajakan disk
 | Objective & State | 3 | *Reaction* dan *desired response* jelas; emosi dinamai dengan skala |
 | Repertoire, Language & AI | 3 | Pemisahan *fact*/*story*, jeda, dan dialog batin digunakan; batas AI dinyatakan |
 | Response & Adaptation | 3 | Alternatif *information gap* dan respons rekan mengubah rencana dari mengerjakan sendiri menjadi berdiskusi |
-| Agreement, Action & Relationship | 3 | *Internal agreement* menghasilkan pesan ajakan diskusi dan pembagian ulang tugas |
+| Agreement, Action & Relationship | 3 | *Internal agreement* menghasilkan diskusi pembagian ulang tugas; grup kembali aktif dengan *update* progres |
 
 **Total:** 15 / 20
 
