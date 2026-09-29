@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,10 +13,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -43,10 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -270,6 +273,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#kompetensi-target" id="toc-kompetensi-target" class="nav-link active" data-scroll-target="#kompetensi-target">Kompetensi target</a></li>
   <li><a href="#evidence-wajib" id="toc-evidence-wajib" class="nav-link" data-scroll-target="#evidence-wajib">Evidence wajib</a></li>
   <li><a href="#konteks-performance" id="toc-konteks-performance" class="nav-link" data-scroll-target="#konteks-performance">Konteks performance</a></li>
+  <li><a href="#core-meaning" id="toc-core-meaning" class="nav-link" data-scroll-target="#core-meaning">Core meaning</a></li>
   <li><a href="#evidence" id="toc-evidence" class="nav-link" data-scroll-target="#evidence">Evidence</a></li>
   <li><a href="#analisis-komunikasi" id="toc-analisis-komunikasi" class="nav-link" data-scroll-target="#analisis-komunikasi">Analisis komunikasi</a></li>
   <li><a href="#penggunaan-ai" id="toc-penggunaan-ai" class="nav-link" data-scroll-target="#penggunaan-ai">Penggunaan AI</a></li>
@@ -323,35 +327,91 @@ ul.task-list li input[type="checkbox"] {
 <li>Alasan perubahan language dan repertoire.</li>
 <li>Feedback understanding dari sedikitnya satu target.</li>
 </ul>
-<div class="callout callout-style-default callout-tip callout-titled" title="Lihat contoh pengisian">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>Lihat contoh pengisian
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p><a href="../examples/week-04.html">Buka contoh fiktif Minggu 4</a> untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.</p>
-</div>
-</div>
 </section>
 <section id="konteks-performance" class="level2">
 <h2 class="anchored" data-anchor-id="konteks-performance">Konteks performance</h2>
-<p><strong>Tanggal dan setting:</strong> Ganti dengan tanggal, tempat, dan bentuk kegiatan.</p>
-<p><strong>Persons dan relationship:</strong> Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.</p>
-<p><strong>Objective dan initial state:</strong> Nyatakan perubahan yang ingin dicapai serta evidence state awal.</p>
+<p><strong>Tanggal dan setting:</strong> 24 September 2026. Penyusunan lima versi pesan dilakukan secara mandiri, lalu versi <em>friend</em> diuji langsung kepada satu teman dekat non-teknis melalui chat.</p>
+<p><strong>Persons dan relationship:</strong> Lima target dari peran-peran saya: teman dekat non-teknis (<em>friend</em>), rekan tim teknis Neurova (<em>technical peer</em>), rekan founder Neurova dari SBM ITB sebagai pengambil keputusan (<em>manager</em>), pengguna layanan Neurova (<em>customer</em>), dan masyarakat pengguna internet (<em>public</em>). Nama tidak dicantumkan.</p>
+<p><strong>Objective dan initial state:</strong> <em>State</em> awal: sebagai Cybersecurity Analyst, saya terbiasa menjelaskan keamanan akun dengan istilah teknis seperti TOTP, <em>credential stuffing</em>, atau SIM swap, sehingga orang non-teknis cenderung menganggapnya rumit dan menunda mengaktifkan 2FA. <em>Objective</em>: menyampaikan satu pesan yang sama ke lima target dengan <em>language</em> yang berbeda, sehingga setiap target paham alasannya dan tahu tindakan yang perlu diambil.</p>
+</section>
+<section id="core-meaning" class="level2">
+<h2 class="anchored" data-anchor-id="core-meaning">Core meaning</h2>
+<p>Fakta yang tidak boleh berubah:</p>
+<ol type="1">
+<li>Kata sandi saja tidak cukup, karena kata sandi bisa bocor atau ditebak.</li>
+<li>Autentikasi dua faktor (2FA) menambahkan satu lapis verifikasi, sehingga akun tetap aman meskipun kata sandi bocor.</li>
+<li>Tindakan: aktifkan 2FA pada akun penting (email, perbankan, media sosial, akun kerja), utamakan aplikasi autentikator dibanding SMS, dan jangan pernah membagikan kode verifikasi kepada siapa pun.</li>
+</ol>
 </section>
 <section id="evidence" class="level2">
 <h2 class="anchored" data-anchor-id="evidence">Evidence</h2>
 <div class="evidence-block">
-<p>Tambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Target/character</th>
+<th style="text-align: left;">Versi language</th>
+<th style="text-align: left;">Alasan adaptasi</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>Friend</strong></td>
+<td style="text-align: left;">“Eh, akun IG sama emailmu udah pakai verifikasi dua langkah belum? Kalau password-mu bocor, orang tetap nggak bisa masuk tanpa kode dari HP-mu. Nyalain di pengaturan keamanan, paling lama 5 menit. Kalau bingung, sini aku bantuin. Satu lagi: kode itu jangan pernah dikasih ke siapa pun, termasuk yang ngaku dari Instagram.”</td>
+<td style="text-align: left;">Santai, personal, pakai contoh akun yang ia pakai sehari-hari, menawarkan bantuan langsung, dan tanpa istilah teknis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Technical peer</strong></td>
+<td style="text-align: left;">“Semua akun kerja kita (Google Workspace, GitHub, dan dashboard hosting) wajib pakai 2FA. Utamakan TOTP lewat aplikasi autentikator atau <em>security key</em>, bukan SMS OTP yang rentan SIM swap. Simpan <em>recovery codes</em> di <em>password manager</em> tim, dan jangan pernah kirim kode OTP lewat chat, termasuk ke sesama anggota tim.”</td>
+<td style="text-align: left;">Menyebut metode, alasan teknis (SIM swap), dan langkah operasional yang spesifik untuk sesama orang teknis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Manager</strong></td>
+<td style="text-align: left;">“Saat ini akun kerja tim hanya dilindungi kata sandi. Kalau satu akun diambil alih, repositori kode dan data pengguna bisa ikut terbuka, dan kepercayaan pengguna yang paling mahal untuk dipulihkan. Saya usulkan 2FA diwajibkan untuk semua akun kerja mulai minggu depan. Biayanya nol dan setup-nya sekitar 10 menit per orang. Yang saya perlukan hanya persetujuan untuk menjadikannya aturan tim.”</td>
+<td style="text-align: left;">Menekankan dampak risiko, biaya, usulan, dan <em>decision point</em>, bukan mekanisme teknis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Customer</strong></td>
+<td style="text-align: left;">“Lindungi akun Neurova Anda dengan verifikasi dua langkah. Setelah diaktifkan, setiap kali masuk dari perangkat baru, Anda akan diminta memasukkan kode dari aplikasi autentikator di ponsel Anda. Aktifkan melalui menu Pengaturan &gt; Keamanan. Tim Neurova tidak akan pernah meminta kode verifikasi Anda.”</td>
+<td style="text-align: left;">Formal dan sopan, fokus pada manfaat dan langkah yang harus dilakukan pengguna, disertai peringatan anti-penipuan</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Public</strong></td>
+<td style="text-align: left;">“Kata sandi saja tidak cukup untuk menjaga akun Anda. Aktifkan verifikasi dua langkah di email, mobile banking, dan media sosial. Dengan begitu, meskipun kata sandi Anda bocor, akun tetap tidak bisa dibuka tanpa kode dari ponsel Anda. Ingat: jangan berikan kode verifikasi kepada siapa pun, termasuk yang mengaku petugas bank atau aplikasi.”</td>
+<td style="text-align: left;">Kalimat pendek, tanpa jargon, contoh akun yang dimiliki banyak orang, dan satu pesan pengaman yang mudah diingat</td>
+</tr>
+</tbody>
+</table>
+<p><em>Catatan:</em> Versi <em>customer</em> adalah draf notifikasi untuk rencana fitur keamanan akun Neurova, bukan pengumuman yang sudah dipublikasikan.</p>
+<p><strong>Uji pemahaman:</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/uji pemahaman.jpeg" class="img-fluid figure-img"></p>
+<figcaption>Uji pemahaman versi <em>friend</em> kepada teman dekat non-teknis melalui chat</figcaption>
+</figure>
+</div>
+<p>Versi <em>friend</em> saya kirim kepada satu teman dekat non-teknis tanpa penjelasan tambahan. Target menjawab, “Oh iya belum, oke nanti aku nyalain.” Ketika saya bertanya bagian mana yang paling penting dan apakah ada yang membingungkan, target menjawab, “Menurutku, yang paling penting adalah langkah-langkah untuk menyalakan verifikasinya. Tidak ada yang dibingungkan.”</p>
+<p><strong>Versi <em>friend</em> setelah adaptasi:</strong></p>
+<blockquote class="blockquote">
+<p>“Eh, akun IG sama emailmu udah pakai verifikasi dua langkah belum? Kalau password-mu bocor, orang tetap nggak bisa masuk tanpa kode dari HP-mu.</p>
+<p>Cara nyalain di IG: buka Profil &gt; menu garis tiga &gt; Pusat Akun &gt; Kata sandi dan keamanan &gt; Autentikasi dua faktor. Kalau ada pilihan, pakai aplikasi autentikator ya, lebih aman daripada kode SMS. Paling lama 5 menit, kalau bingung sini aku bantuin.</p>
+<p>⚠️ Yang paling penting: kode itu jangan pernah dikasih ke siapa pun, termasuk yang ngaku dari Instagram.”</p>
+</blockquote>
+<p>Kontribusi saya: menentukan <em>core meaning</em>, memilih lima target dari peran saya sendiri, memeriksa ketepatan teknis setiap versi, menguji versi <em>friend</em> kepada satu target, dan memperbaiki versi tersebut berdasarkan responsnya.</p>
 </div>
 </section>
 <section id="analisis-komunikasi" class="level2">
 <h2 class="anchored" data-anchor-id="analisis-komunikasi">Analisis komunikasi</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Elemen</th>
@@ -361,51 +421,55 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; character</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Kelima target dibedakan berdasarkan kebutuhan, bukan stereotipe. Teman butuh kemudahan dan bantuan, rekan teknis butuh prosedur yang presisi, <em>manager</em> butuh dampak dan keputusan, <em>customer</em> butuh langkah yang jelas dan rasa aman, sedangkan publik butuh pesan singkat yang mudah diingat. Saya juga berganti <em>character</em>: sahabat, CTO, rekan founder, penyedia layanan, dan praktisi keamanan siber.</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; state</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><em>Core meaning</em> dijaga di kelima versi: kata sandi tidak cukup, 2FA menambah lapis perlindungan, aktifkan pada akun penting, dan jangan bagikan kode. Uji pemahaman menunjukkan versi <em>friend</em> berhasil mendorong niat bertindak (“nanti aku nyalain”), tetapi juga memperlihatkan bahwa poin “utamakan aplikasi autentikator” belum tersampaikan di versi tersebut.</td>
 </tr>
 <tr class="odd">
 <td>Repertoire &amp; language</td>
-<td>Ganti dengan analisis Anda.</td>
+<td><em>Repertoire</em> berubah dari ajakan personal, instruksi teknis, <em>decision brief</em>, instruksi layanan, hingga imbauan publik. Istilah teknis (TOTP, SIM swap, <em>recovery codes</em>) hanya muncul pada versi <em>technical peer</em>. Pada versi lain, istilah itu diganti menjadi “kode dari HP” atau “verifikasi dua langkah”.</td>
 </tr>
 <tr class="even">
 <td>Response &amp; adaptation</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Target menilai bagian terpenting adalah “langkah-langkah untuk menyalakan verifikasinya”, padahal versi awal hanya menyebut “nyalain di pengaturan keamanan” tanpa langkah konkret. Target juga tidak menyebut peringatan untuk tidak membagikan kode, yang menunjukkan peringatan itu kurang menonjol karena diletakkan di akhir. Karena itu, versi <em>friend</em> saya perbaiki dengan menambahkan urutan langkah di Instagram, anjuran memakai aplikasi autentikator, dan menandai peringatan kode sebagai bagian yang paling penting.</td>
 </tr>
 <tr class="odd">
 <td>Agreement/action</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Setiap versi diakhiri tindakan yang jelas: dibantu mengaktifkan (<em>friend</em>), aturan akun kerja (<em>technical peer</em>), persetujuan kebijakan (<em>manager</em>), menu yang harus dibuka (<em>customer</em>), dan satu kebiasaan aman (<em>public</em>). Target versi <em>friend</em> menyatakan akan mengaktifkan verifikasi dua langkah.</td>
 </tr>
 <tr class="even">
 <td>Relationship outcome</td>
-<td>Ganti dengan analisis Anda.</td>
+<td>Versi <em>friend</em> dan <em>public</em> dibuat tanpa menakut-nakuti atau menggurui, sehingga target tidak merasa dianggap ceroboh. Target merespons dengan santai dan terbuka menjawab pertanyaan lanjutan. Versi <em>manager</em> menjaga hubungan kerja dengan memberi usulan yang siap diputuskan, bukan tuntutan sepihak.</td>
 </tr>
 </tbody>
 </table>
 </section>
 <section id="penggunaan-ai" class="level2">
 <h2 class="anchored" data-anchor-id="penggunaan-ai">Penggunaan AI</h2>
-<p>Nyatakan <code>Tidak menggunakan AI</code> atau jelaskan:</p>
 <ul>
-<li>alat dan peran AI;</li>
-<li>prompt atau instruksi penting;</li>
-<li>bagian output yang digunakan, diubah, atau ditolak;</li>
-<li>pemeriksaan accuracy, privacy, dan authority;</li>
-<li>apa yang tetap Anda pelajari sebagai manusia.</li>
+<li><strong>Alat dan peran AI:</strong> Claude, untuk membantu menyusun draf awal lima versi pesan dan struktur portofolio.</li>
+<li><strong>Prompt atau instruksi penting:</strong> Meminta bantuan mengisi template Minggu 4 dengan topik yang sesuai peran saya sebagai Cybersecurity Analyst dan CTO Neurova, mengikuti format contoh dosen.</li>
+<li><strong>Bagian output yang digunakan, diubah, atau ditolak:</strong> Draf lima versi saya gunakan sebagai dasar, dan versi <em>friend</em> saya uji kepada teman tanpa perubahan. Setelah menerima respons teman, versi <em>friend</em> diperbaiki dengan menambahkan langkah konkret, anjuran aplikasi autentikator, dan penekanan pada peringatan kode.</li>
+<li><strong>Pemeriksaan accuracy, privacy, dan authority:</strong> Ketepatan teknis (kelemahan SMS OTP terhadap SIM swap, keunggulan aplikasi autentikator, dan larangan membagikan kode) saya periksa berdasarkan pengetahuan saya sebagai Cybersecurity Analyst. Tidak ada data internal Neurova atau data pribadi target yang dimasukkan ke AI, dan identitas teman yang menjadi target uji tidak dicantumkan.</li>
+<li><strong>Apa yang tetap saya pelajari sebagai manusia:</strong> Menguji pesan langsung kepada orang yang saya kenal dan membaca responsnya. Respons teman menunjukkan hal yang tidak saya sadari saat menulis, yaitu bahwa ia paling membutuhkan langkah konkret, bukan sekadar alasan.</li>
 </ul>
 </section>
 <section id="feedback-dan-tindak-lanjut" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-dan-tindak-lanjut">Feedback dan tindak lanjut</h2>
-<p><strong>Feedback yang diterima:</strong> Ganti dengan kutipan atau ringkasan berbasis evidence.</p>
-<p><strong>Adaptation/replay:</strong> Jelaskan apa yang Anda ubah dan response setelah perubahan.</p>
-<p><strong>Next practice:</strong> Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.</p>
+<p><strong>Feedback yang diterima:</strong> Target versi <em>friend</em> menyatakan, “Oh iya belum, oke nanti aku nyalain.” Saat ditanya bagian terpenting, ia menjawab, “Menurutku, yang paling penting adalah langkah-langkah untuk menyalakan verifikasinya. Tidak ada yang dibingungkan.”</p>
+<p><strong>Adaptation/replay:</strong> Versi <em>friend</em> diperbaiki dengan menambahkan urutan langkah mengaktifkan autentikasi dua faktor di Instagram, anjuran memilih aplikasi autentikator dibanding SMS agar sesuai dengan <em>core meaning</em>, serta menempatkan peringatan “jangan berikan kode kepada siapa pun” sebagai poin yang ditandai paling penting. Versi perbaikan ini belum diuji ulang kepada target.</p>
+<p><strong>Next practice:</strong> Mengirim versi <em>friend</em> yang sudah diperbaiki kepada target yang sama untuk memeriksa apakah langkahnya mudah diikuti dan peringatan kodenya kini tertangkap. Selain itu, setiap kali menjelaskan topik keamanan siber kepada orang non-teknis, saya akan menyertakan minimal satu langkah konkret yang bisa langsung dilakukan, lalu menanyakan, “Bagian mana yang paling kamu ingat?”</p>
 </section>
 <section id="self-assessment" class="level2">
 <h2 class="anchored" data-anchor-id="self-assessment">Self-assessment</h2>
 <table class="caption-top table">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 40%">
+<col style="width: 30%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Dimensi</th>
@@ -416,32 +480,32 @@ ul.task-list li input[type="checkbox"] {
 <tbody>
 <tr class="odd">
 <td>Person &amp; Character</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Lima target dibedakan berdasarkan kebutuhan dan peran saya terhadap masing-masing</td>
 </tr>
 <tr class="even">
 <td>Objective &amp; State</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td><em>Core meaning</em> konsisten; uji pemahaman mengungkap satu poin yang belum tersampaikan di versi <em>friend</em></td>
 </tr>
 <tr class="odd">
 <td>Repertoire, Language &amp; AI</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Lima <em>repertoire</em> dengan alasan adaptasi; batas AI dinyatakan</td>
 </tr>
 <tr class="even">
 <td>Response &amp; Adaptation</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Respons target menghasilkan perbaikan konkret: langkah aktivasi, anjuran aplikasi autentikator, dan penekanan peringatan</td>
 </tr>
 <tr class="odd">
 <td>Agreement, Action &amp; Relationship</td>
-<td style="text-align: right;">—</td>
-<td>—</td>
+<td style="text-align: right;">3</td>
+<td>Setiap versi memiliki tindakan eksplisit; target menyatakan akan mengaktifkan 2FA</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Total:</strong> — / 20</p>
+<p><strong>Total:</strong> 15 / 20</p>
 <section id="assessment-dosen" class="level3 assessor-only">
 <h3 class="anchored" data-anchor-id="assessment-dosen">Assessment dosen</h3>
 <p><strong>Skor:</strong> — / 20<br>
@@ -870,7 +934,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Sarah Christine Rebecca Tambunan</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

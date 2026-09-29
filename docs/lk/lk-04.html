@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="id" xml:lang="id"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.31">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7c69b197886ae2a34062761d21e44731.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-42db6082498c64b8158b8611e7fb4138.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-795ae1ca5c1dbc58ec319c3e1f3f461f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
 <style>html{ scroll-behavior: smooth; }</style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -240,87 +243,79 @@ window.Quarto = {
 <section id="b.-identitas-mahasiswa" class="level2">
 <h2 class="anchored" data-anchor-id="b.-identitas-mahasiswa"><strong>B. Identitas Mahasiswa</strong></h2>
 <ul>
-<li><strong>Nama Lengkap:</strong> ______________________________________</li>
-<li><strong>NIM:</strong> ______________________________________</li>
-<li><strong>Program Studi:</strong> ______________________________________</li>
-<li><strong>Tanggal Pengisian:</strong> ______________________________________</li>
+<li><strong>Nama Lengkap:</strong> Sarah Christine Rebecca Tambunan</li>
+<li><strong>NIM:</strong> 18225065</li>
+<li><strong>Program Studi:</strong> Sistem dan Teknologi Informasi, Institut Teknologi Bandung</li>
+<li><strong>Tanggal Pengisian:</strong> 22 September 2026</li>
 </ul>
 <hr>
 </section>
 <section id="c.-tahap-1-detoks-jargon-dekonstruksi-konsep" class="level2">
 <h2 class="anchored" data-anchor-id="c.-tahap-1-detoks-jargon-dekonstruksi-konsep"><strong>C. Tahap 1: Detoks Jargon (Dekonstruksi Konsep)</strong></h2>
-<p>Sebelum membagikan gagasan Anda, Anda harus mengupas kulit jargon untuk menemukan “sumsum” atau kebenaran inti dari pesan Anda.</p>
 <ol type="1">
-<li><p><strong>Konsep Teknis yang Dipilih:</strong> <em>(Contoh: Enkripsi Kunci Publik, Inflasi Moneter, Replikasi Database, Fotosintesis, dll.)</em> <em>Jawab:</em></p></li>
-<li><p><strong>Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):</strong> <em>(Tuliskan definisi asli lengkap dengan jargon teknisnya)</em> <em>Jawab:</em></p></li>
-<li><p><strong>Daftar Jargon Teknis &amp; Artian Sederhananya:</strong> <em>Identifikasi minimal 3 istilah rumit dari definisi di atas dan terjemahkan maknanya secara mandiri.</em></p>
+<li><p><strong>Konsep Teknis yang Dipilih:</strong> <em>Jawab:</em> Autentikasi Dua Faktor (<em>Two-Factor Authentication</em> / 2FA) dalam keamanan siber.</p></li>
+<li><p><strong>Definisi Teknis Awal (Versi Buku Teks / Jurnal Ilmiah):</strong> <em>Jawab:</em> Autentikasi dua faktor adalah mekanisme verifikasi identitas yang mensyaratkan pengguna menyajikan dua faktor autentikasi dari kategori berbeda, yaitu <em>something you know</em> (misalnya kata sandi), <em>something you have</em> (misalnya perangkat yang menghasilkan <em>Time-based One-Time Password</em>/TOTP atau <em>security key</em>), dan <em>something you are</em> (misalnya sidik jari). Dengan mensyaratkan dua faktor independen, mekanisme ini mengurangi risiko pengambilalihan akun (<em>account takeover</em>) akibat kredensial yang bocor melalui <em>phishing</em>, <em>credential stuffing</em>, maupun kebocoran basis data. Metode berbasis SMS OTP dinilai lebih lemah karena rentan terhadap serangan SIM swap.</p></li>
+<li><p><strong>Daftar Jargon Teknis &amp; Artian Sederhananya:</strong></p>
 <ul>
-<li><strong>Jargon 1:</strong> <code>_______________</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: ____________________</li>
-<li><strong>Jargon 2:</strong> <code>_______________</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: ____________________</li>
-<li><strong>Jargon 3:</strong> <code>_______________</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: ____________________</li>
+<li><strong>Jargon 1:</strong> <code>Faktor autentikasi</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Bukti bahwa kamu benar-benar pemilik akun, bisa berupa sesuatu yang kamu tahu, kamu punya, atau bagian dari tubuhmu.</li>
+<li><strong>Jargon 2:</strong> <code>TOTP (Time-based One-Time Password)</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Kode angka sekali pakai dari aplikasi di HP yang berganti setiap 30 detik.</li>
+<li><strong>Jargon 3:</strong> <code>Credential stuffing</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Penjahat mencoba kata sandi yang bocor dari satu situs ke banyak akun lain, karena banyak orang memakai kata sandi yang sama.</li>
+<li><strong>Jargon 4:</strong> <code>SIM swap</code> <span class="math inline">\(\rightarrow\)</span> Arti Sederhana: Penipu mengambil alih nomor HP seseorang sehingga kode SMS justru terkirim ke penipu.</li>
 </ul></li>
-<li><p><strong>Kebenaran Inti (<em>Marrow of the Message</em>):</strong> <em>(Tuliskan 1 kalimat sangat sederhana yang merangkum apa sebenarnya esensi atau manfaat utama dari konsep ini bagi kehidupan manusia)</em> <em>Jawab:</em></p></li>
+<li><p><strong>Kebenaran Inti (<em>Marrow of the Message</em>):</strong> <em>Jawab:</em> Kata sandi saja tidak cukup untuk menjaga akun, jadi tambahkan satu kunci lagi yang hanya kamu pegang, supaya akunmu tetap aman meskipun kata sandimu bocor.</p></li>
 </ol>
 <hr>
 </section>
 <section id="d.-tahap-2-matriks-terjemahan-lima-bahasa" class="level2">
 <h2 class="anchored" data-anchor-id="d.-tahap-2-matriks-terjemahan-lima-bahasa"><strong>D. Tahap 2: Matriks Terjemahan Lima Bahasa</strong></h2>
-<p>Sekarang, bawa kebenaran inti di atas menggunakan “kendaraan” bahasa yang sesuai bagi masing-masing dari lima audiens berikut.</p>
 <section id="ragam-bahasa-anak-anak-usia-10-tahun" class="level3">
 <h3 class="anchored" data-anchor-id="ragam-bahasa-anak-anak-usia-10-tahun"><strong>1. Ragam Bahasa: Anak-Anak (Usia ~10 Tahun)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Menggunakan pemikiran konkret, menyukai imajinasi, memiliki rentang perhatian pendek, dan belum mengenal istilah akademis.</li>
-<li><strong>Strategi:</strong> Gunakan <strong>analogi fisik atau cerita</strong> yang sangat akrab di dunia mereka (seperti mainan, sekolah, atau hewan).</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<p><em>Draf Terjemahan Anda:</em></p>
+<blockquote class="blockquote">
+<p>“Bayangkan kamu punya kotak harta karun yang dikunci pakai kata rahasia. Tapi bagaimana kalau ada teman yang tidak sengaja mendengar kata rahasiamu? Dia bisa membuka kotakmu! Jadi, kita tambah satu kunci lagi: kartu ajaib yang cuma kamu pegang. Angka di kartu itu berganti-ganti terus setiap beberapa detik. Untuk membuka kotak, harus tahu kata rahasianya dan punya kartu ajaibnya. Kalau cuma tahu kata rahasia tapi tidak punya kartunya, kotaknya tetap terkunci. Ingat ya, kartu ajaib dan angkanya tidak boleh dipinjamkan ke siapa pun, bahkan ke orang yang bilang dia petugas.”</p>
+</blockquote>
 </section>
 <section id="ragam-bahasa-sahabat-beda-bidang-program-studi" class="level3">
 <h3 class="anchored" data-anchor-id="ragam-bahasa-sahabat-beda-bidang-program-studi"><strong>2. Ragam Bahasa: Sahabat (Beda Bidang / Program Studi)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Setara dengan Anda secara usia, tetapi tidak memiliki latar belakang keilmuan yang sama. Mereka ingin mengobrol dengan santai tanpa merasa digurui.</li>
-<li><strong>Strategi:</strong> Gunakan gaya bahasa informal, hangat, akrab, dan bersihkan dari istilah akademis yang kaku.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<p><em>Draf Terjemahan Anda:</em></p>
+<blockquote class="blockquote">
+<p>“Eh, akun IG sama emailmu udah pakai verifikasi dua langkah belum? Jadi gini, password itu gampang bocor, apalagi kalau kamu pakai password yang sama di banyak aplikasi. Nah, kalau verifikasi dua langkah nyala, orang yang tahu password-mu tetap nggak bisa masuk, karena harus masukin kode dari HP-mu juga. Nyalainnya di pengaturan keamanan, paling lima menit kelar. Kalau bingung, sini aku bantuin. Satu lagi, kode itu jangan pernah dikasih ke siapa pun, termasuk yang ngaku dari Instagram atau bank.”</p>
+</blockquote>
 </section>
 <section id="ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan" class="level3">
 <h3 class="anchored" data-anchor-id="ragam-bahasa-rekan-teknis-sesama-ahli-mahasiswa-sejurusan"><strong>3. Ragam Bahasa: Rekan Teknis (Sesama Ahli / Mahasiswa Sejurusan)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Rekan sejawat yang menuntut efisiensi, akurasi tinggi, serta pembuktian logis atau matematis.</li>
-<li><strong>Strategi:</strong> Gunakan jargon teknis yang presisi, singkatan standar industri, parameter spesifik, dan data pendukung.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<p><em>Draf Terjemahan Anda:</em></p>
+<blockquote class="blockquote">
+<p>“2FA menggabungkan dua faktor independen, biasanya <em>knowledge factor</em> (password) dan <em>possession factor</em> (TOTP authenticator atau FIDO2 security key). Tujuannya agar kompromi satu faktor, misalnya kredensial bocor lewat phishing atau credential stuffing, tidak langsung berujung pada account takeover. SMS OTP sebaiknya dihindari untuk akun kritis karena rentan SIM swap dan intersepsi. Untuk akun kerja tim (Google Workspace, GitHub, dashboard hosting), prioritaskan TOTP atau passkey, simpan recovery codes di password manager, dan jangan pernah meneruskan OTP melalui kanal chat.”</p>
+</blockquote>
 </section>
 <section id="ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis" class="level3">
 <h3 class="anchored" data-anchor-id="ragam-bahasa-manajer-atau-pengambil-keputusan-aspek-bisnis"><strong>4. Ragam Bahasa: Manajer atau Pengambil Keputusan (Aspek Bisnis)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Berorientasi pada hasil, efisiensi alokasi sumber daya (waktu, tenaga, biaya), manajemen risiko, dan dampak terhadap tujuan organisasi.</li>
-<li><strong>Strategi:</strong> Tekankan <strong>nilai tambah (<em>value proposition</em>)</strong>, biaya (<em>cost</em>), efisiensi, serta konsekuensi logis jika gagasan ini diterapkan atau diabaikan.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<p><em>Draf Terjemahan Anda:</em></p>
+<blockquote class="blockquote">
+<p>“Saat ini akun kerja tim hanya dilindungi kata sandi. Jika satu akun diambil alih, repositori kode dan data pengguna bisa ikut terbuka, dan yang paling mahal untuk dipulihkan adalah kepercayaan pengguna. Mewajibkan autentikasi dua faktor untuk semua akun kerja hampir tidak memerlukan biaya, setup-nya sekitar 10 menit per orang, dan menutup sebagian besar risiko pengambilalihan akun akibat kata sandi yang bocor. Saya mengusulkan kebijakan ini berlaku mulai minggu depan. Yang dibutuhkan hanya persetujuan untuk menjadikannya aturan tim.”</p>
+</blockquote>
 </section>
 <section id="ragam-bahasa-publik-umum-masyarakat-luas" class="level3">
 <h3 class="anchored" data-anchor-id="ragam-bahasa-publik-umum-masyarakat-luas"><strong>5. Ragam Bahasa: Publik Umum (Masyarakat Luas)</strong></h3>
-<ul>
-<li><strong>Karakteristik Pendengar:</strong> Masyarakat heterogen yang ingin mengetahui apa dampak langsung atau tidak langsung dari teknologi/konsep ini bagi keselamatan, kemaslahatan, dompet, atau kehidupan sehari-hari mereka.</li>
-<li><strong>Strategi:</strong> Hubungkan konsep dengan nilai-nilai sosial, keadilan, keamanan, kemudahan hidup, dan gunakan bahasa yang inklusif serta mudah dipahami seketika.</li>
-<li><em>Draf Terjemahan Anda:</em></li>
-</ul>
+<p><em>Draf Terjemahan Anda:</em></p>
+<blockquote class="blockquote">
+<p>“Hari ini, banyak hal penting dalam hidup kita tersimpan di akun digital: tabungan di mobile banking, percakapan keluarga di WhatsApp, hingga data pribadi di email. Kata sandi saja tidak cukup untuk menjaganya. Aktifkan verifikasi dua langkah, sehingga setiap kali ada yang mencoba masuk dari perangkat baru, akun meminta kode tambahan dari ponsel Anda. Dengan begitu, meskipun kata sandi Anda bocor, akun tetap tidak bisa dibuka oleh orang lain. Ingat satu hal: jangan pernah memberikan kode verifikasi kepada siapa pun, termasuk yang mengaku petugas bank atau aplikasi.”</p>
+</blockquote>
 <hr>
 </section>
 </section>
 <section id="e.-tahap-3-refleksi-pembelajaran-intrapribadi" class="level2">
 <h2 class="anchored" data-anchor-id="e.-tahap-3-refleksi-pembelajaran-intrapribadi"><strong>E. Tahap 3: Refleksi Pembelajaran (Intrapribadi)</strong></h2>
-<p><em>Evaluasi diri Anda setelah melakukan proses alih ragam bahasa di atas.</em></p>
 <ol type="1">
-<li><p><strong>Ragam bahasa mana yang paling sulit Anda buat? Mengapa?</strong> <em>Jawab:</em></p></li>
-<li><p><strong>Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?</strong> <em>Jawab:</em></p></li>
-<li><p><strong>Catatan Penggunaan AI Kopilot (Jika Ada):</strong> <em>Jika Anda menggunakan AI untuk menguji kelenturan bahasa Anda (misal: meminta AI berperan sebagai anak berusia 10 tahun untuk mengkritik draf Anda), tuliskan instruksi/prompt yang Anda gunakan dan umpan balik berharga apa yang diberikan AI.</em> <em>Jawab:</em></p></li>
+<li><p><strong>Ragam bahasa mana yang paling sulit Anda buat? Mengapa?</strong> <em>Jawab:</em> Ragam bahasa yang paling sulit adalah versi anak-anak. Konsep 2FA sangat bergantung pada gagasan “kode yang berganti setiap beberapa detik” dan “perangkat yang hanya dimiliki satu orang”, yang tidak ada padanan langsungnya di dunia anak. Saya harus mencari analogi yang tetap akurat, yaitu kotak harta karun dengan dua kunci, tanpa menyederhanakan terlalu jauh sampai makna intinya hilang. Versi manajer juga menantang karena saya terbiasa menjelaskan <em>cara kerja</em> teknologi, sedangkan manajer lebih membutuhkan <em>dampak dan keputusan</em>. Saya harus menahan keinginan menjelaskan TOTP atau SIM swap dan fokus pada risiko, biaya, serta usulan.</p></li>
+<li><p><strong>Bagaimana proses dekonstruksi jargon ini mengubah cara Anda memandang keilmuan Anda sendiri?</strong> <em>Jawab:</em> Proses ini membuat saya sadar bahwa sebagai Cybersecurity Analyst, saya sering terjebak <em>curse of knowledge</em>. Istilah seperti <em>credential stuffing</em> atau SIM swap terasa biasa bagi saya, tetapi terdengar asing dan menakutkan bagi orang lain, sehingga mereka justru menunda mengamankan akunnya. Keamanan siber pada akhirnya bukan hanya soal teknologi, tetapi soal membuat orang mau dan mampu bertindak. Kalau penjelasan saya tidak dipahami, perlindungan terbaik pun tidak akan dipakai. Ini sejalan dengan peran saya di domain publik pada Lembar Kerja Bab 01, yaitu memastikan solusi keamanan benar-benar bermanfaat bagi masyarakat.</p></li>
+<li><p><strong>Catatan Penggunaan AI Kopilot (Jika Ada):</strong> <em>Jawab:</em> AI saya gunakan sebagai alat bantu untuk menyusun draf awal. Setelah itu, saya memeriksa ketepatan teknis setiap versi berdasarkan pemahaman saya di bidang keamanan siber, misalnya bahwa SMS OTP lebih lemah daripada aplikasi autentikator dan bahwa kode verifikasi tidak boleh dibagikan. Saya juga memastikan kelima versi tetap membawa kebenaran inti yang sama. Penentuan konsep, pemilihan analogi yang dipakai, dan refleksi tetap berdasarkan penilaian saya sendiri.</p></li>
 </ol>
 <hr>
 </section>
 <section id="f.-rubrik-evaluasi-mandiri-penilaian-portofolio" class="level2">
 <h2 class="anchored" data-anchor-id="f.-rubrik-evaluasi-mandiri-penilaian-portofolio"><strong>F. Rubrik Evaluasi Mandiri &amp; Penilaian Portofolio</strong></h2>
-<p>Gunakan rubrik ini untuk menguji kualitas draf Anda sebelum dimasukkan ke dalam Portofolio Komunikasi akhir semester Anda.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 16%">
@@ -347,7 +342,7 @@ window.Quarto = {
 <td style="text-align: left;">Makna inti terjaga di sebagian besar versi, hanya ada sedikit penyederhanaan yang agak melenceng di versi anak-anak.</td>
 <td style="text-align: left;">Makna inti mulai bergeser di beberapa ragam bahasa demi mengejar kemudahan bahasa.</td>
 <td style="text-align: left;">Makna inti rusak atau berubah total di berbagai ragam bahasa.</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">4</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Kelenturan Register</strong> <em>(Code-switching)</em></td>
@@ -355,7 +350,7 @@ window.Quarto = {
 <td style="text-align: left;">Perbedaan gaya bahasa terlihat jelas, namun ada beberapa kata/gaya yang masih tumpang tindih antar-audiens.</td>
 <td style="text-align: left;">Gaya bahasa terasa seragam; perbedaan antar-audiens hanya terlihat kosmetis (misal sekadar mengubah sapaan).</td>
 <td style="text-align: left;">Tidak ada upaya menyesuaikan gaya bahasa; semua audiens disuapi dengan gaya bahasa yang sama.</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Kualitas Analogi &amp; Penjelasan</strong></td>
@@ -363,7 +358,7 @@ window.Quarto = {
 <td style="text-align: left;">Analogi yang digunakan cukup baik dan relevan, meski masih butuh sedikit penjelasan tambahan untuk memperjelasnya.</td>
 <td style="text-align: left;">Analogi yang digunakan kurang pas atau justru berisiko membingungkan audiens.</td>
 <td style="text-align: left;">Tidak menggunakan analogi sama sekali pada ragam bahasa yang membutuhkan (Anak/Publik).</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">3</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;"><strong>Kedalaman Refleksi</strong></td>
@@ -371,7 +366,7 @@ window.Quarto = {
 <td style="text-align: left;">Refleksi cukup deskriptif dalam menceritakan kesulitan, namun belum menggali alasan personal di balik kesulitan tersebut.</td>
 <td style="text-align: left;">Refleksi sangat singkat, bersifat normatif, dan tidak memberikan wawasan baru bagi perkembangan diri Anda.</td>
 <td style="text-align: left;">Bagian refleksi tidak diisi atau hanya diisi sekadarnya (kurang dari 2 kalimat).</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">3</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><strong>Total Skor (Maksimal 16)</strong></td>
@@ -379,7 +374,7 @@ window.Quarto = {
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
 <td style="text-align: left;"></td>
-<td style="text-align: center;"><strong>___ / 16</strong></td>
+<td style="text-align: center;"><strong>13 / 16</strong></td>
 </tr>
 </tbody>
 </table>
@@ -803,7 +798,7 @@ window.Quarto = {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Portfolio KIPP-2 · Nama Mahasiswa</p>
+<p>Portfolio KIPP-2 · Sarah Christine Rebecca Tambunan</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
