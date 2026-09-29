@@ -1,8 +1,8 @@
 ---
 title: "Intra-Self Communication Journal"
 week: 2
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "15"
 assessor_score: "—"
 description: "Evidence perubahan dari reaction menuju response."
 categories: [Fondasi, Intra-Self]
@@ -18,8 +18,107 @@ Memisahkan event, fact, story, emotion, internal character, choice, dan action.
 - Initial story dan sedikitnya dua alternative narratives.
 - Internal agreement dan bukti tindakan berikutnya.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 2](../examples/week-02.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Episode
+
+**Event:** Saat mengecek progres tim lomba BURU-BURU (proyek NUSATANI, GEMASTIK XIX), saya melihat beberapa *milestone* internal terlewat, grup tim sepi selama beberapa hari, dan beberapa bagian desain belum dikerjakan padahal tenggat semakin dekat.
+
+| Lapisan | Catatan saya |
+| :--- | :--- |
+| **Fact** | Beberapa *milestone* internal terlewat; tidak ada *update* di grup selama beberapa hari; anggota tim sedang memiliki kuis dan praktikum; belum ada pembicaraan langsung tentang kendala masing-masing |
+| **Initial story** | "Mereka tidak terlalu peduli dengan lomba ini. Kalau aku menegur, nanti aku dianggap terlalu menekan. Lebih cepat kalau aku kerjakan sendiri saja." |
+| **Emotion/body signal** | Cemas 7/10, kesal 5/10, lelah 7/10; dada terasa berat, sulit fokus mengerjakan tugas lain, dan ingin langsung membuka file desain untuk mengerjakan semuanya malam itu juga |
+| **Reactive character** | *"Solo Fixer"* yang ingin diam-diam mengambil alih pekerjaan anggota dan memendam rasa lelah agar tidak merepotkan orang lain |
+| **Desired character** | *"Open Leader"* yang menyampaikan kondisinya secara jujur, menanyakan kapasitas anggota, dan membagi ulang tugas bersama |
+
+*Initial story* melampaui fakta. Faktanya hanya menunjukkan progres melambat dan komunikasi berkurang, bukan bahwa anggota tidak peduli. Saya juga belum pernah menanyakan kondisi mereka, sehingga "mereka tidak peduli" dan "aku akan dianggap menekan" adalah tebakan, bukan evidence.
+
+## Alternative narratives
+
+1. **Shared constraint:** Semua anggota, termasuk saya, sedang menghadapi beban akademik yang padat. Progres melambat karena keterbatasan waktu, bukan karena anggota tidak peduli.
+2. **Information gap:** Anggota mungkin menunggu kejelasan dari saya sebagai ketua tentang bagian mana yang harus dikerjakan dan sampai kapan. Grup yang sepi bisa jadi tanda kebingungan, bukan ketidakpedulian.
+3. **Leadership cost:** Mengambil alih semua pekerjaan terlihat seperti solusi cepat, tetapi membuat saya kewalahan, menutup kesempatan anggota untuk berkontribusi, dan tidak menyelesaikan akar masalah komunikasi.
+
+Alternatif kedua paling berguna karena sesuai dengan fakta (pembagian tugas belum pernah dibicarakan ulang) dan langsung menghasilkan tindakan yang bisa saya lakukan sebagai ketua, tanpa menyalahkan anggota maupun diri sendiri.
+
+## Internal conversation dan agreement
+
+> **Solo Fixer:** "Udah, nggak usah ribet. Kerjain aja sendiri malam ini, daripada nunggu mereka."  
+> **Open Leader:** "Kita belum tahu kenapa mereka diam. Kalau aku kerjain semua, aku yang *burnout* dan masalah komunikasinya tetap ada. Tanya dulu kondisi mereka."  
+> **Solo Fixer:** "Tapi kalau aku nanya, nanti kesannya aku nagih dan bikin suasana nggak enak."  
+> **Open Leader:** "Nanyanya bisa sambil jujur soal kondisiku juga. Aku juga lagi capek, dan itu wajar disampaikan."  
+> **Saya:** "Aku nggak akan langsung ngerjain bagian mereka. Aku tulis dulu faktanya, lalu ajak tim ngobrol soal kondisi masing-masing dan pembagian ulang."
+
+**Internal agreement:** Malam itu juga, saya mengirim pesan ke grup tim untuk mengajak diskusi singkat tentang kondisi masing-masing dan pembagian ulang tugas. Saya juga berkomitmen tidak mengerjakan bagian anggota lain sebelum diskusi itu terjadi.
+
+## Konteks performance
+
+**Tanggal dan setting:** Agustus 2026, setelah tahap riset lapangan dan wawancara pengguna proyek NUSATANI selesai. Refleksi dilakukan secara mandiri saat saya mengecek progres tim, sebelum diskusi tim secara daring.
+
+**Persons dan relationship:** Diri saya sendiri sebagai Team Leader tim BURU-BURU. Dua rekan tim (F. dan satu rekan lainnya) terlibat secara tidak langsung sebagai pihak yang saya pikirkan dalam percakapan batin ini.
+
+**Objective dan initial state:** *State* awal: saya cemas dan lelah, berencana diam-diam mengerjakan bagian anggota lain, dan belum berkomunikasi dengan tim. *State* yang ingin dicapai: memilih *response* yang lebih sadar, yaitu menyampaikan kondisi saya dan membuka diskusi dengan tim sebelum mengambil keputusan sepihak.
+
+## Evidence
+
+::: {.evidence-block}
+![Pesan ajakan diskusi yang saya kirim ke grup tim](images/M02-pesan-ajakan-diskusi.jpg)
+
+**Evidence tindakan:**
+
+- Catatan pribadi berisi pemisahan *fact* dan *story* sebelum saya menghubungi tim.
+- Pesan ajakan diskusi yang saya kirim ke grup tim pada malam yang sama.
+- Diskusi pembagian ulang tugas yang dianalisis pada portofolio Minggu 1.
+
+**Response anggota:** Salah satu rekan menyampaikan bahwa ia sebenarnya bisa mengerjakan bagiannya, tetapi menunggu kejelasan batas pekerjaannya. Evidence ini memperbarui *story* saya: keterlambatan bukan karena anggota tidak peduli, melainkan karena pembagian tugas yang belum jelas.
+
+Kontribusi saya: menulis refleksi *fact* dan *story*, mengirim pesan ajakan diskusi, dan memimpin diskusi pembagian ulang tugas. Nama dan foto profil anggota pada screenshot disamarkan.
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Analisis komunikasi
+
+| Elemen | Evidence dan analisis |
+|---|---|
+| Person & character | Dua *internal character* dibedakan, yaitu *Solo Fixer* dan *Open Leader*. Keduanya bukan identitas tetap, melainkan kecenderungan yang muncul di bawah tekanan. *Solo Fixer* sejalan dengan pola hambatan saya di Lembar Kerja Bab 01, yaitu menyimpan perasaan dan menyelesaikan semuanya sendiri. |
+| Objective & state | *Reaction* awal adalah dorongan mengambil alih pekerjaan anggota, disertai cemas dan lelah yang tinggi. *Desired response* adalah membuka komunikasi dengan tim. *State* berubah dari rencana bertindak sepihak menjadi kesepakatan batin untuk bertanya terlebih dahulu. |
+| Repertoire & language | Saya menggunakan pemisahan *fact* dan *story*, penamaan emosi dengan skala, jeda sebelum bertindak, dan dialog batin. Bahasa batin berubah dari "mereka tidak peduli" menjadi "kita belum tahu kenapa mereka diam". |
+| Response & adaptation | Alternatif *information gap* membuat saya menyadari bahwa sebagian masalah mungkin berasal dari instruksi saya yang kurang jelas. Rencana pun berubah dari mengerjakan sendiri menjadi memperjelas pembagian bersama tim. |
+| Agreement/action | *Internal agreement* dijalankan pada malam yang sama melalui pesan ajakan diskusi ke grup, lalu dilanjutkan dengan diskusi pembagian ulang tugas. |
+| Relationship outcome | Hubungan dengan diri sendiri membaik karena saya tidak memaksakan diri menanggung semuanya. Hubungan dengan tim juga terjaga karena tidak ada anggota yang dilabeli tidak peduli dan tidak ada pekerjaan yang diambil alih diam-diam. |
+
+## Penggunaan AI
+
+- **Alat dan peran AI:** Claude, untuk membantu menyusun struktur jurnal sesuai contoh Minggu 2, memberi contoh pemisahan *fact* dan *story*, serta merapikan kode Quarto.
+- **Prompt atau instruksi penting:** Meminta bantuan menyesuaikan template Intra-Self Journal dengan episode tim lomba dari portofolio Minggu 1, mengikuti format contoh yang diberikan dosen.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Struktur tabel lapisan dan alternative narratives saya gunakan. Skala emosi, sinyal tubuh, dan dialog batin saya sesuaikan dengan yang benar-benar saya rasakan saat itu.
+- **Pemeriksaan accuracy, privacy, dan authority:** Episode berasal dari pengalaman nyata. Nama anggota ditulis dengan inisial, dan screenshot disamarkan sebelum diunggah. Saya tidak memasukkan identitas anggota tim ke AI.
+- **Apa yang tetap saya pelajari sebagai manusia:** Mengenali sinyal tubuh dan emosi saya sendiri, memilih untuk berhenti sejenak sebelum bertindak, dan memutuskan sendiri *response* yang lebih sehat.
+
+## Feedback dan tindak lanjut
+
+**Feedback yang diterima:** Dalam diskusi, salah satu rekan tim menyampaikan bahwa ia menunggu kejelasan pembagian tugas dari saya. Masukan ini menunjukkan bahwa *story* awal saya ("mereka tidak peduli") tidak didukung fakta.
+
+**Adaptation/replay:** Setelah memisahkan *fact* dan *story*, saya tidak mengerjakan bagian anggota secara diam-diam, tetapi mengajak tim berdiskusi. Responsnya, anggota menyampaikan kendala mereka dan tugas terbagi ulang dengan tenggat yang realistis.
+
+**Next practice:** Setiap kali muncul dorongan untuk mengambil alih pekerjaan orang lain, saya akan menulis tiga kolom (*fact*, *story*, *next question*) selama 5 menit sebelum bertindak, lalu mengirim satu pertanyaan kepada pihak terkait.
+
+## Self-assessment
+
+| Dimensi | Skor 1–4 | Evidence singkat |
+|---|---:|---|
+| Person & Character | 3 | Dua *internal character* dibedakan dan dikaitkan dengan pola dari Lembar Kerja Bab 01 tanpa dijadikan identitas tetap |
+| Objective & State | 3 | *Reaction* dan *desired response* jelas; emosi dinamai dengan skala |
+| Repertoire, Language & AI | 3 | Pemisahan *fact*/*story*, jeda, dan dialog batin digunakan; batas AI dinyatakan |
+| Response & Adaptation | 3 | Alternatif *information gap* dan respons rekan mengubah rencana dari mengerjakan sendiri menjadi berdiskusi |
+| Agreement, Action & Relationship | 3 | *Internal agreement* menghasilkan pesan ajakan diskusi dan pembagian ulang tugas |
+
+**Total:** 15 / 20
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
+
