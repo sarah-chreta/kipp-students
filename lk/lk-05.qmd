@@ -30,6 +30,7 @@ Sebelum melakukan wawancara selama 15–20 menit dengan narasumber (rekan kerja,
 
 ### 💡 Repertoar Pertanyaan Profesional Tambahan:
 Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan berikut secara proporsional:
+
 *   **Pertanyaan Tertutup (Memastikan fakta):** *"Apakah laporan ini dikirimkan setiap hari Senin?"*
 *   **Pertanyaan Klarifikasi (Memeriksa istilah):** *"Apa yang Ibu maksud dengan sistem yang 'siap digunakan'?"*
 *   **Pertanyaan Dampak (Memahami akibat):** *"Siapa saja yang akan terhambat jika data ini terlambat Anda terima?"*
@@ -42,10 +43,12 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 ## 📝 FASE 2: LEMBAR PENGERJAAN MAHASISWA
 
 ### 👥 1. Profil Narasumber (Disamarkan Demi Privasi)
-*   **Nama Samaran:** 
-*   **Peran/Pekerjaan Nyata:** 
-*   **Domain Hubungan:** Rekan Kerja / Pelanggan / Rekan Mahasiswa *(Coret yang tidak perlu)*
-*   **Konteks Lingkungan:** *(Misal: Kantin Kampus, Kelompok Proyek Kelas, Administrasi Jurusan)*
+*   **Nama Samaran:** Mitra A
+*   **Peran/Pekerjaan Nyata:** Mahasiswa yang pernah menjadi *project manager* Tugas Besar pembuatan *visual novel game* dalam tim multidisiplin
+*   **Domain Hubungan:** ~~Rekan Kerja~~ / ~~Pelanggan~~ / **Rekan Mahasiswa**
+*   **Konteks Lingkungan:** Kelompok proyek Tugas Besar mata kuliah. Wawancara dilakukan dalam bentuk simulasi atas izin dosen, berdasarkan pengalaman Mitra A pada Lembar Kerja Bab 03 dan dengan persetujuan Mitra A untuk menggunakan ceritanya.
+
+**Asumsi awal saya sebelum wawancara:** Masalah utamanya adalah anggota kelompok yang malas, sehingga yang dibutuhkan adalah alat untuk memantau dan menagih progres setiap anggota.
 
 ---
 
@@ -53,23 +56,33 @@ Jika narasumber mengalami kebuntuan selama wawancara, gunakan jenis pertanyaan b
 
 #### **Pertanyaan 1: Kejadian Nyata & Contoh Konkret**
 *   *Tuliskan pertanyaan Anda & contoh kasus nyata yang diceritakan narasumber:*
-    > 
+    > **Pertanyaan:** "Coba ceritakan satu kejadian konkret waktu ada anggota yang kurang berkontribusi. Waktu itu apa yang terjadi?"
+    >
+    > **Jawaban:** Mendekati tenggat pengumpulan, Mitra A baru mengetahui bahwa beberapa aset dan bagian naskah belum dikerjakan. Selama beberapa minggu, progres hanya dilaporkan secara lisan ("aman, lagi dikerjain"), sehingga ia baru sadar ada yang tertinggal ketika semua bagian harus digabungkan. Akhirnya ia ikut mengerjakan bagian anggota tersebut agar game tetap bisa dikumpulkan.
 
 #### **Pertanyaan 2: Dampak Nyata & Beban Masalah**
 *   *Tuliskan dampak langsung dari masalah tersebut terhadap pekerjaan, waktu, atau perasaan mereka:*
-    > 
+    > **Pertanyaan:** "Dampaknya ke kamu apa, misalnya ke waktu, nilai, atau perasaanmu?"
+    >
+    > **Jawaban:** Mitra A harus begadang beberapa malam menjelang tenggat, sehingga tugas mata kuliah lainnya ikut tertunda. Ia merasa lelah dan kesal, tetapi juga merasa bersalah karena menganggap dirinya sebagai PM seharusnya bisa mencegah hal itu. Kualitas beberapa bagian game juga menurun karena dikerjakan terburu-buru.
 
 #### **Pertanyaan 3: Pemetaan Pihak Terdampak**
 *   *Siapa saja pribadi dan peran yang ikut terganggu oleh peristiwa ini?*
-    > 
+    > **Pertanyaan:** "Selain kamu, siapa lagi yang kena dampaknya?"
+    >
+    > **Jawaban:** Selain Mitra A sebagai PM, anggota yang sudah menyelesaikan bagiannya ikut terdampak karena harus menunggu integrasi dan merasa kontribusinya tidak sebanding dengan anggota lain. Programmer yang bertugas menggabungkan semua bagian juga tertekan karena waktu integrasi menjadi sangat sempit. Nilai kelompok sebagai hasil bersama ikut dipertaruhkan.
 
 #### **Pertanyaan 4: Gambaran Keadaan yang Lebih Baik (Hasil Akhir, Bukan Fitur)**
 *   *Bagaimana situasi ideal yang diharapkan? Ingat: Fokus pada KEMAMPUAN narasumber, bukan teknologi digitalnya.*
-    > 
+    > **Pertanyaan:** "Kalau suatu saat kamu jadi PM lagi, keadaan ideal yang kamu harapkan itu seperti apa?"
+    >
+    > **Jawaban:** Mitra A ingin bisa mengetahui lebih awal, jauh sebelum tenggat, bagian mana yang tertinggal. Ia juga ingin setiap anggota tahu persis batas tugasnya sejak awal, dan bisa mengingatkan anggota yang tertinggal tanpa membuat hubungan pertemanan menjadi canggung.
 
 #### **Pertanyaan 5: Batasan & Kendala Lapangan**
 *   *Apa saja kendala nyata dari segi waktu, biaya, kebijakan, atau kemampuan yang membatasi solusi mereka?*
-    > 
+    > **Pertanyaan:** "Apa yang bikin masalah ini susah diatasi?"
+    >
+    > **Jawaban:** Semua anggota adalah teman sebaya, sehingga PM tidak punya otoritas formal dan merasa sungkan menegur. Setiap anggota juga punya jadwal kuliah dan praktikum yang padat. Tim tidak mau menambah alat atau aplikasi baru yang ribet karena sudah terbiasa berkoordinasi lewat grup chat, dan tidak ada anggaran untuk alat berbayar.
 
 ---
 
@@ -87,33 +100,34 @@ Gunakan formula terstruktur dari buku ajar berikut untuk menyusun masalah narasu
 
 ### ✍️ Draft 1: Pernyataan Masalah Awal (Sebelum Konfirmasi)
 *Susun draf pertama Anda setelah selesai mewawancarai narasumber:*
-> 
+
+> *Project manager* Tugas Besar mengalami anggota kelompok yang malas dan tidak mengerjakan bagiannya ketika proyek mendekati tenggat, sehingga PM harus mengerjakan bagian anggota tersebut. Ia membutuhkan cara untuk memantau dan menagih progres setiap anggota, dengan mempertimbangkan jadwal kuliah anggota yang padat.
 
 ### 🔄 Draft 2: Pernyataan Masalah Terkonfirmasi (Setelah Konfirmasi)
 *Bacakan draf pertama Anda kepada narasumber, minta masukan mereka ("Apakah rumusan ini menggambarkan situasi Anda?"), dan tulis perbaikannya di bawah ini berdasarkan koreksi narasumber:*
-> 
+
+**Koreksi narasumber:** Mitra A tidak setuju dengan kata "malas", karena sebagian anggota sebenarnya tidak tahu persis batas tugasnya. Menurutnya, masalahnya juga bukan sekadar "menagih", tetapi bagaimana mengetahui keterlambatan lebih awal dan mengingatkan teman tanpa merusak hubungan.
+
+> *Project manager* Tugas Besar dalam tim mahasiswa sebaya mengalami **keterlambatan bagian anggota yang baru diketahui menjelang tenggat** ketika **progres hanya dilaporkan secara lisan dan batas tugas setiap anggota tidak dirumuskan secara jelas sejak awal**, sehingga **PM harus mengambil alih pekerjaan anggota, kelelahan, dan kualitas hasil proyek menurun**. Ia membutuhkan **kemampuan mengetahui bagian yang tertinggal lebih awal dan menyampaikan pengingat kepada anggota tanpa merusak hubungan pertemanan**, dengan mempertimbangkan **tidak adanya otoritas formal antar-teman sebaya, jadwal akademik anggota yang padat, kebiasaan tim berkoordinasi melalui grup chat, dan tidak adanya anggaran**.
 
 ---
 
 ## 🎯 FASE 4: REFLEKSI INTRAPRIBADI
-Tuliskan refleksi singkat Anda (100–150 kata) mengenai proses wawancara ini:
-1. *Seberapa cepat Anda menahan ego untuk tidak langsung menawarkan solusi teknologi di awal percakapan?*
-2. *Asumsi awal apa yang Anda miliki yang ternyata terbukti keliru atau berubah setelah mendengarkan penjelasan narasumber secara utuh?*
-3. *Janji atau langkah kecil apa yang harus segera Anda tepati untuk menjaga kepercayaan profesional dengan narasumber ini?*
 
 > **Jurnal Refleksi:**
-> 
+> Saya menyadari bahwa draf pertama saya langsung memuat label "anggota yang malas" dan solusi terselubung "memantau dan menagih progres". Pola ini sama dengan yang saya alami di Lembar Kerja Bab 03, ketika saya bertanya "kenapa tidak lapor ke dosen saja?". Saya cenderung cepat menyimpulkan penyebab dan menyiapkan solusi. Asumsi awal saya keliru: masalah utamanya bukan kemalasan, melainkan batas tugas yang tidak jelas dan progres yang baru terlihat di akhir. Selain itu, ada aspek relasi yang tidak saya pikirkan, yaitu rasa sungkan menegur teman sebaya. Karena wawancara ini berbentuk simulasi, pembelajaran saya masih perlu diuji dalam wawancara nyata. Langkah kecil yang akan saya tepati adalah mengirimkan rumusan masalah akhir kepada Mitra A paling lambat 4 Oktober 2026, lalu menanyakan apakah rumusan itu sesuai dengan pengalamannya.
 
 ---
 
 ## 📊 FASE 5: RUBRIK PENILAIAN MANDIRI (SELF-ASSESSMENT)
-Evaluasi lembar kerja Anda secara jujur menggunakan kriteria rubrik Bab 5 berikut sebelum dikumpulkan ke dalam portofolio Anda.
 
 | Kriteria Evaluasi | ⭐ Belum Tampak (Skor < 60) | ⭐⭐ Mulai Berkembang (Skor 60-79) | ⭐⭐⭐ Cakap / Unggul (Skor 80-100) | Skor Mandiri |
 | :--- | :--- | :--- | :--- | :--- |
-| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | |
-| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | |
-| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | |
-| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | |
+| **Kualitas Mendengarkan** | Langsung menyodorkan solusi tanpa menanyakan konteks atau mengonfirmasi masalah. | Menangkap isi masalah secara umum, namun melompati kendala atau pihak yang terdampak. | Menangkap konteks kejadian, dampak emosional/finansial, kebutuhan riil, serta kendala lapangan secara utuh. | ⭐⭐⭐ 80 |
+| **Ketepatan Rumusan Masalah** | Rumusan masalah masih berupa usulan solusi teknis (misal: "Memerlukan aplikasi database"). | Berpusat pada masalah, namun bahasanya masih kabur atau belum dikonfirmasi ke narasumber. | Berpusat pada pribadi, menggunakan fakta teramati, terikat konteks yang jelas, bebas solusi, dan telah terkonfirmasi. | ⭐⭐ 75 |
+| **Etika & Penjagaan Privasi** | Data pribadi dikumpulkan berlebihan, tidak meminta izin narasumber, atau memaksa narasumber. | Meminta izin umum, namun belum menyamarkan identitas atau kurang peka pada data sensitif. | Persetujuan diperoleh secara sukarela, privasi dijaga ketat dengan samaran, dan martabat narasumber sangat dihormati. | ⭐⭐⭐ 85 |
+| **Keandalan & Hubungan** | Memberikan janji manis berlebihan atau kepastian palsu yang tidak masuk akal demi menyenangkan narasumber. | Menyatakan batas secara umum namun tindak lanjutnya masih mengambang. | Jujur menyatakan batas kemampuan serta memberikan kejelasan langkah dan waktu tindak lanjut berikutnya. | ⭐⭐⭐ 80 |
+
+**Catatan skor:** Ketepatan rumusan masalah diberi 75 karena Draft 2 belum dikonfirmasi langsung oleh narasumber di luar simulasi. Keterbatasan ini dinyatakan secara jujur, dan tindak lanjut untuk mengonfirmasinya sudah dijadwalkan.
 
 *Simpan lembar kerja ini, catatan log wawancara, dan rekaman (jika ada izin) sebagai **Artefak Portofolio Bab 5** Anda.*
