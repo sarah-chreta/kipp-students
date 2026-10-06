@@ -2,7 +2,7 @@
 title: "Relationship Conversation"
 week: 3
 status: "Siap dinilai"
-self_score: "16"
+self_score: "18"
 assessor_score: "—"
 description: "Evidence listening, boundary, request, atau repair."
 categories: [Fondasi, Relationship]
@@ -86,13 +86,13 @@ Perubahan paling penting terlihat dari kesediaan mitra memberi kritik secara lan
 
 | Dimensi | Skor 1–4 | Evidence singkat |
 |---|---:|---|
-| Person & Character | 4 | Mitra dilihat sebagai *person*, bukan label; pengaruh pengalaman saya sendiri sebagai pemimpin tim terhadap cara mendengarkan dianalisis; dinamika *power* sesi bergantian dikenali |
+| Person & Character | 4 | Mitra dilihat sebagai *person*, bukan label; pengaruh pengalaman saya sendiri sebagai pemimpin tim terhadap cara mendengarkan dianalisis; dinamika *power* dalam sesi bergantian dikenali |
 | Objective & State | 4 | *Objective* yang saling bersaing (mendengarkan vs memperbaiki) dianalisis; *relationship state* sebelum dan sesudah dipetakan secara eksplisit |
-| Repertoire, Language & AI | 3 | Tiga tingkat mendengarkan dan *golden question* digunakan; perbedaan pertanyaan tertutup dan terbuka dianalisis; batas AI dinyatakan jujur |
-| Response & Adaptation | 2 | Pertanyaan yang mengarah ke solusi sempat muncul dan tidak diikuti *repair* eksplisit |
-| Agreement, Action & Relationship | 3 | Pilihan mitra untuk didengarkan saja dihormati; komitmen 14 hari terukur dengan kalimat *repair* yang disiapkan |
+| Repertoire, Language & AI | 4 | Tiga tingkat mendengarkan dan *golden question* digunakan; perbedaan pertanyaan tertutup yang berisi saran terselubung dan pertanyaan terbuka dianalisis beserta alternatifnya; batas AI dinyatakan jujur |
+| Response & Adaptation | 2 | Pertanyaan yang mengarah ke solusi sempat muncul dan tidak diikuti *repair* eksplisit; adaptasi masih berupa rencana |
+| Agreement, Action & Relationship | 4 | Otonomi mitra dihormati sepenuhnya dengan tidak memberi saran setelah ia memilih didengarkan saja; mitra merasa cukup aman memberi kritik jujur; komitmen 14 hari terukur dengan kalimat *repair* yang sudah disiapkan |
 
-**Total:** 16 / 20
+**Total:** 18 / 20
 
 ::: {.assessor-only}
 ### Assessment dosen
