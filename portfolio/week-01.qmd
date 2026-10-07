@@ -53,26 +53,41 @@ Sebagai **sahabat pendengar**, saya akan berkata, "Kamu mau didengarkan dulu, di
 
 **Tanggal dan setting:** Agustus–September 2026, selama pengerjaan proyek NUSATANI untuk GEMASTIK XIX kategori desain UX. Rangkaian kegiatan meliputi observasi lapangan di area persawahan (7 Agustus 2026) dan wawancara daring dengan narasumber riset pengguna (9 Agustus 2026). Diskusi tim tentang kemunduran *timeline* terjadi setelah tahap riset tersebut, ketika progres pengembangan desain mulai melambat. Pola komunikasi yang sama kemudian saya terapkan kembali pada tahap Laporan Akhir GEMASTIK XIX melalui grup chat tim.
 
-**Persons dan relationship:** Saya sebagai Team Leader tim BURU-BURU bersama dua rekan satu tim (F. dan satu rekan lainnya). Kami adalah teman sesama mahasiswa ITB yang dalam proyek ini memiliki relasi kerja sebagai ketua dan anggota tim. Nama narasumber tidak dicantumkan untuk menjaga privasi.
+**Persons dan relationship:** Saya sebagai Team Leader tim BURU-BURU bersama dua rekan satu tim (F. dan M.). Kami adalah teman sesama mahasiswa ITB yang dalam proyek ini memiliki relasi kerja sebagai ketua dan anggota tim. Nama narasumber tidak dicantumkan untuk menjaga privasi.
 
 **Objective dan initial state:** *State* awal: setelah tahap riset lapangan dan wawancara pada awal Agustus, progres tim melambat karena setiap anggota sibuk dengan perkuliahan dan kegiatan lain. Beberapa *milestone* internal terlewat, komunikasi di grup menjadi jarang, dan sejumlah bagian baru dikerjakan mendekati tenggat. *State* yang ingin dicapai: komunikasi tim kembali terbuka, kapasitas setiap anggota diketahui, dan tugas tersisa terbagi dengan tenggat yang realistis tanpa saya menanggung semuanya sendiri.
 
 ## Evidence
 
 ::: {.evidence-block}
-**1. Percakapan asli di grup tim (tahap Laporan Akhir GEMASTIK XIX):**
+**1. Percakapan asli di grup tim (tahap Laporan Akhir GEMASTIK XIX)**
 
 ![Pesan saya di grup "Laporan Akhir Gemastik XIX": membagikan draf timeline final dan mengajak tim menyesuaikannya bersama. Tautan dokumen tim disamarkan.](images/IMG_6093.JPG)
 
-Pada pesan ini, saya membagikan draf *timeline* final (PDF dan tab "timeline" di spreadsheet tim) dengan kalimat: *"guyss coba cek timelinenya tapi ini masi kasarr soalnya mau nyesuaiin lagi sama apa aja yang kita mau lakuin, trus iterasinya mau kapan aja."*
+**Transkrip tangkapan layar (grup "Laporan Akhir Gemastik XIX"):**
 
-Pesan ini menunjukkan penerapan nyata dari pelajaran episode sebelumnya. Saya tidak menetapkan jadwal secara sepihak, tetapi menyebutnya sebagai draf "masih kasar" dan secara eksplisit mengundang tim untuk menyesuaikan isi pekerjaan serta jadwal iterasi bersama. Jadwal juga dibuat tertulis dan dapat diakses semua anggota, sehingga pembagian tugas tidak lagi bergantung pada laporan lisan.
+> **Saya (12.53):** "okee"  
+> **Saya (13.31):** *(membagikan file "Timeline_Final_GEMASTIK_UX.xlsx - Timeline.pdf", berisi kalender kegiatan September–November)*  
+> **Saya (13.31):** "guyss coba cek timelinenya tapi ini masi kasarr soalnya mau nyesuaiin lagi sama apa aja yang kita mau lakuin, trus iterasinya mau kapan aja"  
+> **Saya (13.31):** "gw dah taro juga di tab"  
+> **Saya (13.31):** *(tautan spreadsheet tim, disamarkan)*  
+> **Saya (13.31):** "di tab timeline"
 
-**2. Dokumentasi tahap riset sebelum *timeline* mundur:**
+**Apa yang ditunjukkan oleh bukti ini.** Pada pukul 13.31, saya membagikan draf *timeline* Laporan Akhir dalam dua bentuk, yaitu file PDF di grup dan tab "timeline" di spreadsheet tim, sehingga semua anggota dapat mengaksesnya kapan saja. Saya tidak menyebut jadwal itu sebagai keputusan final, tetapi sebagai draf yang "masih kasar", lalu mengajak tim menyesuaikan dua hal: pekerjaan apa saja yang mau dilakukan dan kapan jadwal iterasinya.
+
+**Hubungannya dengan episode.** Pesan ini adalah penerapan nyata dari pelajaran episode sebelumnya. Dulu, keterlambatan terjadi karena batas tugas tidak jelas dan progres hanya dilaporkan secara lisan. Kali ini, jadwal dibuat tertulis dan terbuka sejak awal, dan keputusan akhirnya diserahkan kepada tim, bukan ditetapkan sepihak oleh saya sebagai ketua.
+
+**2. Dokumentasi tahap riset sebelum *timeline* mundur**
 
 ![Observasi lapangan tim di area persawahan, 7 Agustus 2026](images/PHOTO-2026-08-07-15-37-33.jpg)
 
+**Deskripsi foto:** Foto diambil pada 7 Agustus 2026 saat tim BURU-BURU melakukan observasi lapangan di area persawahan. Foto menampilkan tiga anggota tim dengan jaket almamater di tengah sawah. Observasi ini merupakan bagian dari riset pengguna proyek NUSATANI untuk memahami kondisi nyata petani.
+
 ![Wawancara daring dengan narasumber riset pengguna, 9 Agustus 2026](images/PHOTO-2026-08-09-13-54-39.jpg)
+
+**Deskripsi foto:** Tangkapan layar ini diambil pada 9 Agustus 2026 saat wawancara daring melalui Zoom dengan narasumber riset pengguna. Terlihat tiga peserta panggilan: narasumber, saya, dan satu rekan tim. Wawancara ini menjadi bahan utama dalam merumuskan kebutuhan pengguna NUSATANI.
+
+**Apa yang ditunjukkan oleh kedua dokumentasi ini.** Kedua dokumentasi menunjukkan bahwa tim bekerja aktif dan terkoordinasi pada tahap riset di awal Agustus. Ini menjadi konteks penting bagi episode: kemunduran *timeline* terjadi setelah tahap riset ini, ketika pekerjaan bergeser ke pengembangan desain dan beban akademik anggota meningkat.
 
 Kontribusi saya sebagai Team Leader: mengoordinasikan jadwal observasi dan wawancara, memimpin diskusi tim, menginisiasi pembagian ulang tugas ketika *timeline* mundur, serta menyusun dan membagikan draf *timeline* Laporan Akhir untuk disesuaikan bersama. Nama, wajah pihak lain, dan tautan dokumen tim pada gambar telah disamarkan.
 :::
@@ -90,9 +105,9 @@ Kontribusi saya sebagai Team Leader: mengoordinasikan jadwal observasi dan wawan
 
 ## Penggunaan AI
 
-- **Alat dan peran AI:** Claude, untuk membantu menyusun struktur portofolio, merapikan kode Quarto, memberi draf kalimat pada tabel character berdasarkan Lembar Kerja Bab 01, serta menyusun ulang episode dan analisis dari cerita yang saya sampaikan.
-- **Prompt atau instruksi penting:** Meminta bantuan mengisi template portofolio Character Map, menyesuaikannya dengan Lembar Kerja Bab 01, menyusun episode dari pengalaman saya saat *timeline* tim lomba mundur, dan merevisi portofolio berdasarkan feedback dosen dengan menambahkan bukti percakapan asli.
-- **Bagian output yang digunakan, diubah, atau ditolak:** Dialog pada episode adalah rekonstruksi berdasarkan ingatan saya, bukan transkrip kata per kata. Karena itu, saya menambahkan tangkapan layar percakapan asli dari grup tim sebagai evidence yang dapat diverifikasi. Draf awal AI menuliskan peran saya sebagai "lead AI dan website", lalu saya ubah menjadi CTO Neurova sesuai Lembar Kerja Bab 01, dan baris *Community* saya ganti menjadi Team Leader tim lomba agar sesuai dengan episode.
+- **Alat dan peran AI:** Claude, untuk membantu menyusun struktur portofolio, merapikan kode Quarto, memberi draf kalimat pada tabel character berdasarkan Lembar Kerja Bab 01, menyalin transkrip dan deskripsi bukti, serta menyusun ulang episode dan analisis dari cerita yang saya sampaikan.
+- **Prompt atau instruksi penting:** Meminta bantuan mengisi template portofolio Character Map, menyesuaikannya dengan Lembar Kerja Bab 01, menyusun episode dari pengalaman saya saat *timeline* tim lomba mundur, dan merevisi portofolio berdasarkan feedback dosen dengan menambahkan bukti percakapan asli beserta transkrip tertulisnya.
+- **Bagian output yang digunakan, diubah, atau ditolak:** Dialog pada episode adalah rekonstruksi berdasarkan ingatan saya, bukan transkrip kata per kata. Karena itu, saya menambahkan tangkapan layar percakapan asli dari grup tim beserta transkripnya sebagai evidence yang dapat diverifikasi. Draf awal AI menuliskan peran saya sebagai "lead AI dan website", lalu saya ubah menjadi CTO Neurova sesuai Lembar Kerja Bab 01, dan baris *Community* saya ganti menjadi Team Leader tim lomba agar sesuai dengan episode.
 - **Pemeriksaan accuracy, privacy, dan authority:** Peran dan kecenderungan diambil dari refleksi saya di Lembar Kerja Bab 01. Episode berasal dari pengalaman nyata dan didukung dokumentasi serta tangkapan layar percakapan tim. Nama rekan ditulis dengan inisial, dan tautan dokumen tim disamarkan.
 - **Apa yang tetap saya pelajari sebagai manusia:** Menyadari kecenderungan saya menanggung semuanya sendiri, memilih kata saat membuka diri kepada tim, dan menilai sendiri apakah hubungan tim benar-benar membaik.
 
@@ -100,7 +115,7 @@ Kontribusi saya sebagai Team Leader: mengoordinasikan jadwal observasi dan wawan
 
 **Feedback yang diterima:** Menurut J., teman yang cukup sering berinteraksi dengan saya, saya sekarang jauh lebih terbuka dan lebih berani menyampaikan apa yang saya inginkan, apa yang tidak saya sukai, serta hal-hal yang membuat saya tidak nyaman. Dari penilaian dosen, evidence episode sebelumnya dinilai masih berupa rekonstruksi ingatan sehingga perlu dilengkapi bukti percakapan asli.
 
-**Adaptation/replay:** Dalam episode awal, saya tidak lagi diam-diam mengambil alih pekerjaan anggota, tetapi membuka diskusi dan menyepakati pembagian ulang yang lebih realistis. Pola ini saya terapkan kembali pada tahap Laporan Akhir GEMASTIK XIX: saya membagikan draf *timeline* tertulis dan secara eksplisit mengajak tim menyesuaikan isi pekerjaan serta jadwal iterasi bersama. Percakapan ini terdokumentasi dalam tangkapan layar asli di bagian Evidence.
+**Adaptation/replay:** Dalam episode awal, saya tidak lagi diam-diam mengambil alih pekerjaan anggota, tetapi membuka diskusi dan menyepakati pembagian ulang yang lebih realistis. Pola ini saya terapkan kembali pada tahap Laporan Akhir GEMASTIK XIX: saya membagikan draf *timeline* tertulis dan secara eksplisit mengajak tim menyesuaikan isi pekerjaan serta jadwal iterasi bersama. Percakapan ini terdokumentasi dalam tangkapan layar asli beserta transkrip tertulisnya di bagian Evidence.
 
 **Next practice:** Selama 4–6 minggu ke depan, saya akan meluangkan setidaknya 15 menit setiap minggu untuk merefleksikan hal yang membuat saya lelah atau kewalahan, lalu menyampaikan setidaknya satu hal tersebut kepada orang yang saya percaya. Sebagai ketua tim, saya juga akan membuka *check-in* kapasitas anggota setiap minggu dan mendokumentasikan kesepakatan pembagian tugas secara tertulis di grup.
 
@@ -110,7 +125,7 @@ Kontribusi saya sebagai Team Leader: mengoordinasikan jadwal observasi dan wawan
 |---|---:|---|
 | Person & Character | 4 | Lima character dipetakan; pergeseran *power* ketua saat membuka diri dianalisis eksplisit |
 | Objective & State | 4 | *State* awal dan akhir jelas; *objective* yang saling bersaing (target lomba vs beban akademik anggota, kecenderungan memendam vs tuntutan terbuka) dianalisis |
-| Repertoire, Language & AI | 4 | Perubahan *language* didukung kutipan pesan asli di grup tim ("masih kasar", "mau nyesuaiin lagi"); penggunaan AI, batasnya, dan bagian yang diubah dinyatakan secara transparan |
+| Repertoire, Language & AI | 4 | Perubahan *language* didukung kutipan dan transkrip pesan asli di grup tim ("masih kasar", "mau nyesuaiin lagi"); penggunaan AI, batasnya, dan bagian yang diubah dinyatakan secara transparan |
 | Response & Adaptation | 4 | Adaptasi berlapis: informasi anggota mengubah pembagian kerja, pola tersebut diterapkan ulang sebagai *timeline* tertulis yang terbukti lewat pesan asli, dan portofolio direvisi sesuai feedback dosen dengan menambahkan evidence yang dapat diverifikasi |
 | Agreement, Action & Relationship | 3 | Pembagian tugas dan *timeline* bersama terdokumentasi; respons tim atas draf *timeline* belum dilampirkan |
 
