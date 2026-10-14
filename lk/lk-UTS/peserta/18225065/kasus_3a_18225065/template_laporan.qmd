@@ -1,0 +1,135 @@
+---
+title: "Laporan UTS KIPP 2026 — Versi 2.0"
+subtitle: "Sesi 3a — Kasus 3"
+lang: id
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+<!-- TEMPLATE BELUM TERISI. Nama akhir: hasil_3a_18225065.qmd. Isi hanya dari percakapan aktual; tepat empat bagian utama. -->
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Sarah Christine R. Tambunan |
+| NIM | 18225065 |
+| Kelas dan tanggal | [Belum diberikan] |
+| Nomor/judul kasus | Sesi 3a; Kasus 3 |
+| Nama dan ID target | Ali (K3-01) |
+| Versi bank/aturan penugasan | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Modalitas | [Teks/suara; sebutkan sumber transkripsi] |
+| Kasus nyata/fiktif | [Nyatakan] |
+| Kelengkapan transkrip | [Lengkap/parsial beserta bagian hilang] |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+[Brief kasus, konteks, respons akhir yang diharapkan, indikator keberhasilan.]
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti | Tingkat kepastian |
+|---|---|---|---|
+| SWOT subjektif | [Peluang, ancaman, mampu, belum mampu] | [ID giliran] | [Sementara] |
+| Attitude | [Nilai, sikap, keyakinan] | [ID] | [Sementara] |
+| Knowledge | [Pemahaman dan gap] | [ID] | [Sementara] |
+| Skill | [Kemampuan dan gap] | [ID] | [Sementara] |
+| Preferensi/MBTI jika dilaporkan | [Jangan diagnosis] | [ID] | [Laporan diri/hipotesis] |
+| Karakter, peran, kultur/ko-kultur | [Norma spesifik] | [ID] | [Sementara] |
+
+## Dugaan awal profil target dan rencana
+
+[Catat sebelum pengungkapan profil; untuk kasus 1 diri mahasiswa adalah target utama dan tokoh fiktif hanya pembanding. Pisahkan fakta, dugaan, dan pertanyaan validasi.]
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | [Sasaran/tujuan] | [Diagnosis] | [Pertanyaan] | [Indikator] |
+| Attention | [Status] | [ASK] | [Stimulus] | [Indikator] |
+| Interest | [Status] | [ASK] | [Stimulus] | [Indikator] |
+| Desire | [Status] | [ASK] | [Stimulus] | [Indikator] |
+| Action | [Status] | [ASK] | [Stimulus] | [Indikator] |
+
+# C) Skrip Percakapan
+
+**Transkrip aktual, bukan dialog karangan.** [Belum ada sesi.]
+
+<!-- Salin seluruh pesan sejak identifikasi sampai konfirmasi, bernomor U001/AI001 dst. Tandai tahap: identifikasi, rencana, simulasi awal, evaluasi, uji ulang, refleksi, konfirmasi. Jangan mengubah kutipan. -->
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+[Tujuan tercapai/sebagian/belum; bukti respons; bedakan komitmen dari tindakan di luar sesi.]
+
+| Unsur | Awal | Akhir | Bukti giliran | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | [Awal] | [Akhir] | [ID/kutipan] | [Laporan diri/simulasi/interpretasi] |
+| Attitude | [Awal] | [Akhir] | [ID] | [Batas] |
+| Knowledge | [Awal] | [Akhir] | [ID] | [Batas] |
+| Skill | [Awal] | [Demonstrasi uji ulang] | [ID] | [Bukan sekadar niat] |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| [ID] | [Bukti] | [Kutipan] | [Kutipan] | [Interpretasi] | [Tindak lanjut] |
+
+[Bandingkan dugaan mahasiswa sebelum pengungkapan dengan profil tokoh yang diperankan; jangan mengubah dugaan awal setelah mengetahui profil.]
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| [ID] | [Kutipan spesifik] | [Kutipan] | [Awal → akhir; bukti] | [Jangan menyimpulkan persetujuan otomatis] |
+
+[Bedakan ungkapan hangat, bantuan konkret, konsistensi dan penghormatan pilihan. Ketulusan dinilai melalui indikator perilaku, bukan motif batin. Refleksi mahasiswa menjelaskan bagaimana ia menjaga persahabatan/kepedulian sekaligus tujuan dan tanggung jawab.]
+
+## Uji ulang dan pembelajaran
+
+[Stimulus sejenis, respons awal vs uji ulang, indikator perbaikan, transfer dan keterbatasan. Jika tidak ada, nyatakan belum teramati.]
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | BT | — | Belum dilakukan |
+| Persepsi dan validasi profil/status | BT | — | Belum dilakukan |
+| Pemilihan dan urutan repertoar | BT | — | Belum dilakukan |
+| Eksekusi jelas, peduli dan konsisten | BT | — | Belum dilakukan |
+| Evaluasi dan adaptasi | BT | — | Belum dilakukan |
+| Refleksi dan lesson learned | BT | — | Belum dilakukan |
+
+[Nilai usulan AI = jumlah skor / 24 × 100 hanya jika semua teramati. Memerlukan moderasi dosen. Hasil tujuan terpisah dari nilai proses.]
+
+## Refleksi dan lesson learned mahasiswa
+
+[Jawaban mahasiswa: dugaan yang dikoreksi, stimulus efektif/tidak efektif dan bukti, perubahan ASK dirinya, pengaruh preferensi/peran/budaya, pelajaran yang diterapkan berikutnya. AI hanya merapikan setelah konfirmasi.]
+
+## Tindak lanjut dan batas bukti
+
+[Langkah, waktu, dukungan, indikator dan cara evaluasi. Bedakan rencana dan pelaksanaan. Teks tidak menilai prosodi/tubuh; perilaku chatbot merupakan simulasi; perubahan jangka panjang belum dibuktikan.]
+
+## Bobot dan nilai akhir UTS
+
+| Komponen | Bobot | Nilai komponen |
+|---|---:|---|
+| Makalah pra-UTS (`paper.qmd`) | 10% | Nilai dosen pada skala 0–100 |
+| Sesi 1 | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 2b | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3a | 18% | Jumlah enam skor / 24 × 100 |
+| Sesi 3b | 18% | Jumlah enam skor / 24 × 100 |
+| **Total** | **100%** | |
+
+**Nilai akhir UTS = 0,10 × M + 0,18 × (S1 + S2a + S2b + S3a + S3b)**, dengan seluruh nilai komponen pada skala 0–100. Bobot ini berlaku di dalam nilai UTS.
+
+Nilai sesi hanya dihitung jika keenam skor sah tersedia. BT berarti belum dapat ditetapkan, bukan nol; komponen yang belum tersedia atau belum dapat dinilai tidak dianggap nol dan bobotnya tidak dinormalisasi ulang. Nilai akhir ditulis **Belum dihitung** sampai nilai makalah dan kelima sesi tersedia.
+
+Rata-rata sesi 2a/2b dan 3a/3b boleh ditampilkan sebagai ringkasan Kasus 2 dan 3. Kontribusi Kasus 1 adalah 18%, Kasus 2 adalah 36%, dan Kasus 3 adalah 36%; ringkasan kasus tidak dihitung lagi sebagai komponen tambahan.
+
+Rubrik makalah belum ditetapkan dalam dokumen ini. Gunakan nilai makalah dari dosen atau rubrik makalah resmi bila tersedia; jangan menerapkan rubrik performance enam dimensi pada makalah atau mengarang skor. Semua usulan skor AI memerlukan moderasi dosen.

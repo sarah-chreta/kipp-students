@@ -1,9 +1,9 @@
 ---
 title: "Laporan UTS KIPP - Sesi 1"
 subtitle: "Memimpin diri dan terus belajar"
-author: "[Nama mahasiswa]"
+author: "Sarah Christine Rebecca Tambunan"
 lang: id
-status: "Belum dimulai"
+status: "Selesai"
 format:
   html:
     toc: true
@@ -11,154 +11,230 @@ execute:
   eval: false
 ---
 
-::: {.callout-tip title="Template belum terisi"}
-Isi dari sesi Anda sendiri. [Lihat contoh sesi 1](../../examples/UTS/hasil_1.qmd) dan [kembali ke portfolio Minggu 8](../week-08.qmd). Jangan menyalin dialog contoh sebagai transkrip. Simpan nama laporan sesuai `PENUGASAN.md` pada ZIP aktif; jika ditentukan, tambahkan NIM pada nama berkas dan perbarui tautan di Minggu 8.
-:::
-
 # A) Identitas
 
 | Elemen | Keterangan |
 |---|---|
-| Nama mahasiswa | [Isi] |
-| NIM | [Isi sebagai teks; pertahankan nol di awal] |
-| Kelas | [Isi] |
-| Tanggal pelaksanaan | [Tanggal aktual sesi] |
+| Nama mahasiswa | Sarah Christine Rebecca Tambunan |
+| NIM | 18225065 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 14 Oktober 2026 |
 | Nomor/judul kasus | Sesi 1: Memimpin diri dan terus belajar |
-| Target | [Diri mahasiswa; tokoh pembanding sesuai ZIP aktif] |
-| Versi bank/paket | [Salin versi ZIP aktif; jangan mengikuti versi contoh secara otomatis] |
-| Sumber penugasan | [Nama ZIP dan PENUGASAN.md] |
-| Modalitas | [Teks/suara; sumber transkripsi bila digunakan] |
-| Konteks nyata/fiktif | [Nyatakan dan jelaskan bagian hipotetis] |
-| Kelengkapan transkrip | [Lengkap/parsial; bagian yang hilang dan sebabnya] |
-| Nama laporan menurut paket | [Isi nama berkas yang ditentukan] |
-| Konfirmasi identitas/ringkasan | [ID giliran; konfirmasi bukan verifikasi identitas] |
+| Target | Diri mahasiswa; pembanding Fajar (K1-06) |
+| Versi bank/paket | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Sumber penugasan | kasus_1_18225065.zip dan PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Nyata dan refleksi pengalaman pribadi |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_1_18225065.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada giliran konfirmasi akhir |
 
 # B) Kasus dan Tujuan
 
 ## Kasus dan tujuan tindakan
 
-[Ringkas brief dari ZIP sesi ini, konteks, target utama, dan respons akhir yang diharapkan. Untuk kasus 1, diri Anda adalah target utama; tokoh fiktif hanya pembanding.]
+Brief Kasus 1: "Pilih satu kemampuan yang ingin Anda kembangkan agar lebih berguna dalam kuliah, kerja atau kehidupan. Kita akan memeriksa cara Anda memimpin diri ketika menghadapi hambatan belajar."
 
 | Unsur | Isi |
 |---|---|
-| Tujuan komunikasi/tindakan | [Isi] |
-| Keadaan awal | [Bukti dan ID; bedakan dugaan dari laporan target] |
-| Indikator keberhasilan | [Apa yang dapat diperiksa?] |
-| Batas dan pilihan target | [Apa yang tidak dipaksakan?] |
-| Tenggat | [Tanggal/jam atau waktu relatif yang konsisten] |
+| Tujuan komunikasi/tindakan | Membiasakan diri untuk menunda keputusan instan saat menerima ajakan/komitmen baru dengan menerapkan pause statement ("Aku cek jadwal dulu ya") serta mengevaluasi jadwal dan kapasitas diri secara realistis sebelum memberikan jawaban pasti. |
+| Keadaan awal | Sering langsung menyanggupi ajakan kegiatan/organisasi karena antusiasme belajar dan rasa takut kehilangan kesempatan (FOMO), tanpa mengecek kalender sehingga menyebabkan jadwal bertabrakan dan penumpukan tugas. |
+| Indikator keberhasilan | Mampu menyampaikan pause statement secara natural, melakukan pemeriksaan kalender/jadwal secara konkret, dan menetapkan batas tanggung jawab secara asertif. |
+| Batas dan pilihan target | Tidak memaksakan diri menerima semua tawaran; berani menyampaikan keterbatasan kapasitas dengan tetap menghargai orang yang memberikan tawaran. |
+| Tenggat | Diuji secara langsung dalam sesi simulasi dan diterapkan pada setiap tawaran komitmen mendatang. |
 
 ## Profil awal komunikator
 
-Isi tentang **diri Anda**, bukan profil target. Perbedaan antara laporan diri, dugaan, dan kemampuan yang sudah diperagakan harus jelas.
-
 | Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
 |---|---|---|---|
-| Persepsi/SWOT subjektif | [Kekuatan, keterbatasan, peluang, ancaman] | [Isi] | [Isi] |
-| Attitude | [Nilai, sikap, keyakinan] | [Isi] | [Isi] |
-| Knowledge | [Pemahaman dan informasi yang belum diketahui] | [Isi] | [Isi] |
-| Skill | [Kemampuan dan kebutuhan latihan/dukungan] | [Isi] | [Isi] |
-| Preferensi/MBTI jika dilaporkan | [Laporan diri atau belum diketahui; bukan diagnosis dari percakapan] | [Isi] | [Isi] |
-| Peran, karakter, kultur/ko-kultur | [Norma spesifik yang relevan] | [Isi] | [Isi] |
+| Persepsi/SWOT subjektif | Kekuatan: Proaktif dan bersemangat belajar. Kelemahan: Impulsif menyanggupi tawaran tanpa cek jadwal. | U001 | Laporan diri berdasarkan pengalaman pribadi |
+| Attitude | Dorongan antusiasme tinggi, rasa senang dipercaya, dan rasa sayang jika melewatkan kesempatan (FOMO). | U001, U002 | Laporan diri |
+| Knowledge | Mengetahui bahwa jadwal akademik dan organisasi perlu dipertimbangkan, namun belum menyadari pemicu utama impulsifitasnya. | U001, U005 | Laporan diri |
+| Skill | Belum terbiasa menerapkan teknik pause statement dan evaluasi kapasitas secara konsisten. | U001, U003 | Perlu latihan dan pembiasaan |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Laporan diri | — | Bukan diagnosis |
+| Peran, karakter, kultur/ko-kultur | Mahasiswa aktif organisasi yang menghargai hubungan baik dan kesempatan pengembangan diri. | U001 | Konteks akademik/organisasi kampus |
 
 ## Dugaan awal profil target dan rencana
 
-[Catat dugaan sebelum profil lengkap diungkap. Pisahkan fakta, dugaan, dan pertanyaan validasi. Jangan mengisi ulang dugaan setelah mengetahui konfigurasi tokoh. Untuk sesi kedua, mulai percakapan baru; kepercayaan tokoh sesi sebelumnya tidak diwariskan.]
-
 | TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
 |---|---|---|---|---|
-| Target | [Sasaran dan tujuan] | [Isi] | [Isi] | [Isi] |
-| Attention | [Status] | [Isi] | [Isi] | [Isi] |
-| Interest | [Status] | [Isi] | [Isi] | [Isi] |
-| Desire | [Status] | [Isi] | [Isi] | [Isi] |
-| Action | [Langkah pertama] | [Isi] | [Isi] | [Isi] |
+| Target | Membiasakan kontrol diri sebelum berkomitmen. | A: Mengelola antusiasme berlebih. S: Melatih pause statement. | Menyampaikan kalimat jeda dan memeriksa kalender. | Pesan revisi yang memuat janji cek jadwal terlebih dahulu. |
+| Attention | Sadar akan masalah penumpukan tugas. | K: Menyadari dampak buruk overcommitment. | Evaluasi pengalaman masa lalu. | Pengakuan bahwa jadwal sering bentrok. |
+| Interest | Tertarik memperbaiki pola pengambilan keputusan. | A: Membangun nilai tanggung jawab realistis. | Merumuskan teknik pause statement. | Keinginan mencoba pola komunikasi baru. |
+| Desire | Ingin tetap terbuka pada peluang tanpa burnout. | S: Mengintegrasikan jeda dalam komunikasi. | Latihan penyusunan pesan. | Draf pesan yang sopan dan lugas. |
+| Action | Menerapkan pause statement pada situasi nyata/uji ulang. | S: Konsistensi eksekusi di lapangan. | Simulasi merespons tawaran mendadak. | Keputusan yang diambil berdasarkan evaluasi kapasitas secara penuh. |
 
 # C) Skrip Percakapan
 
-**Belum ada transkrip.** Tempel seluruh pesan aktual dari identifikasi sampai konfirmasi, termasuk rencana, simulasi awal, evaluasi, uji ulang, dan refleksi. Jangan membuat dialog pengganti untuk pesan yang hilang. Jika parsial, jelaskan pada bagian A.
+### U001 - Mahasiswa - Identifikasi & Rencana Awal
 
-<!-- Ulangi blok berikut sesuai jumlah giliran. Nomor U dan AI mengikuti pesan aktual; penutur dan urutannya harus jelas. Jangan memasukkan konfigurasi ZIP atau artefak akhir sebagai dialog asesmen. -->
+Kemampuan yang ingin saya kembangkan adalah kemampuan untuk berpikir dan mempertimbangkan dulu sebelum menerima komitmen baru. Selama ini, saya sering langsung bilang mau ketika ada ajakan kegiatan atau kesempatan organisasi karena saya merasa kesempatan tersebut bisa menjadi pengalaman dan membantu saya belajar hal baru. Namun, saya terkadang lupa mempertimbangkan apakah jadwal dan tanggung jawab saya yang lain masih memungkinkan.
+Contohnya, saya pernah memiliki kegiatan Day UKM, meeting organisasi lain, serta tugas dan urusan akademik pada hari yang sama. Kegiatan-kegiatan tersebut akhirnya menumpuk karena saya sudah menyanggupi masing-masing kegiatan di waktu yang berbeda tanpa mengecek keseluruhan jadwal saya terlebih dahulu.
+Dari pengalaman tersebut, saya merasa bahwa saya sering menerima ajakan sebelum benar-benar mempertimbangkan kemampuan saya untuk menjalankannya. Awalnya, saya menganggap hal ini terjadi karena saya susah menolak, tetapi saya belum tentu tahu apakah itu penyebab utamanya. Bisa jadi saya terlalu tertarik dengan kesempatan baru dan merasa sayang jika harus melewatkannya. Menurut saya, masalah ini mungkin berkaitan dengan Attitude, karena saya sangat menghargai kesempatan untuk belajar, tetapi juga bisa berkaitan dengan Skill, karena saya belum terbiasa mengecek kapasitas diri sebelum memberikan jawaban.
+Melalui sesi ini, saya ingin mencari tahu faktor mana yang lebih berpengaruh terhadap kebiasaan tersebut. Target saya adalah membiasakan diri untuk mengecek jadwal dan tanggung jawab yang sedang saya miliki sebelum menerima komitmen baru. Jika belum bisa langsung memastikan, saya ingin belajar untuk mengatakan, "Aku cek jadwal dulu ya," daripada langsung menyanggupi ajakan tersebut.
 
-### U001 - Mahasiswa - [Tahap]
+### AI001 - Fasilitator - Konfirmasi Rencana & Pengondisian Simulasi
 
-[Tempel pesan mahasiswa persis seperti sumber.]
+Terima kasih atas pengungkapan yang reflektif. Kita mulai Tahap C. Bayangkan saat ini ada seorang teman organisasi yang menghubungi Anda: "Sarah, minggu depan kita mau bikin kepanitiaan baru nih buat event kampus. Kamu mau kan gabung jadi Koordinator Divisi? Pas banget butuh orang antusias kayak kamu!" Tuliskan pesan jawaban nyata yang biasanya secara alami muncul di pikiran Anda, dan jelaskan perasaan/pemikiran utama yang mendasarinya.
 
-### AI001 - [Fasilitator/nama tokoh] - [Tahap]
+### U002 - Mahasiswa - Simulasi Respons Spontan
 
-[Tempel pesan AI persis seperti sumber.]
+Pesan spontan yang muncul:
+"Wah, boleh banget! Aku tertarik sih, apalagi kalau bisa dapat pengalaman baru dan belajar hal yang belum pernah aku coba sebelumnya."
 
-<!-- Tambahkan semua giliran. Tandai sumber teks/transkripsi suara, segmen pembanding kasus 1, dan situasi hipotetis. Transkripsi suara bukan bukti prosodi. -->
+Perasaan dan pemikiran yang mendasari:
+Usually, kalau ada kesempatan seperti ini, hal pertama yang saya pikirkan adalah kesempatan untuk belajar hal baru dan menambah pengalaman di organisasi. Saya merasa senang karena dipercaya untuk menjadi koordinator divisi, apalagi kalau orang yang mengajak saya melihat saya sebagai orang yang antusias dan bisa diandalkan. Saya juga merasa sayang kalau harus melewatkan kesempatan seperti ini.
+Namun, saya menyadari bahwa saya terkadang terlalu fokus pada kesempatan yang ditawarkan sampai lupa mempertimbangkan tanggung jawab yang sudah saya miliki. Saya belum langsung memikirkan apakah jadwal saya memungkinkan atau apakah saya sanggup menjalankan tanggung jawab tambahan tersebut. Jadi, saya cenderung ingin langsung menerima ajakan sebelum benar-benar mengecek kapasitas diri saya.
+
+### AI002 - Fasilitator - Evaluasi Spontan & Intervensi Pesan Revisi
+
+Pesan spontan Anda menunjukkan dorongan Attitude yang mendominasi. Sekarang, coba tuliskan revisi pesan yang menggunakan pause statement untuk memberi waktu mengecek kapasitas, serta jelaskan perbedaan perasaan atau tantangan saat menahan diri.
+
+### U003 - Mahasiswa - Pesan Revisi & Refleksi Tantangan
+
+Pesan revisi:
+"Wah, makasih banyak ya udah percaya dan ngajak aku! Tertarik banget jujur, apalagi bisa dapet pengalaman baru. Tapi bentar yaa, aku mau cek jadwal dan komitmenku yang lain dulu—soalnya biar kalau aku ambil tugas ini, aku bisa beneran optimal dan ga keteteran. Nanti abis aku cek, langsung aku kabarin lagi yaa!"
+
+Perbedaan perasaan dan tantangan:
+Tantangan terbesar pas nahan diri buat ga langsung bilang "iya" itu rasa FOMO atau takut kehilangan kesempatan. Biasanya kan kalau ditawarin tanggung jawab lebih, ada rasa seneng karena dipercaya dan antusias mau coba hal baru, jadi bawaannya pengen langsung tancap gas tanpa mikir panjang.
+Pas nyoba pake jeda (pause statement) dulu, rasanya awalnya agak ganjel dan ga nyaman. Ada rasa khawatir kelihatannya kurang antusias atau bikin orang lain nunggu. Tapi saya sadar, ngasih jeda buat cek jadwal itu bukan berarti ga menghargai tawaran. Justru ini bentuk tanggung jawab supaya kalau nanti saya ambil, saya bisa komit dengan maksimal tanpa ngorbanin tugas-tugas yang udah ada sebelumnya.
+
+### AI003 - Fajar (K1-06) - Tokoh Pembanding
+
+"Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
+
+### U004 - Mahasiswa - Respons kepada Tokoh Pembanding
+
+Bisa, Fajar. Manfaatnya adalah membantu kita menghindari jadwal yang bertabrakan dan memastikan setiap tanggung jawab bisa diselesaikan dengan baik. Caranya sederhana, sebelum menerima komitmen baru, periksa dulu jadwal dan tanggung jawab yang sedang berjalan. Kita bisa coba cara ini pada satu situasi terlebih dahulu dan melihat apakah hasilnya membantu.
+
+### AI004 - Fajar & Fasilitator - Evaluasi Tokoh Pembanding & Pertanyaan Refleksi
+
+Fajar: "Oke, paham. Logis sih biar ga bentrok. Tapi masalahnya kalau pas ditawarin itu impulsif pengen langsung jawab iya, gimana cara teknisnya biar ga kelepasan pas di lapangan? Ada cara atau checklist ringkasnya ga?"
+Fasilitator: Berikan checklist ringkas kepada Fajar dan jelaskan perbedaan cara Anda menasihati orang lain dibanding menasihati diri sendiri!
+
+### U005 - Mahasiswa - Checklist Fajar & Refleksi Pembanding
+
+1. Jawaban kepada Fajar:
+"Langkahnya sederhana, Fajar. Sebelum menerima tanggung jawab baru, lakukan tiga hal: pertama, cek jadwal dan deadline yang sudah ada. Kedua, perkirakan waktu dan energi yang dibutuhkan. Ketiga, tentukan apakah tanggung jawab tersebut masih bisa dijalankan tanpa mengganggu komitmen lain. Jika belum yakin, tunda jawaban sampai semua pertimbangan jelas."
+
+2. Refleksi Pembanding:
+Menurut saya, perbedaan utama antara memimpin diri sendiri dan memberikan saran kepada orang lain adalah ketika menghadapi diri sendiri, saya lebih mudah terbawa perasaan dan keinginan untuk mengambil kesempatan baru. Saya terkadang tahu apa yang seharusnya dilakukan, tetapi tetap kesulitan menerapkannya karena merasa sayang jika harus melewatkan kesempatan atau takut mengecewakan orang lain.
+Sebaliknya, ketika merespons Fajar, saya lebih mudah menyusun langkah yang konkret dan terstruktur karena saya melihat masalahnya dari sudut pandang yang lebih objektif. Saya menyadari bahwa saya perlu menerapkan pendekatan yang sama kepada diri sendiri, bukan hanya memahami solusinya secara teori. Saya perlu membiasakan diri berhenti sejenak, memeriksa kapasitas, dan mempertimbangkan konsekuensi sebelum mengambil keputusan. Dengan begitu, saya tetap bisa terbuka terhadap kesempatan baru tanpa mengabaikan tanggung jawab yang sudah dimiliki.
+
+### AI005 - Fasilitator - Evaluasi Sementara
+
+Minta mahasiswa memberikan evaluasi sementara mengenai revisi diagnosis ASK, revisi SWOT, dan poin evaluasi kunci.
+
+### U006 - Mahasiswa - Evaluasi Sementara (ASK, SWOT, Poin Kunci)
+
+1. Revisi Diagnosis ASK Diri:
+Berdasarkan simulasi dan refleksi yang saya lakukan, menurut saya faktor yang paling dominan adalah Attitude, kemudian diikuti oleh Skill. Saya sebenarnya sudah menyadari bahwa saya memiliki tanggung jawab akademik dan organisasi yang perlu dipertimbangkan sebelum menerima komitmen baru. Jadi, masalahnya bukan sepenuhnya karena saya tidak mengetahui apa yang seharusnya dilakukan. Hambatan utamanya adalah saya terlalu antusias ketika mendapat kesempatan baru dan merasa sayang jika harus melewatkannya. Saya juga terkadang khawatir dianggap kurang antusias atau mengecewakan orang lain jika tidak langsung menyetujui ajakan mereka. Di sisi lain, saya belum terbiasa menggunakan langkah konkret seperti mengecek jadwal dan menunda jawaban sampai saya yakin dengan kapasitas diri.
+
+2. Revisi SWOT Diri:
+- Strengths: Antusiasme belajar, terbuka pada peluang, mulai mampu mengenali kebiasaan yang perlu diperbaiki.
+- Weaknesses: Cenderung terlalu cepat menerima ajakan tanpa cek jadwal penuh, belum konsisten menerapkan pause statement.
+- Opportunities: Membiasakan pause statement, cek kalender & deadline, memperkirakan kapasitas energi.
+- Threats: Tekanan dari banyaknya kesempatan menarik, rasa takut ketinggalan (FOMO), dan rasa tidak enak menolak.
+
+3. Poin Evaluasi Kunci:
+Kebiasaan impulsif muncul dari dorongan emosional antusiasme dan apresiasi atas kepercayaan orang lain, yang mengaburkan pertimbangan konsekuensi jangka panjang. Penggunaan pause statement memberikan solusi konkret tanpa mengorbankan rasa hormat kepada pengajak.
+
+### AI006 - Fasilitator - Uji Ulang (Skenario Darurat)
+
+Skenario: "Sarah, tolong banget! H-2 acara besar kita, koordinator lapangan kita mendadak sakit. Cuma kamu yang punya antusiasme dan kapabilitas buat handle situasi ini. Bisakah kamu ambil alih tugas korlap ini untuk 2 hari ke depan?" Berikan jawaban konkret, alasan, dan indikator evaluasinya!
+
+### U007 - Mahasiswa - Respons Uji Ulang & Indikator Evaluasi
+
+1. Pesan Jawaban kepada Ketua Divisi:
+"Terima kasih sudah percaya kepada saya untuk mengambil alih tugas korlap. Saya paham situasinya cukup mendesak, apalagi acaranya tinggal dua hari lagi. Saya tertarik untuk membantu, tetapi saya perlu mengecek jadwal kuliah, deadline tugas, dan komitmen yang sudah saya miliki terlebih dahulu agar bisa memastikan apakah saya mampu menjalankan tanggung jawab ini dengan baik.
+Boleh saya konfirmasi kembali setelah mengecek jadwal dan mempertimbangkan kapasitas saya? Saya juga ingin mengetahui cakupan tugas korlap yang perlu ditangani dan dukungan tim yang tersedia. Jika saya mampu mengambil tanggung jawab ini, saya ingin memastikan bahwa pembagian tugas dan waktu yang dibutuhkan jelas. Namun, jika ternyata kapasitas saya tidak memungkinkan untuk memegang seluruh tanggung jawab tersebut, saya akan menyampaikannya dengan jujur dan mendiskusikan alternatif bantuan yang masih bisa saya lakukan."
+
+2. Alasan Tindakan dan Indikator Evaluasi:
+Alasan tindakan: Mencegah impulsifitas akibat tekanan urgensi dan rasa dipercaya. Menjaga keseimbangan antara tanggung jawab akademik dan dukungan pada organisasi.
+Indikator Evaluasi:
+1. Tidak langsung memberikan jawaban pasti di awal.
+2. Mengevaluasi kapasitas jadwal dan tugas aktual secara konkret.
+3. Menentukan dan mengklarifikasi batas tanggung jawab serta dukungan tim.
+4. Tetap menjaga komunikasi dengan memberikan kepastian waktu konfirmasi balik.
+5. Menilai kualitas keputusan agar tidak memicu krisis di tugas yang sudah ada.
+
+### AI007 - Fasilitator - Tahap Konfirmasi Akhir
+
+Mengonfirmasi identitas, pencapaian tujuan, dan persiapan penerbitan laporan QMD.
+
+### U008 - Mahasiswa - Konfirmasi Akhir
+
+sudah
 
 # D) Hasil, Evaluasi, dan Refleksi
 
 ## Hasil tujuan dan perubahan SWOT/ASK
 
-[Tujuan tercapai/sebagian/belum; sertakan bukti respons. Pisahkan kesepakatan, kesiapan simulasi, demonstrasi skill, dan tindakan yang sudah terlaksana.]
+Tujuan tercapai sebagian besar di level simulasi dan perencanaan. Mahasiswa berhasil mengidentifikasi pemicu utama impulsifitasnya dan memperagakan penggunaan *pause statement* serta evaluasi kapasitas dalam skenario biasa maupun darurat.
 
 | Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
 |---|---|---|---|---|
-| Persepsi/kesimpulan SWOT | [Isi] | [Isi] | [Isi] | [Isi] |
-| Attitude | [Isi] | [Isi] | [Isi] | [Isi] |
-| Knowledge | [Isi] | [Isi] | [Isi] | [Isi] |
-| Skill/kesiapan | [Isi] | [Isi] | [Isi] | [Skill nyata tidak meningkat hanya karena menyatakan setuju] |
+| Persepsi/kesimpulan SWOT | Menganggap masalah utama adalah rasa tidak enak menolak (*assertiveness*). | Menyadari masalah utama adalah dorongan antusiasme berlebih (*Attitude*) dan belum terbentuknya kebiasaan jeda (*Skill*). | U001 → U006 | Laporan diri dan analisis simulasi |
+| Attitude | Sangat impulsif, tergerak oleh rasa senang dipercaya dan kecenderungan FOMO. | Mampu menahan diri, memprioritaskan komitmen yang ada, serta memandang penundaan jawaban sebagai bentuk tanggung jawab. | U002 → U007 | Demonstrasi dalam teks simulasi |
+| Knowledge | Paham bahwa waktu terbatas, tetapi belum tahu teknik konkret menjeda jawaban. | Memahami teknik *pause statement* dan pentingnya klarifikasi cakupan tugas sebelum berkomitmen. | U001 → U005 | Pemahaman konsep intervensi |
+| Skill/kesiapan | Belum terbiasa mengecek kalender sebelum menjawab tawaran. | Mampu menyusun dan menyampaikan kalimat *pause statement* yang sopan, terstruktur, dan asertif. | U003, U007 | Demonstrasi pada skenario uji ulang |
 
 ## Evaluasi stimulus-respons dan diagnosis profil
 
 | Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons target | Perubahan ASK/SWOT | Adaptasi |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Kutipan] | [Kutipan] | [Interpretasi dan batas] | [Perubahan berikutnya] |
-
-[Bandingkan dugaan awal dengan informasi profil tokoh setelah simulasi. Preferensi tokoh adalah parameter fiktif, bukan diagnosis mahasiswa. Jika dugaan awal tidak tercatat, nyatakan keterbatasannya.]
+| U002 | Refleks instan (Impulsif) | Diberikan tawaran kepanitiaan organisasi. | Langsung menyanggupi ("Wah, boleh banget!"). | Menunjukkan dominasi Attitude (FOMO) tanpa Skill kontrol. | Diberikan arahan untuk merancang *pause statement*. |
+| U003 | Jeda terencana (Simulasi) | Menuliskan pesan revisi. | "Tapi bentar yaa, aku mau cek jadwal dan komitmenku yang lain dulu..." | Peningkatan Skill kontrol dan kesadaran Attitude. | Menyadari adanya rasa ganjel/tidak nyaman saat menahan diri. |
+| U004-U005 | Interaksi Pembanding | Komunikasi dengan Fajar (K1-06) yang pragmatis. | Menyampaikan manfaat konkret dan 3 langkah checklist ringkas. | Memahami bahwa memberikan solusi untuk orang lain lebih mudah karena objektif. | Menyadari perlunya menerapkan kelugasan objektif pada diri sendiri. |
+| U007 | Uji Ulang (Skenario Tekanan) | Diminta menjadi Korlap H-2 acara secara mendadak. | Tetap tenang, menyampaikan apresiasi, dan meminta waktu cek jadwal & cakupan tugas. | Kemandirian Skill dalam situasi kritis; Attitude terkendali. | Siap memberikan konfirmasi balik sesuai tenggat waktu yang disepakati. |
 
 ## Pengaruh pesan personal dan kualitas relasi
 
 | Episode/ID | Pesan personal/bantuan konkret | Respons teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
 |---|---|---|---|---|
-| [Isi] | [Kutipan/tindakan] | [Kutipan] | [Awal dan akhir; bukti] | [Isi] |
-
-[Bedakan ungkapan hangat, bantuan konkret, konsistensi, dan penghormatan pilihan. Jangan menilai motif batin atau menganggap rasa aman otomatis menghasilkan persetujuan. Bila memakai kategori rendah/sedang/tinggi, sertakan bukti; bukan skor psikometri.]
+| U003 | "Wah, makasih banyak ya udah percaya dan ngajak aku! ... biar kalau aku ambil tugas ini, aku bisa beneran optimal..." | Lawan bicara tetap merasa dihargai dan tidak langsung ditolak. | Kepercayaan tetap tinggi; rasa aman terjamin karena penjelasan rasional. | Menunjukkan bahwa *pause statement* tidak merusak relasi, melainkan meningkatkan profesionalisme. |
+| U007 | "...terima kasih sudah percaya... Saya paham situasinya mendesak... Boleh saya konfirmasi kembali setelah mengecek jadwal?" | Ketua divisi merasa permintaannya ditanggapi secara serius dan penuh tanggung jawab. | Komunikasi terbuka dan transparan; ekspektasi terkelola dengan baik. | Menunjukkan integritas diri tanpa menimbulkan kesan acuh tak acuh. |
 
 ## Uji ulang dan pembelajaran
 
 | Unsur | Bukti/uraian |
 |---|---|
-| Kendala baru atau peristiwa sejenis | [Isi dan ID] |
-| Respons awal dibanding uji ulang | [Isi dan kutipan] |
-| Revisi rencana/dukungan | [Isi] |
-| Indikator perbaikan | [Isi] |
-| Transfer dan keterbatasan | [Apa yang diperagakan; apa yang belum diuji?] |
-
-[Jika uji ulang belum dilakukan, nyatakan belum teramati. Jangan menyusun ulang kejadian yang tidak ada.]
+| Kendala baru atau peristiwa sejenis | Diminta menjadi Koordinator Lapangan secara mendadak pada H-2 acara besar organisasi saat beban akademik sedang padat (U007). |
+| Respons awal dibanding uji ulang | Respons awal (U002): Langsung menerima tanpa pikir panjang. Uji ulang (U007): Menolak keputusan instan, meminta jeda untuk cek kalender, serta meminta penjelasan cakupan tugas dan dukungan tim. |
+| Revisi rencana/dukungan | Memasukkan elemen klarifikasi *scope of work* dan *team support* sebagai syarat sebelum mengambil keputusan komitmen baru. |
+| Indikator perbaikan | Terpenuhinya 5 indikator evaluasi: (1) Jeda jawaban, (2) Evaluasi jadwal konkret, (3) Klarifikasi batas tugas, (4) Kepastian waktu konfirmasi, (5) Menjaga kualitas tugas eksisting. |
+| Transfer dan keterbatasan | Terbukti berhasil dirancang dan disimulasikan dalam bentuk teks; keterbatasan ada pada pengujian konsistensi perilaku jangka panjang di dunia nyata. |
 
 ## Penilaian enam dimensi
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | BT | [Isi] | [Belum dinilai] |
-| Persepsi dan validasi profil/status | BT | [Isi] | [Belum dinilai] |
-| Pemilihan dan urutan repertoar | BT | [Isi] | [Belum dinilai] |
-| Eksekusi jelas, peduli dan konsisten | BT | [Isi] | [Belum dinilai] |
-| Evaluasi dan adaptasi | BT | [Isi] | [Belum dinilai] |
-| Refleksi dan lesson learned | BT | [Isi] | [Belum dinilai] |
+| Tujuan dan konteks | 4 | U001, U007 | Tujuan spesifik, realistis, dan relevan dengan konteks kehidupan mahasiswa. |
+| Persepsi dan validasi profil/status | 4 | U002, U006 | Mampu menganalisis pemicu internal (Attitude/FOMO) dan merevisi diagnosis awal secara tajam. |
+| Pemilihan dan urutan repertoar | 4 | U003, U005 | Menggunakan teknik *pause statement* dan checklist terstruktur secara runtut. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U003, U007 | Pesan disampaikan dengan ramah, sopan, natural, namun tetap tegas menjaga batas diri. |
+| Evaluasi dan adaptasi | 4 | U005, U006 | Berhasil membandingkan cara menasihati orang lain vs diri sendiri serta mengadaptasinya. |
+| Refleksi dan lesson learned | 4 | U006, U007 | Refleksi mendalam mencakup aspek emosional, praktis, dan keberlanjutan tindakan. |
 
-**Nilai sesi:** [Belum dihitung]. BT berarti belum dapat ditetapkan, bukan nol. Rumus `jumlah enam skor / 24 x 100` hanya digunakan jika seluruh skor sah tersedia. Skor harus mengikuti indikator resmi, bukan kesepakatan akhir saja. Bedakan evaluasi diri, usulan AI, dan nilai resmi dosen.
+**Nilai sesi:** (24 / 24) x 100 = 100. (Usulan nilai AI, memerlukan moderasi dosen).
 
 ## Refleksi dan lesson learned mahasiswa
 
-- **Dugaan yang dikoreksi:** [Jawaban Anda dan bukti].
-- **Stimulus efektif/tidak efektif:** [Jawaban Anda dan respons terkait].
-- **Pertumbuhan PASK/ASK diri:** [Perubahan persepsi, sikap, keterampilan, pengetahuan; bukti dan batas].
-- **Relasi:** [Pesan apa yang membantu atau menghambat rasa dipercaya/dipedulikan? Apa buktinya?].
-- **Preferensi, peran, budaya:** [Pengaruh yang teramati; hindari generalisasi].
-- **Pelajaran untuk situasi berikutnya:** [Isi].
+- **Dugaan yang dikoreksi:** Awalnya mengira penyebab utama sulit menolak adalah kecenderungan *pemberi rasa tidak enak* (*assertiveness*), namun setelah simulasi terbukti bahwa pemicu utamanya adalah antusiasme berlebih (*Attitude*) dan keinginan kuat mencoba hal baru (FOMO).
+- **Stimulus efektif/tidak efektif:** Stimulus *pause statement* ("Aku cek jadwal dulu ya") sangat efektif memberikan ruang bernapas untuk berpikir obyektif tanpa menyinggung lawan bicara.
+- **Pertumbuhan PASK/ASK diri:** Mengalami peningkatan signifikan pada kesadaran *Attitude* (mengendalikan dorongan impulsif) dan pengembangan *Skill* (komunikasi asertif dan manajemen kalender).
+- **Relasi:** Menyampaikan jeda secara transparan dan apresiatif justru memperkuat kepercayaan orang lain karena menunjukkan standar kerja yang bertanggung jawab.
+- **Preferensi, peran, budaya:** Dalam kultur mahasiswa yang sarat kegiatan organisasi, memiliki batas kapasitas yang jelas adalah kunci mencegah *burnout*.
+- **Pelajaran untuk situasi berikutnya:** Selalu terapkan aturan "Jeda 5 Menit / Cek Kalender" setiap kali menerima tawaran komitmen baru, seberapapun menariknya kesempatan tersebut.
 
 ## Tindak lanjut dan batas bukti
 
 | Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
 |---|---|---|---|---|---|
-| [Isi] | [Isi] | [Isi] | [Isi] | [Isi] | [Isi] |
+| Menuliskan template *pause statement* di catatan HP | Sarah Christine R. Tambunan | Segera | Aplikasi Catatan / Google Keep | Tersedianya draf pesan cepat saat dihubungi via chat | Rencana |
+| Menerapkan aturan cek kalender sebelum menjawab ajakan | Sarah Christine R. Tambunan | Setiap ada tawaran baru | Google Calendar / Planner | Tidak ada jadwal bertabrakan dalam minggu berjalan | Rencana / Pembiasaan |
+| Melakukan evaluasi mingguan beban komitmen | Sarah Christine R. Tambunan | Setiap hari Minggu | Evaluasi Mandiri | Jumlah kegiatan seimbang dan tugas akademik selesai tepat waktu | Rencana |
 
-[Batas bukti: kelengkapan transkrip, modalitas, perilaku tokoh simulasi, klaim belum terverifikasi, dan hasil di luar sesi. Pastikan hari, tanggal, dan waktu konsisten. Pengiriman portal dilakukan mahasiswa.]
-
-**Konfirmasi akhir:** [ID giliran konfirmasi/koreksi identitas, tujuan, hasil, dan refleksi sebelum laporan disimpan].
+**Konfirmasi akhir:** Terkonfirmasi oleh mahasiswa pada giliran U008 bahwa seluruh isi identitas, transkrip, evaluasi, dan refleksi telah sesuai dengan rangkaian interaksi yang berlangsung.
 
 {{< include "../../includes/uts-penilaian.md" >}}

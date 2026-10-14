@@ -3,9 +3,6 @@ title: "Minggu 8 — UTS Performance Lab"
 description: "Makalah pra-UTS dan lima sesi simulasi komunikasi dengan penilaian enam dimensi."
 ---
 
-
-
-
 ::: {.week-path}
 ::: {}
 UTS bukan ujian hafalan atau public speaking. Performance menguji kemampuan membaca person, mengenali state, menggunakan response sebagai evidence, dan beradaptasi selama interaction.
@@ -34,7 +31,8 @@ Performance berbeda dari presentation karena response target mengubah alur. Kebe
 ## Quiz kesiapan
 
 <div class="quiz" data-quiz-id="week-08">
-<fieldset data-answer="a"><legend>1. Evidence adaptasi yang paling kuat adalah …</legend><label><input type="radio" name="w08q1" value="a"> Communicator mengubah pertanyaan setelah mendengar hidden concern.</label><label><input type="radio" name="w08q1" value="b"> Communicator menyelesaikan semua slide.</label><label><input type="radio" name="w08q1" value="c"> Target tetap diam.</label></fieldset>
+1. <fieldset data-answer="a"><legend>Evidence adaptasi yang paling kuat adalah …
+</legend><label><input type="radio" name="w08q1" value="a"> Communicator mengubah pertanyaan setelah mendengar hidden concern.</label><label><input type="radio" name="w08q1" value="b"> Communicator menyelesaikan semua slide.</label><label><input type="radio" name="w08q1" value="c"> Target tetap diam.</label></fieldset>
 <fieldset data-answer="c"><legend>2. Observer sebaiknya mencatat …</legend><label><input type="radio" name="w08q2" value="a"> Apakah communicator ekstrovert.</label><label><input type="radio" name="w08q2" value="b"> Kesan umum tanpa contoh.</label><label><input type="radio" name="w08q2" value="c"> Kalimat, response, state signal, dan perubahan perilaku.</label></fieldset>
 <fieldset data-answer="b"><legend>3. Jika target menolak premise berdasarkan evidence, communicator sebaiknya …</legend><label><input type="radio" name="w08q3" value="a"> Memaksa agar performance mencapai Interest.</label><label><input type="radio" name="w08q3" value="b"> Memperbarui pembacaan dan mengadaptasi atau berhenti.</label><label><input type="radio" name="w08q3" value="c"> Mengabaikan response dan melanjutkan script.</label></fieldset>
 <button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
@@ -42,11 +40,15 @@ Performance berbeda dari presentation karena response target mengubah alur. Kebe
 
 ## Evidence pencapaian
 
-Baca [instruksi UTS](../lk/lk-UTS/index.qmd), lalu serahkan makalah `paper.qmd` dan lima laporan sesi 1, 2a, 2b, 3a, 3b dari ZIP sesuai NIM. Tiap laporan memuat identitas, tujuan/konteks, diagnosis dan validasi, transkrip lengkap, hasil/evaluasi, adaptasi, uji ulang, refleksi, dan konfirmasi akhir. Observer tambahan bersifat opsional; transkrip aktual tetap wajib.
+Berikut adalah seluruh berkas tugas pra-UTS dan laporan lima sesi simulasi komunikasi (NIM: 18225065) yang telah diselesaikan:
 
-Rubrik UTS memakai enam dimensi dengan skor 1–4/BT; nilai sesi = jumlah enam skor /24 × 100 ketika lengkap.
+* [**Makalah Pra-UTS (`paper.qmd`)**](./paper.qmd)
+* [**Sesi 1: Memimpin Diri dan Terus Belajar (`hasil_1_18225065.qmd`)**](./hasil_1_18225065.qmd)
+* [**Sesi 2a: Persahabatan dan Profesionalitas - Target Pertama (`hasil_2a_18225065.qmd`)**](./hasil_2a_18225065.qmd)
+* [**Sesi 2b: Persahabatan dan Profesionalitas - Target Kedua (`hasil_2b_18225065.qmd`)**](./hasil_2b_18225065.qmd)
+* [**Sesi 3a: Menawarkan Solusi TI dan AI - Target Pertama (`hasil_3a_18225065.qmd`)**](./hasil_3a_18225065.qmd)
+* [**Sesi 3b: Menawarkan Solusi TI dan AI - Target Kedua (`hasil_3b_18225065.qmd`)**](./hasil_3b_18225065.qmd)
 
-[Isi evidence UTS](../portfolio/week-08.qmd){.slide-link}
-
+Rubrik UTS memakai enam dimensi dengan skor 1–4/BT; nilai sesi = jumlah enam skor / 24 × 100 ketika lengkap.
 
 {{< include "../includes/uts-penilaian.md" >}}
