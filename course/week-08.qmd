@@ -1,54 +1,47 @@
+﻿---
+title: "Portfolio Minggu 8 — UTS KIPP"
+week: 8
+status: "Selesai"
+self_score: "93"
+assessor_score: "Belum dihitung"
+description: "Makalah pra-UTS dan lima laporan kasus individual."
+categories: [Assessment, UTS]
 ---
-title: "Minggu 8 — UTS Performance Lab"
-description: "Makalah pra-UTS dan lima sesi simulasi komunikasi dengan penilaian enam dimensi."
----
 
-::: {.week-path}
-::: {}
-UTS bukan ujian hafalan atau public speaking. Performance menguji kemampuan membaca person, mengenali state, menggunakan response sebagai evidence, dan beradaptasi selama interaction.
-:::
-::: {tag="aside"}
-**Capaian utama**
+## Identitas dan status paket
 
-Menunjukkan diagnosis, eksekusi, evaluasi, adaptasi, dan pembelajaran berbasis respons dalam lima sesi UTS; TAIDA digunakan sesuai konteks.
-:::
-:::
+| Elemen | Isi mahasiswa |
+|---|---|
+| Nama | Sarah Christine Rebecca Tambunan |
+| NIM | 18225065 |
+| Kelas | K-01 |
+| Periode/tanggal pelaksanaan | 15 Oktober 2026 |
+| Versi bank/paket aktif | Bank 2.0; Paket 2.0 (PENUGASAN.md) |
+| Modalitas | Teks |
+| Status pengumpulan | Sudah diunggah ke portal akademik & di-deploy di website Quarto |
 
-## Hasil belajar
+## Makalah dan lima laporan
 
-- Mengintegrasikan kompetensi Minggu 1–7.
-- Memberi dan menggunakan feedback berbasis evidence.
-- Memperbaiki satu decisive moment melalui replay.
-
-## Materi slide
-
-[Buka slide Minggu 8](../slides/minggu-08.html){.slide-link target="_blank"}
-
-## Konsep kunci
-
-Performance berbeda dari presentation karena response target mengubah alur. Keberhasilan tidak mensyaratkan target harus setuju.
-
-## Quiz kesiapan
-
-<div class="quiz" data-quiz-id="week-08">
-1. <fieldset data-answer="a"><legend>Evidence adaptasi yang paling kuat adalah …
-</legend><label><input type="radio" name="w08q1" value="a"> Communicator mengubah pertanyaan setelah mendengar hidden concern.</label><label><input type="radio" name="w08q1" value="b"> Communicator menyelesaikan semua slide.</label><label><input type="radio" name="w08q1" value="c"> Target tetap diam.</label></fieldset>
-<fieldset data-answer="c"><legend>2. Observer sebaiknya mencatat …</legend><label><input type="radio" name="w08q2" value="a"> Apakah communicator ekstrovert.</label><label><input type="radio" name="w08q2" value="b"> Kesan umum tanpa contoh.</label><label><input type="radio" name="w08q2" value="c"> Kalimat, response, state signal, dan perubahan perilaku.</label></fieldset>
-<fieldset data-answer="b"><legend>3. Jika target menolak premise berdasarkan evidence, communicator sebaiknya …</legend><label><input type="radio" name="w08q3" value="a"> Memaksa agar performance mencapai Interest.</label><label><input type="radio" name="w08q3" value="b"> Memperbarui pembacaan dan mengadaptasi atau berhenti.</label><label><input type="radio" name="w08q3" value="c"> Mengabaikan response dan melanjutkan script.</label></fieldset>
-<button type="button" class="quiz-submit">Periksa jawaban</button><p class="quiz-result" role="status" aria-live="polite"></p>
-</div>
-
-## Evidence pencapaian
-
-Berikut adalah seluruh berkas tugas pra-UTS dan laporan lima sesi simulasi komunikasi (NIM: 18225065) yang telah diselesaikan:
-
-* [**Makalah Pra-UTS (`paper.qmd`)**](./paper.qmd)
-* [**Sesi 1: Memimpin Diri dan Terus Belajar (`hasil_1_18225065.qmd`)**](./hasil_1_18225065.qmd)
-* [**Sesi 2a: Persahabatan dan Profesionalitas - Target Pertama (`hasil_2a_18225065.qmd`)**](./hasil_2a_18225065.qmd)
-* [**Sesi 2b: Persahabatan dan Profesionalitas - Target Kedua (`hasil_2b_18225065.qmd`)**](./hasil_2b_18225065.qmd)
-* [**Sesi 3a: Menawarkan Solusi TI dan AI - Target Pertama (`hasil_3a_18225065.qmd`)**](./hasil_3a_18225065.qmd)
-* [**Sesi 3b: Menawarkan Solusi TI dan AI - Target Kedua (`hasil_3b_18225065.qmd`)**](./hasil_3b_18225065.qmd)
-
-Rubrik UTS memakai enam dimensi dengan skor 1–4/BT; nilai sesi = jumlah enam skor / 24 × 100 ketika lengkap.
+| Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
+|---|---|---|---|---|
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Lengkap (Mencakup kajian MBTI, ENFJ, PASK & SWOT-Subjektif) |
+| 1 | [hasil_1_18225065.qmd](UTS/hasil_1_18225065.qmd) | Diri (Sarah - 18225065); Pembanding: Charles (K1-03) | Selesai | Lengkap |
+| 2a | [hasil_2a__18225065.qmd](UTS/hasil_2a__18225065.qmd) | Beatrix (K2-02) | Selesai | Lengkap |
+| 2b | [hasil_2b_18225065.qmd](UTS/hasil_2b_18225065.qmd) | Charles (K2-03) | Selesai | Lengkap |
+| 3a | [hasil_3a_18225065.qmd](UTS/hasil_3a_18225065.qmd) | Ali (K3-01) | Selesai | Lengkap |
+| 3b | [hasil_3b_18225065.qmd](UTS/hasil_3b_18225065.qmd) | Budi (K3-02) | Selesai | Lengkap |
 
 {{< include "../includes/uts-penilaian.md" >}}
+
+## Rekap nilai komponen
+
+| Komponen | Bobot | Self-assessment /100 | Usulan AI /100 | Nilai resmi dosen /100 | Status bukti |
+|---|---:|---|---|---|---|
+| Makalah | 10% | 95 | — | — | Menunggu penilaian dosen |
+| Sesi 1 | 18% | 95 | BT | — | Menunggu moderasi dosen |
+| Sesi 2a | 18% | 92 | BT | — | Menunggu moderasi dosen |
+| Sesi 2b | 18% | 92 | BT | — | Menunggu moderasi dosen |
+| Sesi 3a | 18% | 92 | BT | — | Menunggu moderasi dosen |
+| Sesi 3b | 18% | 94 | BT | — | Menunggu moderasi dosen |
+
+**Nilai akhir UTS resmi:** Belum dihitung. Isi `assessor_score` dengan nilai akhir /100 hanya setelah seluruh komponen resmi tersedia; jangan memakai total /20.

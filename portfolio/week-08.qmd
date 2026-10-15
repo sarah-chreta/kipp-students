@@ -24,12 +24,12 @@ categories: [Assessment, UTS]
 
 | Tahap | Template untuk diisi | Target sesuai ZIP | Status | Bukti/ID atau bagian yang masih kurang |
 |---|---|---|---|---|
-| Pra-UTS | [paper.html](UTS/paper.html) | Kajian empat pertanyaan MBTI/PASK | Selesai | Lengkap (Mencakup kajian MBTI, ENFJ, PASK & SWOT-Subjektif) |
-| 1 | [hasil_1_18225065.html](UTS/hasil_1_18225065.html) | Diri (Sarah - 18225065); Pembanding: Charles (K1-03) | Selesai | Lengkap |
-| 2a | [hasil_2a_18225065.html](UTS/hasil_2a_18225065.html) | Beatrix (K2-02) | Selesai | Lengkap |
-| 2b | [hasil_2b_18225065.html](UTS/hasil_2b_18225065.html) | Charles (K2-03) | Selesai | Lengkap |
-| 3a | [hasil_3a_18225065.html](UTS/hasil_3a_18225065.html) | Ali (K3-01) | Selesai | Lengkap |
-| 3b | [hasil_3b_18225065.html](UTS/hasil_3b_18225065.html) | Budi (K3-02) | Selesai | Lengkap |
+| Pra-UTS | [paper.qmd](UTS/paper.qmd) | Kajian empat pertanyaan MBTI/PASK | Selesai | Lengkap (Mencakup kajian MBTI, ENFJ, PASK & SWOT-Subjektif) |
+| 1 | [hasil_1_18225065.qmd](UTS/hasil_1_18225065.qmd) | Diri (Sarah - 18225065); Pembanding: Charles (K1-03) | Selesai | Lengkap |
+| 2a | [hasil_2a__18225065.qmd](UTS/hasil_2a__18225065.qmd) | Beatrix (K2-02) | Selesai | Lengkap |
+| 2b | [hasil_2b_18225065.qmd](UTS/hasil_2b_18225065.qmd) | Charles (K2-03) | Selesai | Lengkap |
+| 3a | [hasil_3a_18225065.qmd](UTS/hasil_3a_18225065.qmd) | Ali (K3-01) | Selesai | Lengkap |
+| 3b | [hasil_3b_18225065.qmd](UTS/hasil_3b_18225065.qmd) | Budi (K3-02) | Selesai | Lengkap |
 
 {{< include "../includes/uts-penilaian.md" >}}
 

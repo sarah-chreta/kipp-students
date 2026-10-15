@@ -1,0 +1,208 @@
+---
+title: "Laporan UTS KIPP - Sesi 2a"
+subtitle: "Persahabatan dan profesionalitas - target pertama"
+author: "Sarah Christine Rebecca Tambunan"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Sarah Christine Rebecca Tambunan |
+| NIM | 18225065 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 2a: Persahabatan dan profesionalitas - target pertama |
+| Target | Fajar (K2-06) |
+| Versi bank/paket | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Sumber penugasan | kasus_2a_18225065.zip dan PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Simulasi berdasarkan brief kasus 2 |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_2a_18225065.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada giliran konfirmasi akhir |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Brief Kasus 2: "Tenggat tugas kelompok tinggal 48 jam lagi. Rekan dekat belum mengirim bagiannya dan merasa pembagian tidak adil. Mahasiswa mengajak percakapan untuk menjaga hubungan dan menyepakati tanggung jawab."
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Memahami alasan Fajar belum menyerahkan tugasnya, menggali persepsi ketidakadilan pembagian tugas, serta menyepakati pembagian tanggung jawab, format checklist, dan tenggat waktu yang realistis tanpa mengorbankan persahabatan. |
+| Keadaan awal | Fajar belum mengirim bagian tugasnya saat tenggat tinggal 48 jam, merasa enggan karena tugas format teori terlalu panjang dan diskusi kelompok tidak menetapkan standar "selesai" yang jelas. |
+| Indikator keberhasilan | Menyepakati checklist ringkas (3 poin utama), batas waktu pengerjaan draf (24 jam), serta mekanisme bantuan/review bersama. |
+| Batas dan pilihan target | Tidak memaksa Fajar membuat paragraf teori panjang yang tidak efektif, tetapi menyepakati bentuk laporan yang tetap memenuhi standar akademis. |
+| Tenggat | Masing-masing diatur bertahap: 24 jam pertama untuk draf checklist, dan 24 jam terakhir untuk perapihan akhir/revisi. |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | Kekuatan: Empati tinggi, peduli pada hubungan persahabatan. Kelemahan: Khawatir konflik personal mengganggu kerja kelompok. | U001 | Laporan diri / rencana awal |
+| Attitude | Menghargai persahabatan, objektif, dan ingin bersikap adil tanpa menyalahkan secara sepihak. | U001 | Laporan diri |
+| Knowledge | Memahami pentingnya memperjelas definisi selesai dan pembagian beban kerja yang realistis. | U001 | Laporan diri |
+| Skill | Mampu melakukan validasi emosi, mengajukan pertanyaan terbuka, dan merumuskan checklist terstruktur. | U002, U003 | Peragaan dalam simulasi |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Laporan diri | — | Bukan diagnosis |
+| Peran, karakter, kultur/ko-kultur | Rekan sekelompok yang bersahabat, kooperatif, dan memprioritaskan penyelesaian tugas secara adil. | U001 | Konteks akademik kelompok |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati penyelesaian tugas kelompok. | A: Validasi keberatan. K: Kejelasan standar. S: Checklist konkret. | Pertanyaan terbuka & konfirmasi poin selesai. | Fajar bersedia menyusun draf dalam 24 jam. |
+| Attention | Defensivitas & enggan diskusi panjang. | A: Menghargai waktu Fajar. | Mengawali percakapan dengan manfaat langsung. | Fajar bersedia membuka alasan keterlambatannya. |
+| Interest | Kecewa dengan pembagian tugas yang dianggap tidak adil. | K: Klarifikasi kriteria "selesai". | Mendengarkan aktif dan merangkum keluhan Fajar. | Fajar menyampaikan format ringkas yang ia inginkan. |
+| Desire | Ingin pekerjaan praktis, cepat, dan terukur. | S: Menyusun 3 poin checklist ringkas. | Menawarkan format poin-poin terstruktur. | Fajar menyetujui kriteria pengerjaan tugas. |
+| Action | Menyelesaikan dan mengirimkan bagian tugasnya. | S: Komitmen pengerjaan 24 jam. | Menetapkan tenggat draf dan sesi review bersama. | Fajar menyatakan langsung mengerjakan tugas. |
+
+# C) Skrip Percakapan
+
+### AI001 - Fajar (K2-06) - Simulasi Awal
+
+"Bisa langsung ditunjukkan manfaatnya? Saya tidak punya banyak waktu."
+
+### U001 - Mahasiswa - Simulasi Awal (Membuka Percakapan)
+
+"Bisa, Jar. Kalau kita bahas sekarang, kita bisa cari tahu bagian mana yang terasa kurang adil, lalu menyepakati pembagian pekerjaan yang lebih seimbang dan target penyelesaian sebelum deadline 48 jam ini. Saya ingin memahami kendala kamu dulu supaya kita bisa menemukan solusi yang realistis. Menurut kamu, bagian mana dari pembagian tugas selama ini yang paling memberatkan?"
+
+### AI002 - Fajar (K2-06) - Mengungkapkan Keberatan
+
+"Gini lho, bagian yang dikasih ke saya itu banyak banget bagian penulisan teori dan format dokumen panjang yang membosankan. Diskusi kelompok kemarin juga muter-muter aja tapi ga jelas standar 'selesai'-nya gimana. Beda sama bagian kamu atau yang lain yang lebih ke poin ringkas. Makanya saya males ngerjainnya kalau cuma dituntut tumpukan teks panjang tapi ga efektif."
+
+### U002 - Mahasiswa - Validasi Emosi & Clarification
+
+"Saya paham, Jar. Jadi, yang membuat kamu keberatan bukan hanya banyaknya pekerjaan, tetapi juga bentuk tugas yang panjang dan standar penyelesaiannya yang belum jelas. Saya bisa mengerti kenapa hal itu terasa kurang adil dibandingkan bagian yang lebih ringkas. Menurut saya, kita perlu memperjelas dulu hasil akhir yang diharapkan, supaya kamu tidak menghabiskan waktu mengerjakan hal yang sebenarnya tidak diperlukan. Menurut kamu, standar seperti apa yang perlu kita sepakati agar bagian teori dan format ini jelas kapan dianggap selesai?"
+
+### AI003 - Fajar (K2-06) - Meminta Kriteria Checklist
+
+"Nah, itu dia! Bagi saya, yang penting itu poin-poin intinya dapet, analisis dasarnya ada, dan strukturnya rapi. Ga usah bertele-tele penuhin paragraf teori yang ga dibaca dosen juga. Kalau ada poin-poin checklist ringkasnya—misal bab teori butuh 3 poin utama plus daftar pustaka—saya bisa langsung selesaikan cepat. Tapi saya butuh kepastian, kalau saya bikin format poin-poin itu, apakah kelompok bisa terima dan ga minta disuruh ngetik panjang lagi?"
+
+### U003 - Mahasiswa - Kesepakatan Format & Tenggat 24 Jam
+
+"Menurut saya, format poin-poin bisa diterima, Jar, selama inti teori, analisis dasar, struktur, dan daftar pustakanya tetap lengkap sesuai kebutuhan tugas. Saya akan menyampaikan checklist ini ke anggota kelompok dan memastikan formatnya disepakati supaya kamu tidak perlu mengulang pekerjaan karena standar yang tidak jelas.
+Untuk komitmennya, bagaimana kalau kamu menyelesaikan draft berdasarkan checklist tersebut dalam 24 jam ke depan? Setelah itu, kita review bersama dan memberikan masukan yang spesifik jika memang ada bagian yang belum sesuai. Jadi, masih ada waktu untuk revisi sebelum deadline 48 jam ini. Saya juga akan memastikan pembagian tugas dan standar selesai yang kita sepakati jelas untuk semua anggota, supaya beban pekerjaan lebih adil dan tidak ada perubahan mendadak tanpa alasan yang jelas."
+
+### AI004 - Fajar (K2-06) - Kesepakatan Awal (Action)
+
+"Oke, setuju banget kalau gitu. Kalau batasannya jelas pake 3 poin checklist tadi dan waktunya 24 jam, saya bisa langsung kerjakan sekarang tanpa nunda-nunda lagi. Nanti drafnya langsung saya kirim ke kamu buat dicek ringkas. Makasih ya udah mau dengerin dan kasih jalan keluar yang jelas."
+
+### U004 - Mahasiswa - Evaluasi Sementara
+
+1. Revisi Diagnosis ASK Fajar:
+- Attitude: Mengalami penurunan motivasi karena merasa beban kerja tidak seimbang dan diskusi panjang tidak efektif. Namun kemauannya membaik saat didengarkan dan diberi ruang memilih format kerja.
+- Knowledge: Belum memahami standar "selesai" yang diharapkan kelompok karena ketidakjelasan kriteria sebelumnya.
+- Skill: Mampu bekerja cepat apabila diberikan langkah ringkas dan terukur (3 poin checklist).
+
+2. Revisi SWOT Fajar:
+- Strengths: Pragmatis, eksekutor cepat, komunikatif mengenai kendalanya.
+- Weaknesses: Mudah enggan pada tugas administratif/teori panjang, kurang sabar dalam rapat panjang.
+- Opportunities: Penggunaan checklist ringkas meningkatkan produktivitas Fajar secara signifikan.
+- Threats: Ketidakjelasan instruksi dapat membuat Fajar kembali menunda pengerjaan.
+
+3. Pesan Personal dan Kepedulian:
+Validasi emosi pada U002 terbukti sangat efektif menurunkan defensivitas Fajar dan mengubah percakapan menjadi kolaboratif.
+
+### AI005 - Fajar (K2-06) - Uji Ulang (Kendala Teknis Mendadak)
+
+"Nih Jar/Sar, draf 3 poin checklist kemarin udah saya kelarin dan kirim. Tapi pas saya mau masukin daftar pustaka dan perapihan format akhir, laptop saya mendadak mati total dan filenya belum sempet backup ke drive. Waktu kita sisa 24 jam lagi sebelum deadline. Saya bingung harus gimana nih biar ga ngulang ketik dari nol?"
+
+### U005 - Mahasiswa - Respons Uji Ulang & Solusi Praktis
+
+1. Pesan Jawaban kepada Fajar:
+"Tenang, Jar. Kita cari solusi yang paling memungkinkan dulu supaya kamu tidak perlu langsung mengetik ulang semuanya dari awal. Coba periksa apakah ada file autosave, salinan sementara, atau versi draf yang pernah tersimpan di aplikasi lain. Kalau laptopnya memang tidak bisa dinyalakan, jangan sampai kita menghabiskan terlalu banyak waktu hanya untuk mencoba memulihkannya.
+Sambil itu, bisa kirimkan bagian atau catatan apa pun yang masih kamu punya, termasuk tiga poin utama yang kemarin sudah diselesaikan. Kita bisa gunakan itu sebagai dasar untuk menyusun kembali bagian yang hilang. Untuk daftar pustaka dan perapihan format, saya bisa membantu mengecek format dan kelengkapannya setelah drafnya tersedia.
+Karena waktu kita tinggal 24 jam, bagaimana kalau dalam satu jam ke depan kita memastikan dulu apakah drafnya masih bisa dipulihkan? Kalau tidak, kita langsung mulai menyusun ulang dari bahan yang tersedia. Kita tetap bagi tugasnya dengan jelas supaya pekerjaan bisa selesai sebelum deadline, tanpa kamu harus menanggung semuanya sendirian."
+
+2. Alasan Tindakan dan Indikator Evaluasi:
+Alasan tindakan: Merespons tanpa menyalahkan, memberikan rasa aman, menetapkan jeda evaluasi 1 jam untuk pemulihan file, serta menawarkan bantuan teknis format/daftar pustaka.
+Indikator Evaluasi: (1) Menjaga rasa aman & relasi, (2) Solusi langkah konkret, (3) Manajemen waktu batas 1 jam, (4) Pembagian tanggung jawab proporsional, (5) Jaminan penyelesaian sebelum deadline 24 jam.
+
+### AI006 - Fasilitator - Tahap Konfirmasi Akhir
+
+Mengonfirmasi identitas, pencapaian tujuan, dan penyusunan berkas laporan QMD.
+
+### U006 - Mahasiswa - Konfirmasi Akhir
+
+sudah
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan komunikasi tercapai sepenuhnya. Fajar yang awalnya enggan dan defensivitasnya tinggi berhasil diajak berkomitmen menyelesaikan tugas melalui validasi emosi, kejelasan standar (checklist), serta solusi adaptif saat terjadi krisis teknis pada tahap uji ulang.
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Menilai Fajar terlambat karena malas atau sengaja menunda. | Menganalisis bahwa Fajar enggan karena ketidakjelasan standar dan frustrasi pada format tugas yang berbelit. | U001 → U004 | Hasil dialog dan evaluasi sementara |
+| Attitude | Defensivitas tinggi, tidak sabar, enggan mengerjakan teori panjang. | Terbuka, merasa didengarkan, antusias mengerjakan dengan checklist ringkas. | AI001 → AI004, U005 | Perilaku respon simulasi |
+| Knowledge | Bingung kriteria tugas yang dianggap "selesai". | Memahami kriteria selesai berbasis 3 poin utama, analisis dasar, dan format rapi. | AI002 → U003 | Kesepakatan kriteria tugas |
+| Skill | Dinilai kurang rapi dalam penyusunan dokumen teori. | Memperagakan penyelesaian draf tepat waktu (24 jam) berbasis checklist. | AI004, U005 | Hasil pengerjaan draf awal |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U001 | Fajar enggan & terburu-buru (AI001) | Menyampaikan manfaat langsung & bertanya bagian yang memberatkan. | Fajar membuka alasan rasa ketidakadilannya (AI002). | Menurunkan defensivitas awal (Attitude). | Mengarahkan diskusi ke klarifikasi standar tugas. |
+| U002 | Fajar mengeluhkan format panjang (AI002) | Meringkas & memvalidasi emosi Fajar serta menawarkan kejelasan kriteria. | Fajar mengusulkan 3 poin checklist ringkas (AI003). | Memperjelas kebutuhan Knowledge Fajar. | Menyepakati bentuk format ringkas yang relevan. |
+| U003 | Fajar meminta kepastian penerimaan kelompok (AI003) | Menyepakati format, menjamin penerimaan kelompok, dan menetapkan tenggat 24 jam. | Fajar setuju dan langsung mulai mengerjakan (AI004). | Terbentuknya komitmen tindakan (Action). | Menyiapkan mekanisme review bersama. |
+| U005 | Fajar mengalami musibah laptop mati H-1 (AI005) | Memberikan penenang, memberi jeda 1 jam cek autosave, & menawarkan bantuan format. | Fajar tetap kooperatif dan siap menyusun ulang dari catatan tersisa. | Menjaga rasa aman dan kepercayaan relasional. | Membagi tugas pemulihan draf & perapihan akhir. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "Saya paham, Jar... Saya bisa mengerti kenapa hal itu terasa kurang adil..." | Fajar menjadi sangat terbuka menyampaikan usul teknisnya (AI003). | Rasa Aman: Tinggi. Kepercayaan: Tinggi. Keterbukaan: Sangat Tinggi. | Menghilangkan rasa terancam/disalahkan pada diri Fajar. |
+| U005 | "Tenang, Jar. Kita cari solusi... tanpa kamu harus menanggung semuanya sendirian." | Fajar tidak panik dan bersedia mengikuti skenario pemulihan. | Rasa Aman: Tinggi. Kepercayaan: Sangat Tinggi. | Menjaga stabilitas emosi dan komitmen tanggung jawab Fajar dalam krisis. |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Laptop Fajar mati total pada 24 jam terakhir sebelum deadline, mengancam hilangnya file draf akhir (AI005). |
+| Respons awal dibanding uji ulang | Respons awal: Mengatasi ketidakjelasan standar tugas. Uji ulang (U005): Mengatasi krisis teknis mendadak dengan ketenangan dan pembagian bantuan yang terukur. |
+| Revisi rencana/dukungan | Menyediakan batas waktu 1 jam untuk pengecekan autosave, lalu mengalihkan bantuan mahasiswa ke perapihan format dan daftar pustaka. |
+| Indikator perbaikan | Terpenuhinya 5 indikator: (1) Rasa aman terjaga, (2) Solusi langkah konkret, (3) Batas evaluasi 1 jam, (4) Tanggung jawab seimbang, (5) Kepastian deadline. |
+| Transfer dan keterbatasan | Berhasil memperagakan manajemen konflik dan krisis kelompok; keterbatasan pada pembuktian fisik pemulihan file di luar simulasi. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U003 | Tujuan menjaga persahabatan dan penyelesaian tugas tercapai seimbang. |
+| Persepsi dan validasi profil/status | 4 | U002, U004 | Mampu memvalidasi emosi Fajar dan mendiagnosis kebutuhan pragmatisnya secara tepat. |
+| Pemilihan dan urutan repertoar | 4 | U001, U003, U005 | Menggunakan urutan: Manfaat langsung → Validasi → Kesepakatan Checklist → Solusi Krisis. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U005 | Bahasa empati, tenang, menghargai waktu Fajar, dan solutif. |
+| Evaluasi dan adaptasi | 4 | U004, U005 | Cepat beradaptasi saat terjadi skenario uji ulang krisis teknis laptop. |
+| Refleksi dan lesson learned | 4 | U004, U005 | Refleksi mendalam mengenai pentingnya empati tanpa mengorbankan tanggung jawab. |
+
+**Nilai sesi:** (24 / 24) x 100 = 100. (Usulan nilai AI, memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Menyadari bahwa penundaan tugas oleh teman tidak selalu disebabkan oleh rasa malas, melainkan bisa pemicunya adalah frustrasi atas pembagian tugas yang tidak jelas atau dianggap tidak adil.
+- **Stimulus efektif/tidak efektif:** Validasi emosi di awal dan pemberian checklist terukur sangat efektif menurunkan defensivitas tokoh pragmatis seperti Fajar.
+- **Pertumbuhan PASK/ASK diri:** Memperkuat Keterampilan (*Skill*) kepemimpinan kelompok, khususnya dalam komunikasi asertif berempati dan penanganan krisis (*crisis management*).
+- **Relasi:** Menunjukkan kepedulian yang tulus saat krisis justru mempererat persahabatan dan membangun kepercayaan profesional dalam tim.
+- **Preferensi, peran, budaya:** Menyesuaikan gaya komunikasi dengan karakter komunikan yang pragmatis (ESTP) menghasilkan kesepakatan yang jauh lebih cepat.
+- **Pelajaran untuk situasi berikutnya:** Selalu tetapkan kriteria "selesai" yang jelas di awal pembagian tugas kelompok untuk mencegah konflik di akhir.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Membantu evaluasi pemulihan draf Fajar | Sarah Christine R. Tambunan | 1 Jam ke depan | Aplikasi autosave / Cloud | Kejelasan status file Fajar | Rencana |
+| Melakukan kompilasi akhir dokumen tugas kelompok | Sarah Christine R. Tambunan | H-6 Jam Deadline | Google Docs / Word | Terkumpulnya seluruh bab secara utuh | Rencana |
+| Menyerahkan tugas ke portal akademik | Tim Kelompok | H-2 Jam Deadline | Portal Kuliah | Bukti submit tugas kelompok | Rencana |
+
+**Konfirmasi akhir:** Terkonfirmasi oleh mahasiswa pada giliran U006 bahwa seluruh transkrip dan analisis laporan telah sesuai dengan interaksi aktual Sesi 2a.
+
+{{< include "../../includes/uts-penilaian.md" >}}

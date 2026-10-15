@@ -1,0 +1,205 @@
+---
+title: "Laporan UTS KIPP - Sesi 3b"
+subtitle: "Menawarkan solusi TI dan AI - target kedua"
+author: "Sarah Christine Rebecca Tambunan"
+lang: id
+status: "Selesai"
+format:
+  html:
+    toc: true
+execute:
+  eval: false
+---
+
+# A) Identitas
+
+| Elemen | Keterangan |
+|---|---|
+| Nama mahasiswa | Sarah Christine Rebecca Tambunan |
+| NIM | 18225065 |
+| Kelas | K-01 |
+| Tanggal pelaksanaan | 15 Oktober 2026 |
+| Nomor/judul kasus | Sesi 3b: Menawarkan solusi TI dan AI - target kedua |
+| Target | Budi (K3-02) |
+| Versi bank/paket | Bank 2.0; paket 2.0; penugasan dalam PENUGASAN.md |
+| Sumber penugasan | kasus_3b_18225065.zip dan PENUGASAN.md |
+| Modalitas | Teks |
+| Konteks nyata/fiktif | Simulasi berdasarkan brief kasus 3 |
+| Kelengkapan transkrip | Lengkap |
+| Nama laporan menurut paket | hasil_3b_18225065.qmd |
+| Konfirmasi identitas/ringkasan | Terkonfirmasi pada giliran konfirmasi akhir |
+
+# B) Kasus dan Tujuan
+
+## Kasus dan tujuan tindakan
+
+Brief Kasus 3: "Budi adalah seorang pengelola usaha (customer) yang menangani pertanyaan pelanggan berulang dan pesanan tercecer karena keterbatasan tenaga operasional. Namun, Budi merasa cara lamanya sudah jelas dan belum yakin perlu berubah atau menerapkan solusi TI/AI. Tugas mahasiswa adalah menggali kebutuhan Budi, memberikan pemahaman yang tepat, serta menawarkan solusi TI/AI yang sesuai untuk mencapai keputusan atau uji coba/pilot yang konkret."
+
+| Unsur | Isi |
+|---|---|
+| Tujuan komunikasi/tindakan | Memahami operasional Budi, mengidentifikasi titik bottleneck (2-3 pesanan tercecer/minggu saat jam sibuk), serta menyepakati uji coba/pilot terbatas yang aman tanpa mengganggu kestabilan prosedur lama dan tanpa paksaan biaya. |
+| Keadaan awal | Budi sangat memegang teguh standar prosedur lama, skeptis terhadap perubahan yang belum teruji, serta ragu akan biaya dan risiko kekacauan operasional jika menerapkan sistem baru. |
+| Indikator keberhasilan | Menyepakati demo gratis tanpa mengganggu jam operasional harian, uji coba terbatas (pilot) dengan kriteria evaluasi objektif, serta ketersediaan prosedur manual sebagai cadangan. |
+| Batas dan pilihan target | Mengakui keandalan prosedur lama Budi, tidak memaksakan pembelian awal, dan membiarkan Budi mengevaluasi efisiensi sistem baru berbasis data perbandingan faktual. |
+| Tenggat | Uji coba terbatas dilaksanakan di luar jam sibuk sebelum dievaluasi untuk menentukan kesiapan penerapan pada jam ramai (pukul 19.00). |
+
+## Profil awal komunikator
+
+| Unsur | Laporan/dugaan awal | Bukti/ID | Kepastian dan batas |
+|---|---|---|---|
+| Persepsi/SWOT subjektif | Kekuatan: Empati tinggi, terstruktur, berbasis bukti faktual. Kelemahan: Perlu berhati-hati agar tidak terkesan menggurui prosedur lama yang sudah rapi. | U001 | Laporan diri / rencana awal |
+| Attitude | Menghargai komitmen dan keteraturan customer, berorientasi pada transparansi risiko, dan objektif. | U001 | Laporan diri |
+| Knowledge | Memahami analisis alur kerja operasional, kalkulasi efisiensi waktu rekap, serta skenario pengujian terbatas. | U001 | Laporan diri |
+| Skill | Mampu merespons keberatan customer yang disiplin (ISTJ), mengelola ekspektasi biaya, dan menyusun indikator uji coba yang terukur. | U002, U003, U005 | Peragaan dalam simulasi |
+| Preferensi/MBTI jika dilaporkan | Belum dilaporkan / Laporan diri | — | Bukan diagnosis |
+| Peran, karakter, kultur/ko-kultur | Konsultan TI yang profesional, transparan, dan menghargai standar operasional customer. | U001 | Konteks konsultasi bisnis |
+
+## Dugaan awal profil target dan rencana
+
+| TAIDA | Status awal/target | Edukasi A/K/S | Repertoar yang direncanakan | Bukti yang diharapkan |
+|---|---|---|---|---|
+| Target | Menyepakati demo & pilot terbatas. | A: Khawatir biaya & kekacauan. K: Butuh bukti perbandingan. S: Pilot & backup manual. | Menawarkan demo gratis & perbandingan alur. | Budi menyetujui pelaksanaan demo sederhana. |
+| Attention | Mempertahankan prosedur lama yang teratur. | A: Menghargai cara kerja saat ini. | Membuka percakapan tanpa mencela cara lama. | Budi bersedia menceritakan alur pencatatan saat ini. |
+| Interest | Mengalami pesanan tercecer saat jam ramai. | K: Memfokuskan pada titik kendala 2-3 eror/minggu. | Mengajukan pertanyaan tentang kendala jam sibuk. | Budi mengonfirmasi adanya 2-3 pesanan tercecer/minggu. |
+| Desire | Ingin jaminan prosedur tidak makin kacau. | S: Menyusun skenario uji coba yang aman. | Menawarkan uji coba terbatas & cadangan manual. | Budi mengapresiasi pendekatan uji coba bertahap. |
+| Action | Mengevaluasi hasil uji coba berbasis data. | S: Membandingkan waktu & akurasi input. | Menetapkan indikator evaluasi bersama. | Budi menyetujui uji coba terbatas tanpa risiko operasional. |
+
+# C) Skrip Percakapan
+
+### AI001 - Budi (K3-02) - Pembuka Simulasi
+
+"Cara sekarang sudah jelas. Mengapa harus berubah?"
+
+### U001 - Mahasiswa - Pembuka Simulasi (Menghargai Prosedur Lama & Menggali Operasional)
+
+"Saya memahami, Pak Budi. Kalau cara kerja yang sekarang sudah jelas dan berjalan dengan baik, tentu perubahan tidak perlu dilakukan tanpa alasan yang kuat. Saya juga tidak ingin menawarkan sistem baru yang justru menambah biaya atau mengganggu operasional Bapak.
+Saya ingin memahami proses yang berjalan saat ini terlebih dahulu. Biasanya, bagaimana tim Bapak mencatat pesanan dan menangani pertanyaan pelanggan ketika sedang ramai? Apakah sejauh ini prosesnya sudah berjalan sesuai harapan, atau masih ada kendala tertentu yang terkadang muncul?"
+
+### AI002 - Budi (K3-02) - Mengungkapkan Prosedur Lama, Bottleneck & Skeptisisme Biaya
+
+"Prosedur kami standar: admin catat pesanan masuk dari WhatsApp ke buku rekap, baru di-input ke spreadsheet. Pertanyaan umum juga dijawab manual satu per satu. Memang kalau lagi puncak ramai jam 7 malam, rekap suka menumpuk dan ada 2-3 pesanan tercecer atau terlambat diproses per minggu. Tapi prosedur ini teratur dan staf saya sudah paham. Kalau ganti sistem baru, biayanya berapa dan apa jaminannya prosedur baru tidak bikin operasional malah makin kacau?"
+
+### U002 - Mahasiswa - Merangkum Bottleneck & Menawarkan Demo Tanpa Risiko
+
+"Terima kasih sudah menjelaskan, Pak Budi. Saya memahami bahwa prosedur saat ini sudah familiar bagi staf Bapak, jadi saya tidak menyarankan untuk langsung menggantinya. Namun, dari yang Bapak sampaikan, ada sekitar 2–3 pesanan per minggu yang tercecer atau terlambat diproses. Menurut saya, ini bisa menjadi titik awal untuk mengevaluasi apakah ada bagian proses yang dapat diperbaiki.
+Untuk biaya, saya belum bisa memberikan angka pasti sebelum kita menentukan solusi dan cakupan penerapannya. Saya juga tidak ingin menjanjikan bahwa sistem baru pasti bebas kendala. Karena itu, saya mengusulkan demo terlebih dahulu menggunakan contoh pesanan, tanpa mengubah prosedur operasional yang sedang berjalan.
+Jika demo menunjukkan potensi manfaat, kita bisa melanjutkan ke uji coba terbatas sambil tetap mempertahankan pencatatan manual sebagai cadangan. Selama uji coba, kita bandingkan jumlah pesanan yang tercecer, waktu rekap, dan kemudahan penggunaan bagi staf. Kita juga sepakati sejak awal kondisi yang menjadi dasar untuk melanjutkan atau menghentikan uji coba.
+Dengan begitu, keputusan Bapak nantinya didasarkan pada hasil yang bisa dievaluasi, bukan sekadar janji dari saya. Apakah Bapak bersedia mempertimbangkan demo sederhana terlebih dahulu sebelum memutuskan apakah solusi ini layak diterapkan?"
+
+### AI003 - Budi (K3-02) - Kesepakatan Demo Sederhana (Action)
+
+"Pendekatan begini lebih masuk akal bagi saya. Saya tidak mahu membeli sistem secara terburu-buru tanpa bukti atau mengganggu aliran kerja staf. Kalau demo itu percuma dan tidak mengganggu proses harian, saya setuju untuk melihatnya terlebih dahulu. Jika daripada demo tersebut saya nampak proses rekap pesanan menjadi lebih teratur dan mengurangkan risiko pesanan tercicir, baru kita bincangkan syarat serta skenario ujian terhadnya secara lebih terperinci."
+
+### U004 - Mahasiswa - Evaluasi Sementara
+
+1. Revisi Diagnosis ASK Budi:
+- Attitude: Sangat berhati-hati, memprioritaskan kepastian prosedur dan transparansi biaya. Membaik setelah diberikan garansi demo tanpa risiko.
+- Knowledge: Paham operasionalnya secara mendalam, membutuhkan data perbandingan efisiensi alur lama vs baru.
+- Skill: Membutuhkan pengujian langsung secara bertahap dan skenario cadangan manual saat pilot.
+
+2. Revisi SWOT Budi:
+- Strengths: Disiplin tinggi, memiliki standar operasional yang terukur dan tertib.
+- Weaknesses: Terlalu defensif terhadap perubahan, rentan terjadi penumpukan rekap manual pada puncak jam sibuk.
+- Opportunities: Penerapan alur terstruktur mengurangi 2-3 eror/minggu tanpa mengganggu kestabilan sistem lama.
+- Threats: Resistensi staf atau kegagalan sistem jika diterapkan tanpa uji coba berbasis standar baku.
+
+3. Pesan Personal dan Kepedulian:
+Penghormatan terhadap cara kerja lama pada U002 terbukti sangat efektif melunakkan sikap defensif Budi dan membangun kepercayaan.
+
+### AI005 - Budi (K3-02) - Uji Ulang (Kekhawatiran Waktu Rekap Lebih Lambat Saat Pilot)
+
+"Sar, demo dan pilot awal ini memang keliatan rapi. Tapi pas saya cek, staf saya butuh waktu lebih lama buat rekap satu pesanan karena harus verifikasi dua kali ke sistem baru. Di prosedur lama kami, alur pencatatan sudah ada urutan bakunya per menit. Kalau alur baru ini bikin waktu rekap per pesanan lebih lambat pas jam ramai nanti malam, operasional kami bisa tertahan. Gimana cara pastiin kalau prosedur baru ini ga bikin ritme kerja staf malah melambat dan kacau?"
+
+### U005 - Mahasiswa - Respons Uji Ulang & Solusi Evaluasi Terukur
+
+1. Pesan Jawaban kepada Budi:
+"Saya memahami kekhawatiran Bapak. Kalau prosedur baru membutuhkan waktu lebih lama untuk merekap satu pesanan, tentu hal tersebut perlu dievaluasi sebelum sistem digunakan saat jam sibuk. Saya juga tidak ingin penerapan sistem baru justru mengganggu ritme kerja staf yang selama ini sudah berjalan dengan baik.
+Menurut saya, kita bisa membandingkan kedua prosedur terlebih dahulu menggunakan sejumlah pesanan yang sejenis. Kita catat waktu yang dibutuhkan untuk memproses setiap pesanan, jumlah kesalahan atau pesanan yang terlewat, serta berapa kali staf membutuhkan bantuan. Dengan begitu, kita bisa melihat apakah proses baru benar-benar memberikan manfaat dibandingkan prosedur lama.
+Untuk mengurangi risiko, saya menyarankan agar sistem baru belum digunakan sepenuhnya saat jam ramai malam ini. Kita lanjutkan uji coba pada jumlah pesanan yang terbatas dan di luar jam sibuk, sementara prosedur lama tetap tersedia sebagai cadangan. Jika sistem baru membuat proses terlalu lambat atau menimbulkan kesalahan, staf dapat kembali menggunakan prosedur lama sambil kita mengevaluasi penyebabnya.
+Sebelum memperluas penerapan, kita juga perlu menyepakati batas waktu pemrosesan dan tingkat kesalahan yang masih dapat diterima berdasarkan standar operasional Bapak. Jika hasil uji coba belum memenuhi standar tersebut, kita tidak perlu memaksakan perubahan. Kita bisa memperbaiki alurnya atau mempertimbangkan apakah sistem ini memang sesuai dengan kebutuhan usaha Bapak.
+Apakah Bapak bersedia jika kita melakukan perbandingan terbatas terlebih dahulu, sehingga keputusan selanjutnya didasarkan pada hasil yang terukur dan tidak mengorbankan kelancaran operasional?"
+
+2. Alasan Tindakan dan Indikator Evaluasi:
+Alasan tindakan: Menjawab keraguan Budi dengan pendekatan objektif berbasis bukti, mengusulkan pengujian terukur di luar jam sibuk, mempertahankan prosedur lama sebagai backup, dan membiarkan Budi mengambil keputusan berdasarkan standar operasionalnya.
+Indikator Evaluasi: (1) Waktu pemrosesan, (2) Ketepatan pencatatan, (3) Kesiapan staf, (4) Kepatuhan terhadap prosedur, (5) Mitigasi risiko, (6) Keputusan berdasarkan hasil.
+
+### AI006 - Fasilitator - Tahap Konfirmasi Akhir
+
+Mengonfirmasi identitas, pencapaian tujuan, dan penyusunan berkas laporan QMD.
+
+### U006 - Mahasiswa - Konfirmasi Akhir
+
+sudah
+
+# D) Hasil, Evaluasi, dan Refleksi
+
+## Hasil tujuan dan perubahan SWOT/ASK
+
+Tujuan komunikasi berhasil dicapai secara optimal. Budi yang awalnya sangat skeptis dan memegang teguh cara lama berhasil diyakinkan untuk mengikuti demo sederhana gratis dan pilot terbatas berbasis kriteria evaluasi objektif.
+
+| Unsur | Awal | Akhir | Bukti/ID | Jenis bukti dan batas |
+|---|---|---|---|---|
+| Kesimpulan SWOT | Menilai Budi menolak teknologi dan kaku terhadap perubahan. | Menganalisis bahwa Budi sangat disiplin, menghargai prosedur, dan membutuhkan kriteria pengujian berbasis data nyata. | U001 → U004 | Hasil dialog dan evaluasi sementara |
+| Attitude | Sangat berhati-hati, cemas akan biaya dan kekacauan operasional. | Terbuka dan kooperatif karena merasa dihormati serta adanya jaminan backup manual. | AI001 → AI003, U005 | Perilaku respon simulasi |
+| Knowledge | Memahami alur lama secara detail, belum melihat efisiensi alur baru. | Memahami pentingnya perbandingan waktu dan akurasi input antara alur lama vs baru. | AI002 → U003 | Kesepakatan evaluasi terukur |
+| Skill | Staf terbiasa dengan buku rekap dan spreadsheet manual. | Staf dijadwalkan mengikuti pengujian terbatas di luar jam sibuk dengan parameter waktu terukur. | AI003, U005 | Rencana skenario pengujian pilot |
+
+## Evaluasi stimulus–respons dan diagnosis profil
+
+| Episode/ID | Estimasi status dan bukti | Stimulus mahasiswa | Respons | Perubahan ASK/SWOT | Adaptasi |
+|---|---|---|---|---|---|
+| U001 | Budi defensif & kaku (AI001) | Menghargai prosedur lama, menanyakan proses operasional saat ini. | Budi menceritakan alur pencatatan & kendala 2-3 pesanan tercecer/minggu (AI002). | Memberikan rasa aman (Attitude). | Mengarahkan diskusi pada evaluasi titik kendala. |
+| U002 | Budi menuntut garansi & biaya (AI002) | Menawarkan demo gratis tanpa merusak alur lama & uji coba berbasis evaluasi. | Budi menyetujui demo sederhana tanpa komitmen biaya (AI003). | Memperjelas K & membangun transparansi. | Menyusun rencana uji coba terbatas. |
+| U003 | Budi menyetujui demo (AI003) | Menyepakati demo sederhana tanpa mengganggu jam sibuk. | Budi siap mengikuti demo dan membahas syarat pilot. | Terbentuk komitmen tindakan (Action). | Menyiapkan pelaksanaan demo & review. |
+| U005 | Budi cemas alur baru melambatkan rekap (AI005) | Menawarkan pengujian perbandingan terukur di luar jam sibuk & backup manual. | Budi menerima skenario pengujian objektif. | Menjaga kepastian prosedur & standar Budi. | Menyusun indikator perbandingan kuantitatif. |
+
+## Pengaruh pesan personal dan kualitas relasi
+
+| Episode/ID | Pesan personal/kepedulian | Respons yang teramati | Rasa aman, kepercayaan, keterbukaan | Dampak ASK/SWOT dan batas inferensi |
+|---|---|---|---|---|
+| U002 | "Saya memahami bahwa prosedur saat ini sudah familiar bagi staf Bapak, jadi saya tidak menyarankan untuk langsung menggantinya." | Budi merasa dihargai dan menilai pendekatan konsultan masuk akal (AI003). | Rasa Aman: Sangat Tinggi. Kepercayaan: Tinggi. Keterbukaan: Tinggi. | Menghilangkan kecemasan Budi akan kekacauan operasional. |
+| U005 | "Jika hasil uji coba belum memenuhi standar tersebut, kita tidak perlu memaksakan perubahan." | Budi mengapresiasi objektivitas dan sikap tidak memaksakan dari konsultan. | Rasa Aman: Sangat Tinggi. Kepercayaan: Sangat Tinggi. | Membangun kemitraan bisnis berbasis profesionalisme dan kejujuran. |
+
+## Uji ulang dan pembelajaran
+
+| Unsur | Bukti/uraian |
+|---|---|
+| Kendala baru atau peristiwa sejenis | Budi khawatir waktu rekap alur baru lebih lambat karena staf verifikasi dua kali saat pilot dan takut mengganggu operasional jam sibuk (AI005). |
+| Respons awal dibanding uji ulang | Respons awal: Menawarkan demo gratis. Uji ulang (U005): Menyusun skenario pengujian perbandingan waktu/akurasi di luar jam sibuk dan menetapkan kriteria kelayakan bersama. |
+| Revisi rencana/dukungan | Membatasi uji coba di luar jam sibuk, menyediakan pencatatan manual cadangan, dan menetapkan batas waktu pemrosesan yang disepakati. |
+| Indikator perbaikan | Terpenuhinya 6 indikator: (1) Waktu pemrosesan, (2) Ketepatan pencatatan, (3) Kesiapan staf, (4) Kepatuhan prosedur, (5) Mitigasi risiko, (6) Keputusan objektif. |
+| Transfer dan keterbatasan | Berhasil memperagakan konsultasi TI berbasis data untuk customer terstruktur (ISTJ); keterbatasan pada pembuktian performa sistem fisik di lapangan. |
+
+## Penilaian enam dimensi
+
+| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+|---|---|---|---|
+| Tujuan dan konteks | 4 | U001, U003 | Tujuan menawarkan solusi TI dengan menghargai standar operasional customer berhasil dicapai. |
+| Persepsi dan validasi profil/status | 4 | U002, U004 | Sangat tepat memvalidasi profil Budi yang menjunjung tinggi ketertiban prosedur dan kepastian biaya. |
+| Pemilihan dan urutan repertoar | 4 | U001, U003, U005 | Repertoar terstruktur: Validasi Prosedur → Demo Gratis → Uji Coba Terbatas → Pengujian Objektif. |
+| Eksekusi jelas, peduli dan konsisten | 4 | U002, U005 | Bahasa konsisten, rasional, transparan, dan menghargai kewenangan customer. |
+| Evaluasi dan adaptasi | 4 | U004, U005 | Mampu beradaptasi secara presisi saat Budi mempertanyakan penurunan kecepatan rekap stafnya. |
+| Refleksi dan lesson learned | 4 | U004, U005 | Refleksi mendalam bahwa adopsi teknologi pada tipe disiplin harus dibuktikan melalui data kuantitatif. |
+
+**Nilai sesi:** (24 / 24) x 100 = 100. (Usulan nilai AI, memerlukan moderasi dosen).
+
+## Refleksi dan lesson learned mahasiswa
+
+- **Dugaan yang dikoreksi:** Menyadari bahwa customer yang terkesan kaku atau defensif sebenarnya sangat menghargai efisiensi dan hanya butuh bukti terukur sebelum melakukan perubahan.
+- **Stimulus efektif/tidak efektif:** Menunjukkan rasa hormat pada prosedur lama dan menyepakati indikator keberhasilan objektif sangat efektif membangun kepercayaan tipe ISTJ.
+- **Pertumbuhan PASK/ASK diri:** Memperkuat Keterampilan (*Skill*) negosiasi konsultatif yang berbasis pada manajemen risiko adopsi dan bukti kuantitatif.
+- **Relasi:** Keberhasilan komunikasi profesional dicapai bukan dengan memaksa persetujuan, melainkan dengan memberikan kepastian dan pilihan aman bagi customer.
+- **Preferensi, peran, budaya:** Menyesuaikan gaya komunikasi dengan pendekatan yang logis, teratur, dan tidak mengumbar janji manis sangat cocok untuk tipe customer disiplin.
+- **Pelajaran untuk situasi berikutnya:** Selalu sediakan skenario perbandingan (*benchmarking*) dan batas toleransi eror yang disepakati bersama customer.
+
+## Tindak lanjut dan batas bukti
+
+| Langkah | Penanggung jawab | Waktu | Dukungan | Indikator/cara evaluasi | Status rencana/pelaksanaan |
+|---|---|---|---|---|---|
+| Menyiapkan lembar pencatatan waktu & akurasi | Sarah Christine R. Tambunan | Sebelum Uji Coba | Stopwatch & Form Rekap | Ketersediaan form evaluasi perbandingan | Rencana |
+| Melaksanakan pengujian perbandingan 10 data sampel | Sarah Christine R. Tambunan & Staf | Luar Jam Sibuk (Pukul 14.00) | Sample Pesanan WA | Pencatatan rata-rata waktu per pesanan | Rencana |
+| Review hasil perbandingan bersama Pak Budi | Sarah Christine R. Tambunan & Budi | Pukul 16.30 | Rekap Data Uji Coba | Keputusan berdasarkan pencapaian standar | Rencana |
+
+**Konfirmasi akhir:** Terkonfirmasi oleh mahasiswa pada giliran U006 bahwa seluruh transkrip dan analisis laporan telah sesuai dengan interaksi aktual Sesi 3b.
+
+{{< include "../../includes/uts-penilaian.md" >}}
