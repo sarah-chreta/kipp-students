@@ -172,16 +172,16 @@ Tujuan komunikasi berhasil dicapai secara optimal. Budi yang awalnya sangat skep
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | 4 | U001, U003 | Tujuan menawarkan solusi TI dengan menghargai standar operasional customer berhasil dicapai. |
-| Persepsi dan validasi profil/status | 4 | U002, U004 | Sangat tepat memvalidasi profil Budi yang menjunjung tinggi ketertiban prosedur dan kepastian biaya. |
-| Pemilihan dan urutan repertoar | 4 | U001, U003, U005 | Repertoar terstruktur: Validasi Prosedur → Demo Gratis → Uji Coba Terbatas → Pengujian Objektif. |
-| Eksekusi jelas, peduli dan konsisten | 4 | U002, U005 | Bahasa konsisten, rasional, transparan, dan menghargai kewenangan customer. |
-| Evaluasi dan adaptasi | 4 | U004, U005 | Mampu beradaptasi secara presisi saat Budi mempertanyakan penurunan kecepatan rekap stafnya. |
-| Refleksi dan lesson learned | 4 | U004, U005 | Refleksi mendalam bahwa adopsi teknologi pada tipe disiplin harus dibuktikan melalui data kuantitatif. |
+| Tujuan dan konteks | BT | U001, U007 | Menunggu moderasi dan penilaian resmi dosen |
+| Persepsi dan validasi profil/status | BT | U002, U006 | Menunggu moderasi dan penilaian resmi dosen |
+| Pemilihan dan urutan repertoar | BT | U003, U005 | Menunggu moderasi dan penilaian resmi dosen |
+| Eksekusi jelas, peduli dan konsisten | BT | U003, U007 | Menunggu moderasi dan penilaian resmi dosen |
+| Evaluasi dan adaptasi | BT | U005, U006 | Menunggu moderasi dan penilaian resmi dosen |
+| Refleksi dan lesson learned | BT | U006, U007 | Menunggu moderasi dan penilaian resmi dosen |
 
-**Nilai sesi:** (24 / 24) x 100 = 100. (Usulan nilai AI, memerlukan moderasi dosen).
+**Nilai sesi:** Belum Ditetapkan (BT) — Memerlukan moderasi dan penilaian resmi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 

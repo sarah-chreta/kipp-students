@@ -180,16 +180,16 @@ Tujuan komunikasi berhasil dicapai. Ali yang awalnya ragu menggunakan TI/AI kare
 
 ## Penilaian enam dimensi
 
-| Dimensi | Skor 1–4/BT | ID dan kutipan bukti | Alasan |
+| Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | 4 | U001, U003 | Tujuan penawaran solusi TI/AI secara pragmatis dan berorientasi pada kebutuhan pelanggan tercapai. |
-| Persepsi dan validasi profil/status | 4 | U002, U004 | Mampu memvalidasi ketakutan Ali dan mengidentifikasi prioritas pesanan tercecer dengan tepat. |
-| Pemilihan dan urutan repertoar | 4 | U001, U003, U005 | Repertoar terstruktur: Validasi → Identifikasi Prioritas → Demo Terbatas → Pendampingan Bertahap. |
-| Eksekusi jelas, peduli dan konsisten | 4 | U002, U005 | Penyampaian sangat komunikatif, empati pada kapasitas tim pelanggan, dan realistis. |
-| Evaluasi dan adaptasi | 4 | U004, U005 | Memiliki daya adaptasi tinggi saat merespons keraguan Ali mengenai kebingungan staf di jam sibuk. |
-| Refleksi dan lesson learned | 4 | U004, U005 | Refleksi mendalam bahwa penawaran teknologi harus menyertakan kesiapan adopsi manusianya. |
+| Tujuan dan konteks | BT | U001, U007 | Menunggu moderasi dan penilaian resmi dosen |
+| Persepsi dan validasi profil/status | BT | U002, U006 | Menunggu moderasi dan penilaian resmi dosen |
+| Pemilihan dan urutan repertoar | BT | U003, U005 | Menunggu moderasi dan penilaian resmi dosen |
+| Eksekusi jelas, peduli dan konsisten | BT | U003, U007 | Menunggu moderasi dan penilaian resmi dosen |
+| Evaluasi dan adaptasi | BT | U005, U006 | Menunggu moderasi dan penilaian resmi dosen |
+| Refleksi dan lesson learned | BT | U006, U007 | Menunggu moderasi dan penilaian resmi dosen |
 
-**Nilai sesi:** (24 / 24) x 100 = 100. (Usulan nilai AI, memerlukan moderasi dosen).
+**Nilai sesi:** Belum Ditetapkan (BT) — Memerlukan moderasi dan penilaian resmi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 

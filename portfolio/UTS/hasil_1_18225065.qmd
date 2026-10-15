@@ -209,14 +209,14 @@ Tujuan tercapai sebagian besar di level simulasi dan perencanaan. Mahasiswa berh
 
 | Dimensi | Skor 1-4/BT | ID dan kutipan bukti | Alasan sesuai indikator |
 |---|---|---|---|
-| Tujuan dan konteks | 4 | U001, U007 | Tujuan spesifik, realistis, dan relevan dengan konteks kehidupan mahasiswa. |
-| Persepsi dan validasi profil/status | 4 | U002, U006 | Mampu menganalisis pemicu internal (Attitude/FOMO) dan merevisi diagnosis awal secara tajam. |
-| Pemilihan dan urutan repertoar | 4 | U003, U005 | Menggunakan teknik *pause statement* dan checklist terstruktur secara runtut. |
-| Eksekusi jelas, peduli dan konsisten | 4 | U003, U007 | Pesan disampaikan dengan ramah, sopan, natural, namun tetap tegas menjaga batas diri. |
-| Evaluasi dan adaptasi | 4 | U005, U006 | Berhasil membandingkan cara menasihati orang lain vs diri sendiri serta mengadaptasinya. |
-| Refleksi dan lesson learned | 4 | U006, U007 | Refleksi mendalam mencakup aspek emosional, praktis, dan keberlanjutan tindakan. |
+| Tujuan dan konteks | BT | U001, U007 | Menunggu moderasi dan penilaian resmi dosen |
+| Persepsi dan validasi profil/status | BT | U002, U006 | Menunggu moderasi dan penilaian resmi dosen |
+| Pemilihan dan urutan repertoar | BT | U003, U005 | Menunggu moderasi dan penilaian resmi dosen |
+| Eksekusi jelas, peduli dan konsisten | BT | U003, U007 | Menunggu moderasi dan penilaian resmi dosen |
+| Evaluasi dan adaptasi | BT | U005, U006 | Menunggu moderasi dan penilaian resmi dosen |
+| Refleksi dan lesson learned | BT | U006, U007 | Menunggu moderasi dan penilaian resmi dosen |
 
-**Nilai sesi:** (24 / 24) x 100 = 100. (Usulan nilai AI, memerlukan moderasi dosen).
+**Nilai sesi:** Belum Ditetapkan (BT) — Memerlukan moderasi dan penilaian resmi dosen.
 
 ## Refleksi dan lesson learned mahasiswa
 
