@@ -1,8 +1,8 @@
 ---
 title: "Multi-Person Negotiation Challenge"
 week: 11
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "17"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
@@ -18,8 +18,89 @@ Memfasilitasi beberapa person dengan objective, constraint, authority, dan state
 - Position–interest analysis, common ground, dan options.
 - Negotiation evidence, agreement/dissent, dan relationship review.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 11](../examples/week-11.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
+## Stakeholder person map
+
+**Konteks:** Proses pencarian sponsor dan sumber dana untuk INFEST 2026 (KSEP ITB), dengan target dana sekitar Rp80 juta, dalam kapasitas saya sebagai anggota divisi Funds and Sponsorship.
+
+| Person | Peran | Objective | Authority | State |
+| :--- | :--- | :--- | :--- | :--- |
+| **Neha** | Project Officer INFEST | Memastikan dana terkumpul secepat mungkin, dan aktif mengusulkan jalur alternatif ketika sponsor korporat lambat merespons | Memegang keputusan tertinggi atas jalannya keseluruhan acara, termasuk jalur mana yang didekati (sponsor swasta, hibah pemerintah, atau pembinaan institusi) | Cemas sekaligus proaktif mencari alternatif, mengingat waktu persiapan terbatas |
+| **Alin** | Kepala Divisi Funds and Sponsorship | Tetap memantau dan merespons progres meski kapasitasnya sedang terbatas | Mengelola strategi dan eksekusi pencarian sponsor, termasuk mendelegasikan penanganan sponsor tertentu kepada anggota tim | Terbatas kapasitasnya pada satu periode, tetapi tetap terlibat memantau progres |
+| **Perusahaan sponsor dan sumber dana alternatif (IOM lewat IG, DITMAWA, pembina KSEP)** | Pihak eksternal dan internal kampus pemberi dana/dukungan | Masing-masing punya proses dan pertimbangan sendiri sebelum memberi dana atau dukungan | Menentukan kapan dan berapa dana yang dicairkan, atau apakah bersedia mendukung sama sekali | Belum tentu merespons (sponsor korporat lambat); DITMAWA diketahui sudah pernah mendanai acara serupa (Wisok tahun ini) |
+
+Saya sendiri bertindak sebagai pihak yang mengusulkan opsi sumber dana baru dan menjalankan *follow-up* ke berbagai jalur.
+
+## Position–interest analysis
+
+- **Posisi Neha:** "Kalo IOM udah coba yang dari IG? Atleast kalo gadapet dana, atleast dapet link gitu." Ia mengusulkan opsi tambahan (IOM via Instagram) dengan ekspektasi minimal berupa koneksi, bukan hanya dana langsung.
+- **Interest Neha:** Memperbanyak jalur peluang sekaligus memitigasi risiko kegagalan satu jalur, dengan tetap mendapat nilai (koneksi/*link*) meski dana tidak langsung didapat.
+- **Posisi saya:** "Kakk kalo dr DITMAWA mau coba ga yaa?" Saya mengusulkan opsi berbeda, yaitu jalur pendanaan institusi kampus (DITMAWA), didukung fakta bahwa acara serupa (Wisok) tahun ini sudah didanai dari jalur tersebut.
+- **Interest saya:** Menambah opsi yang punya bukti keberhasilan sebelumnya (preseden Wisok), sehingga peluang keberhasilannya lebih terukur dibanding terus menunggu respons sponsor korporat yang lambat.
+- **Interest Alin (tersirat):** Tetap mendapat laporan status terkini meski tidak aktif mengusulkan opsi baru pada momen ini, karena kapasitasnya sedang terbatas.
+
+**Common ground:** Ketiga pihak sepakat bahwa jalur sponsor korporat yang ada saat ini belum cukup diandalkan ("blommm" dijawab), sehingga semua pihak secara aktif membuka diri terhadap opsi tambahan, baik melalui media sosial (IOM), institusi kampus (DITMAWA), maupun pembina organisasi (KSEP).
+
+## Negotiation evidence
+
+::: {.evidence-block}
+**1. Kekhawatiran awal soal kecepatan progres**
+
+![Alin menanyakan progres sponsor kepada saya, dan melaporkan belum ada respons dari pihak sponsor](images/W11-koordinasi-po-kadiv.png)
+
+**2. Pendelegasian otoritas dan konfirmasi sebelum bertindak**
+
+![Alin mendelegasikan penanganan sponsor kepada saya karena kapasitasnya terbatas; saya mengonfirmasi dulu sebelum menerima tanggung jawab tersebut](images/W11-delegasi-tugas.png)
+
+**3. Eksplorasi opsi sumber dana alternatif**
+
+![Diskusi tim mengeksplorasi opsi sumber dana selain sponsor korporat: IOM lewat Instagram dan DITMAWA, dengan rencana tindak lanjut menghubungi pembina KSEP](images/W11-eksplorasi-opsi-dana.png)
+
+> **Saya:** "Btw lin, yang lu chat hari Jumat kemarin udah ada yang jawab belum?"  
+> **Alin:** "Blommm."  
+> **Neha:** "Kalo IOM udah coba yang dari IG? Atleast kalo gadapet dana dari situ, atleast dapet link gitu."  
+> **Saya:** "Kakk kalo dr DITMAWA mau coba ga yaa?"  
+> **Neha:** "Nahh aku mikir juga gituu. Tapi kemanaa coba-nya?"  
+> **Saya:** "Akuu lg tanya kee Wisok tahun inii."  
+> **Neha:** "Aku rencananya pengen chat pembina KSEP besok."  
+> **Saya:** "Soalnya Wisok tahun ini dpt dana dr DITMAWA."
 :::
 
-{{< include ../includes/evidence-template.md >}}
+## Options, agreement, dan dissent
+
+Tiga opsi sumber dana dibahas dalam satu rangkaian percakapan ini:
+
+1. **Melanjutkan menunggu sponsor korporat yang sudah dihubungi:** sudah berjalan, tetapi responsnya lambat ("blommm").
+2. **Mencoba IOM lewat Instagram (usulan Neha):** berpotensi memberi koneksi meski belum tentu dana langsung.
+3. **Mencoba jalur DITMAWA (usulan saya), didukung preseden Wisok yang berhasil didanai dari jalur sama, dengan rencana tindak lanjut menghubungi pembina KSEP (usulan Neha):** opsi ini mendapat respons positif eksplisit dari Neha ("nahh aku mikir juga gituu"), dan langsung ditindaklanjuti dengan rencana konkret.
+
+Tidak ada opsi yang ditolak secara eksplisit oleh salah satu pihak dalam percakapan ini, sehingga saya tidak dapat mengklaim adanya *dissent* yang nyata di sini. Yang terjadi adalah proses **membangun opsi secara kolektif**: usulan satu pihak direspons dan diperkaya oleh pihak lain, bukan diperdebatkan. Saya mengakui ini sebagai keterbatasan terhadap format ideal minggu ini, yang mengharapkan adanya ketidaksetujuan yang dicatat secara eksplisit, bukan hanya kesepakatan yang mulus.
+
+## Relationship review
+
+Proses ini menunjukkan dinamika tim yang sehat: ketika satu jalur (sponsor korporat) lambat, saya dan Neha sama-sama proaktif mengusulkan alternatif tanpa saling menyalahkan kelambatan jalur sebelumnya. Usulan saya (DITMAWA) diterima dengan antusias oleh Neha, dan ia langsung menambahkan rencana konkret (menghubungi pembina KSEP), menunjukkan bahwa kontribusi saya dihargai dan ditindaklanjuti, bukan sekadar didengar.
+
+Pada akhirnya, kerja sama dengan PYC dari jalur sponsor korporat juga berhasil tercapai dan MoU ditandatangani (sebagaimana didokumentasikan pada portofolio Minggu 10), menunjukkan bahwa mengeksplorasi opsi tambahan tidak menggantikan, melainkan melengkapi jalur yang sudah berjalan.
+
+- AI (Claude) digunakan untuk membantu menyusun struktur portofolio dan analisis dari tiga tangkapan layar percakapan yang saya berikan. AI tidak digunakan untuk mengarang *dissent* yang sebenarnya tidak terjadi dalam percakapan; ketiadaan penolakan eksplisit dinyatakan secara jujur.
+- *Next practice:* pada eksplorasi opsi berikutnya, saya akan secara eksplisit menanyakan pendapat Alin (Kadiv) terhadap opsi-opsi baru yang diusulkan, karena dalam percakapan ini diskusi opsi hanya terjadi antara saya dan Neha, sementara Alin tidak dilibatkan langsung pada tahap brainstorming, meski ia adalah pihak dengan otoritas atas strategi divisi.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+| :--- | :---: | :--- |
+| Person & Character | 5 | Tiga sampai lima pihak dipetakan (PO, Kadiv, sponsor korporat, IOM, DITMAWA/pembina KSEP) dengan objective dan state berbeda |
+| Objective & State | 5 | *Common ground* teridentifikasi; tiga opsi sumber dana dibandingkan dengan dasar yang jelas (preseden Wisok untuk DITMAWA) |
+| Repertoire, Language & AI | 3 | Usulan opsi disampaikan dan direspons secara kolaboratif; batas AI dinyatakan jujur |
+| Response & Adaptation | 4 | Opsi baru diusulkan dan langsung ditindaklanjuti dengan rencana konkret (chat pembina KSEP) begitu jalur pertama terbukti lambat |
+| Agreement, Action & Relationship | 3 | Tidak ada *dissent* eksplisit yang dicatat, tetapi kolaborasi opsi tercapai dan satu jalur (sponsor korporat) akhirnya terealisasi, dikonfirmasi oleh evidence Minggu 10 |
+
+**Total:** 19/20, Kompeten.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
