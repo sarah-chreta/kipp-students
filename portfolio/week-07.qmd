@@ -2,7 +2,7 @@
 title: "Problem–Solution Interest Pitch"
 week: 7
 status: "Siap dinilai"
-self_score: "16"
+self_score: "19"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]

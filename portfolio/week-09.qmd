@@ -2,7 +2,7 @@
 title: "Desire-State Communication"
 week: 9
 status: "Siap dinilai"
-self_score: "15"
+self_score: "18"
 assessor_score: "—"
 description: "Current state, desired state, value, evidence, dan risk."
 categories: [TAIDA, Desire]

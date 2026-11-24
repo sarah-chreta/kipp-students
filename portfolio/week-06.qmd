@@ -2,7 +2,7 @@
 title: "Target–Attention Challenge"
 week: 6
 status: "Siap dinilai"
-self_score: "17"
+self_score: "18"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]

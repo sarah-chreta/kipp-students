@@ -2,7 +2,7 @@
 title: "Multi-Person Negotiation Challenge"
 week: 11
 status: "Siap dinilai"
-self_score: "17"
+self_score: "19"
 assessor_score: "—"
 description: "Stakeholder map, interests, options, trade-offs, dan agreement."
 categories: [Negotiation, Stakeholder]
