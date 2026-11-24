@@ -1498,62 +1498,51 @@
     "href": "portfolio/week-06.html#evidence-wajib",
     "title": "Target–Attention Challenge",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nTarget map dan alasan memilih satu target.\nProblem/opportunity pitch serta evidence.\nResponse, state sesudah pitch, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 6 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nTarget map dan alasan memilih satu target.\nProblem/opportunity pitch serta evidence.\nResponse, state sesudah pitch, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#konteks-performance",
-    "href": "portfolio/week-06.html#konteks-performance",
+    "objectID": "portfolio/week-06.html#target-map",
+    "href": "portfolio/week-06.html#target-map",
     "title": "Target–Attention Challenge",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Target map",
+    "text": "Target map\n\n\n\n\n\n\n\n\n\nPerson\nRelevance\nAuthority\nCurrent state\n\n\n\n\nJuri GEMASTIK XIX Divisi IV (babak final)\nMenilai apakah solusi NUSATANI layak dan bernilai bagi penggunanya\nMenentukan skor dan kelolosan tim di babak final\nUnaware, belum tahu NUSATANI, belum paham urgensi masalah petani, belum tahu cara aplikasi membantu\n\n\nDosen pembimbing tim\nSudah mendampingi sejak riset awal\nMemberi arahan teknis dan non-teknis\nAware, sudah memahami solusi sejak proses berjalan\n\n\nPetani (narasumber wawancara)\nPengguna langsung yang mengalami masalah\nMemberi validasi kebutuhan nyata\nProblem aware, sudah pernah diwawancara dan menyampaikan kendalanya\n\n\n\nSaya memilih juri GEMASTIK XIX sebagai target karena otoritasnya paling menentukan nasib proyek, yaitu skor dan kelolosan, dan karena pada sesi final itu, ia benar-benar belum tahu apa pun tentang NUSATANI. Dosen pembimbing dan narasumber petani sudah berada di state yang lebih maju, sehingga tidak cocok untuk menguji kemampuan menarik perhatian dari titik nol.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#evidence",
-    "href": "portfolio/week-06.html#evidence",
+    "objectID": "portfolio/week-06.html#attention-pitch",
+    "href": "portfolio/week-06.html#attention-pitch",
     "title": "Target–Attention Challenge",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Attention pitch",
+    "text": "Attention pitch\n\n“Tim kami menjelaskan bahwa petani, terutama yang berusia di bawah 35 tahun, menghadapi tiga masalah utama: gagal panen akibat faktor cuaca, keterbatasan pengetahuan soal hama dan penyakit tanaman, serta isu regenerasi petani. Kami lalu memaparkan proses riset kami, mulai dari wawancara pengguna hingga tiga putaran user testing, dan menutupnya dengan menunjukkan rancangan high-fidelity di Figma untuk tiga fitur utama: Monitor dan Panduan Tindakan, Lensa Tani, dan Tanya AI.”\n\nEvidence yang dipakai: proses riset bertahap (wawancara, tiga putaran testing) dan prototipe Figma high-fidelity sebagai bukti bahwa solusi sudah divalidasi, bukan sekadar ide.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#analisis-komunikasi",
-    "href": "portfolio/week-06.html#analisis-komunikasi",
+    "objectID": "portfolio/week-06.html#response-dan-state-assessment",
+    "href": "portfolio/week-06.html#response-dan-state-assessment",
     "title": "Target–Attention Challenge",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "section": "Response dan state assessment",
+    "text": "Response dan state assessment\nJuri merespons dengan tertarik dan mengajukan beberapa pertanyaan verifikasi:\n\nJuri: “Kalau misalnya nggak ada koneksi IoT, itu masih bisa kah?”\nTim kami: “Bisa, karena dibantu chip juga di IoT-nya.”\n\n\nJuri: “Masalah yang dihadapi petani itu sebenarnya apa aja?”\nTim kami: “Jadi tiga masalah utama: gagal panen karena faktor cuaca yang di luar kendali petani, keterbatasan pengetahuan soal hama dan penyakit tanaman sehingga seringnya penanganan telat, dan isu regenerasi petani karena generasi muda jarang mau melanjutkan jadi petani.”\n\n\nJuri: “Terus, keterlambatan memberi pupuk dan air itu maksudnya gimana?”\nTim kami: “Keterlambatan pemberian pupuk dan air itu sendiri memang salah satu masalah yang biasa dihadapi petani. Hal ini berkaitan juga dengan masalah hama atau penyakit tanaman yang bisa muncul karena penanganan yang telat. Makanya solusi yang kami tawarkan memang menyasar bagian itu, supaya petani bisa dibantu mengetahui dan menangani masalah tersebut lebih cepat.”\n\nRespons ini menunjukkan state juri berubah dari Unaware menjadi Attention yang mengarah ke Interest awal. Ia tidak hanya memperhatikan, tetapi aktif menggali detail teknis (redundansi IoT) dan detail masalah (jenis kendala petani), yang berarti ia sudah mempertimbangkan kelayakan solusi, bukan sekadar mendengarkan secara pasif. Namun saya tidak mengklaim state-nya sudah mencapai Desire atau Action, karena juri belum menyatakan dukungan eksplisit terhadap kelolosan atau skor.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
     ]
   },
   {
-    "objectID": "portfolio/week-06.html#penggunaan-ai",
-    "href": "portfolio/week-06.html#penggunaan-ai",
+    "objectID": "portfolio/week-06.html#evidence-dan-refleksi",
+    "href": "portfolio/week-06.html#evidence-dan-refleksi",
     "title": "Target–Attention Challenge",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
-    "crumbs": [
-      "Beranda",
-      "Target–Attention Challenge"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-06.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-06.html#feedback-dan-tindak-lanjut",
-    "title": "Target–Attention Challenge",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "section": "Evidence dan refleksi",
+    "text": "Evidence dan refleksi\n\nTangkapan layar sesi final GEMASTIK XIX Divisi IV Desain Pengalaman Pengguna, menunjukkan tim BURUBURU mempresentasikan prototipe NUSATANI secara langsung kepada tiga juri. Nama dan wajah juri serta rekan tim lain disamarkan.\n\n\n\nSesi final GEMASTIK XIX Divisi IV: tim BURUBURU mempresentasikan prototipe NUSATANI kepada juri\n\n\nDialog pada bagian Attention pitch dan Response adalah rekonstruksi dari ingatan tim terhadap jalannya tanya jawab, bukan transkrip kata per kata, karena sesi tersebut tidak direkam secara terpisah untuk kebutuhan tugas ini.\nAI (Claude) digunakan untuk membantu menyusun struktur portofolio dan merapikan narasi episode berdasarkan cerita yang saya sampaikan, termasuk mengelaborasi satu jawaban saya menjadi kalimat yang lebih runtut tanpa mengubah maksudnya. AI tidak digunakan untuk mengarang isi pertanyaan atau jawaban juri.\nNext practice: menyiapkan jawaban untuk pertanyaan verifikasi teknis, seperti redundansi IoT, sebelum sesi presentasi berikutnya, supaya responsnya lebih runtut dan tidak terkesan dadakan.",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -1564,7 +1553,7 @@
     "href": "portfolio/week-06.html#self-assessment",
     "title": "Target–Attention Challenge",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nTarget dipilih berdasarkan relevance dan authority dibanding dua target lain yang dipertimbangkan\n\n\nObjective & State\n3\nState awal (Unaware) dan state sesudah (Attention menuju Interest) dinyatakan dengan batasan yang jelas\n\n\nRepertoire, Language & AI\n3\nPitch terstruktur (masalah ke proses ke solusi); penggunaan AI dinyatakan\n\n\nResponse & Adaptation\n4\nDua pertanyaan verifikasi juri direspons langsung dan spesifik, dengan detail teknis dan konteks masalah\n\n\nAgreement, Action & Relationship\n4\nDokumentasi asli sesi final terlampir sebagai evidence yang dapat diverifikasi\n\n\n\nTotal: 17/20, Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Target–Attention Challenge"
@@ -7523,62 +7512,51 @@
     "href": "portfolio/week-07.html#evidence-wajib",
     "title": "Problem–Solution Interest Pitch",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nAttention evidence dan problem–solution link.\nInterest pitch dengan evidence atau demonstration.\nResponse, state assessment, hidden concern, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 7 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nAttention evidence dan problem–solution link.\nInterest pitch dengan evidence atau demonstration.\nResponse, state assessment, hidden concern, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#konteks-performance",
-    "href": "portfolio/week-07.html#konteks-performance",
+    "objectID": "portfolio/week-07.html#problem-mechanism-benefit-dan-value",
+    "href": "portfolio/week-07.html#problem-mechanism-benefit-dan-value",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Problem, mechanism, benefit, dan value",
+    "text": "Problem, mechanism, benefit, dan value\n\n\n\n\n\n\n\n\n\nProblem\nMechanism\nExpected benefit\nValue bagi target\n\n\n\n\nGagal panen akibat faktor cuaca dan keterlambatan pemberian pupuk/air\nFitur Monitor dan Panduan Tindakan: sensor IoT (kelembapan tanah, pH, NPK, suhu) mengirim data lahan secara real-time ke aplikasi, digabung dengan data cuaca dari BMKG, lalu sistem menyusun daftar tindakan (to-do list) yang perlu dilakukan petani, misalnya kapan harus menyiram atau memupuk\nPetani tidak lagi menebak jadwal perawatan sendiri, sehingga tindakan seperti pemberian pupuk dan air bisa lebih tepat waktu dan sesuai kondisi lahan yang sebenarnya\nMengurangi risiko gagal panen yang dapat dicegah, bukan karena faktor alam yang tidak terkendali, melainkan karena keterlambatan penanganan yang sebenarnya bisa dihindari\n\n\nKeterbatasan pengetahuan soal hama dan penyakit tanaman\nFitur Lensa Tani: petani memotret tanaman yang bermasalah, foto dikirim ke API AI yang menganalisis dan mengembalikan diagnosis hama/penyakit beserta rekomendasi tindakan penanganannya\nPetani tidak perlu menebak sendiri jenis hama atau penyakit, dan langsung mendapat langkah penanganan yang sesuai\nPenanganan hama dan penyakit menjadi lebih cepat dan tepat, sehingga menekan salah satu penyebab gagal panen yang paling sering terjadi\n\n\nRegenerasi petani yang melambat karena generasi muda enggan menjadi petani\nFitur Tanya AI: petani dapat bertanya langsung ke AI kapan saja, tanpa harus menunggu jadwal kunjungan penyuluh pertanian yang sering memakan waktu lama\nPetani muda mendapat jawaban cepat atas pertanyaan sehari-hari, sehingga bertani terasa tidak serumit dan tidak semenakutkan yang dibayangkan\nMenurunkan hambatan masuk bagi petani muda, karena ketergantungan pada pengetahuan tacit dari penyuluh atau petani senior berkurang\n\n\n\nKetiga mekanisme ini didukung oleh arsitektur yang sama: sensor IoT (mikrokontroler ESP32 dengan sensor multi-parameter) terhubung lewat modul seluler 4G LTE ke server cloud, lalu diautentikasi ke akun pengguna melalui QR scan, sementara prototipe antarmuka dibangun di Figma secara high-fidelity dan rencana implementasinya menggunakan Flutter untuk Android dan iOS.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#evidence",
-    "href": "portfolio/week-07.html#evidence",
+    "objectID": "portfolio/week-07.html#pitch-dan-demonstration",
+    "href": "portfolio/week-07.html#pitch-dan-demonstration",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Pitch dan demonstration",
+    "text": "Pitch dan demonstration\nPitch ini disampaikan dalam sesi yang sama dengan episode Minggu 6, saat tim kami mempresentasikan NUSATANI kepada juri GEMASTIK XIX Divisi IV.\n\n“Ketiga masalah yang kami sebutkan tadi, yaitu gagal panen akibat cuaca dan keterlambatan perawatan, hama dan penyakit tanaman, serta regenerasi petani, masing-masing punya fitur yang menjawabnya. Monitor dan Panduan Tindakan memanfaatkan data sensor lahan dan cuaca supaya petani tahu kapan harus menyiram dan memupuk. Lensa Tani membantu mendeteksi hama atau penyakit dari foto tanaman dan langsung memberi rekomendasi penanganan. Tanya AI membantu petani, khususnya yang muda, mendapat jawaban cepat tanpa menunggu penyuluh.”\n\nJuri kemudian mengajukan pertanyaan yang sama dengan yang dibahas pada episode Minggu 6:\n\nJuri: “Kalau misalnya nggak ada koneksi IoT, itu masih bisa kah?”\nTim kami: “Bisa, karena dibantu chip juga di IoT-nya.”",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#analisis-komunikasi",
-    "href": "portfolio/week-07.html#analisis-komunikasi",
+    "objectID": "portfolio/week-07.html#hidden-concern-dan-adaptation",
+    "href": "portfolio/week-07.html#hidden-concern-dan-adaptation",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "section": "Hidden concern dan adaptation",
+    "text": "Hidden concern dan adaptation\nPada awalnya, saya mengira pertanyaan juri soal koneksi IoT hanya menanyakan ketahanan teknis sistem. Setelah direnungkan kembali, kekhawatiran sebenarnya tampaknya lebih mendasar: apakah nilai utama aplikasi ini bergantung sepenuhnya pada IoT, sehingga kalau sambungannya bermasalah, aplikasi jadi tidak berguna sama sekali. Jika benar, itu artinya seluruh value proposition NUSATANI berisiko runtuh pada satu titik kegagalan.\nTim kami menjawab dengan menjelaskan bahwa hama dan penyakit tanaman adalah salah satu penyebab gagal panen yang paling sering terjadi, dan fitur Lensa Tani untuk mendeteksinya bekerja berdasarkan foto yang diunggah petani, bukan data sensor IoT. Artinya, meskipun koneksi IoT sedang bermasalah, fitur ini tetap bisa dipakai, sehingga aplikasi tidak kehilangan seluruh nilainya hanya karena satu komponen teknis terganggu.\nSaat sesi berlangsung, saya tidak mengubah mekanisme atau desain solusi. Jawaban yang diberikan murni klarifikasi lisan di tempat, bukan adaptasi nyata terhadap produk.\nNamun, merenungkan kembali untuk kebutuhan portofolio ini, saya menyadari bahwa klarifikasi kami sebenarnya bisa diperjelas lebih jauh. Secara desain, Lensa Tani dan Tanya AI sebenarnya memang tidak bergantung pada sensor IoT, karena keduanya hanya membutuhkan input foto atau teks dari pengguna. Hanya fitur Monitor dan Panduan Tindakan yang benar-benar bergantung pada data sensor real-time. Artinya, jawaban saya kepada juri sebenarnya bisa diperjelas lagi: bukan sekadar “masih bisa dipakai”, tetapi dua dari tiga fitur memang secara desain sudah independen dari IoT sejak awal. Kesadaran ini baru muncul saat menulis portofolio, bukan saat sesi presentasi berlangsung, sehingga tidak dapat saya klaim sebagai adaptasi yang terjadi di tempat.\nJuri menunjukkan sinyal Interest dengan menyatakan secara eksplisit bahwa ide ini menarik dan bahwa masalah yang kami angkat memang nyata terjadi di Indonesia namun kurang mendapat perhatian. Saya menandai ini sebagai Interest terhadap masalah yang kuat, tetapi belum tentu Interest terhadap solusi yang sama kuatnya, karena pertanyaan juri sebelumnya justru menunjukkan ia masih mempertanyakan ketangguhan desain solusinya. Membedakan dua jenis Interest ini penting: validasi atas urgensi masalah tidak otomatis berarti solusi kami sudah dianggap tepat.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
     ]
   },
   {
-    "objectID": "portfolio/week-07.html#penggunaan-ai",
-    "href": "portfolio/week-07.html#penggunaan-ai",
+    "objectID": "portfolio/week-07.html#evidence-dan-refleksi",
+    "href": "portfolio/week-07.html#evidence-dan-refleksi",
     "title": "Problem–Solution Interest Pitch",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
-    "crumbs": [
-      "Beranda",
-      "Problem–Solution Interest Pitch"
-    ]
-  },
-  {
-    "objectID": "portfolio/week-07.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-07.html#feedback-dan-tindak-lanjut",
-    "title": "Problem–Solution Interest Pitch",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "section": "Evidence dan refleksi",
+    "text": "Evidence dan refleksi\n\nTangkapan layar sesi final GEMASTIK XIX yang dilampirkan pada portofolio Minggu 6 menjadi evidence yang sama untuk episode ini, karena keduanya berasal dari sesi tanya jawab yang sama.\nDiagram arsitektur sistem (System Context Diagram) NUSATANI digunakan sebagai evidence pendukung untuk menjelaskan mekanisme teknis di balik setiap fitur, khususnya alur data dari Sensor IoT dan API AI menuju aplikasi.\nDialog pada bagian Pitch dan demonstration adalah rekonstruksi dari ingatan tim, bukan transkrip kata per kata, karena sesi tersebut tidak direkam secara terpisah untuk kebutuhan tugas ini.\nAI (Claude) digunakan untuk membantu menyusun struktur portofolio, menyusun tabel Problem, Mechanism, Expected benefit, Value, dan mengelaborasi jawaban saya menjadi kalimat yang lebih runtut tanpa mengubah maksudnya. AI tidak digunakan untuk mengarang detail teknis sistem; detail tersebut saya ambil dari dokumentasi arsitektur proyek yang sudah ada.\nNext practice: saat menjelaskan ketergantungan sistem pada koneksi, saya akan memetakan dulu fitur mana yang benar-benar bergantung pada komponen tersebut dan mana yang tidak, sebelum menjawab pertanyaan serupa di sesi presentasi berikutnya. Untuk fitur Monitor dan Panduan Tindakan yang memang bergantung pada data sensor, saya juga perlu merancang skenario saat koneksi IoT terputus, misalnya menentukan apakah ada mode cadangan atau pemberitahuan ke petani.",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -7589,7 +7567,7 @@
     "href": "portfolio/week-07.html#self-assessment",
     "title": "Problem–Solution Interest Pitch",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n3\nTarget (juri) yang sama dengan Minggu 6 dipertahankan, konsisten dengan otoritasnya dalam menilai kelayakan solusi\n\n\nObjective & State\n3\nTabel problem-mechanism-benefit-value menghubungkan tiga masalah dengan tiga fitur secara eksplisit\n\n\nRepertoire, Language & AI\n3\nPitch terstruktur per fitur; penggunaan AI dan sumber teknis dinyatakan jujur\n\n\nResponse & Adaptation\n4\nKekhawatiran tersembunyi diidentifikasi secara reflektif; diakui jujur tidak ada adaptasi di tempat, tetapi analisis lanjutan memetakan fitur mana yang sebenarnya bergantung pada IoT dan mana yang tidak\n\n\nAgreement, Action & Relationship\n4\nSinyal Interest dari juri dicatat dan dianalisis secara kritis, dengan membedakan Interest terhadap masalah dan terhadap solusi\n\n\n\nTotal: 16/20, Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Problem–Solution Interest Pitch"
@@ -7622,62 +7600,62 @@
     "href": "portfolio/week-09.html#evidence-wajib",
     "title": "Desire-State Communication",
     "section": "Evidence wajib",
-    "text": "Evidence wajib\n\nCurrent dan desired state milik person.\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation.\n\n\n\n\n\n\n\nTipLihat contoh pengisian\n\n\n\nBuka contoh fiktif Minggu 9 untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.",
+    "text": "Evidence wajib\n\nCurrent dan desired state milik person.\nFeature–benefit–value–outcome chain.\nRisk, evidence threshold, response, dan adaptation.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#konteks-performance",
-    "href": "portfolio/week-09.html#konteks-performance",
+    "objectID": "portfolio/week-09.html#current-dan-desired-state",
+    "href": "portfolio/week-09.html#current-dan-desired-state",
     "title": "Desire-State Communication",
-    "section": "Konteks performance",
-    "text": "Konteks performance\nTanggal dan setting: Ganti dengan tanggal, tempat, dan bentuk kegiatan.\nPersons dan relationship: Jelaskan siapa yang terlibat tanpa membuka data pribadi yang tidak diperlukan.\nObjective dan initial state: Nyatakan perubahan yang ingin dicapai serta evidence state awal.",
+    "section": "Current dan desired state",
+    "text": "Current dan desired state\nTarget: Narasumber petani yang diwawancarai saat sesi user testing lapangan NUSATANI.\nCurrent state: Petani ini mengenal kesulitan menentukan tindakan perawatan tanaman hanya berdasarkan intuisi pribadi, dan ia secara eksplisit menyebut hal ini sebagai sesuatu yang “ribet” bagi petani muda yang belum punya pengalaman sebanyak petani senior.\nDesired state: Kami ingin NUSATANI benar-benar dipublikasikan dan dipakai oleh petani, bukan berhenti sebagai purwarupa kompetisi. Secara spesifik, kami ingin melihat penurunan kasus gagal panen yang disebabkan oleh keterlambatan penanganan hama/penyakit dan kesalahan waktu pemberian pupuk/air, serta melihat semakin banyak petani muda yang merasa terbantu dan tidak lagi menganggap bertani sebagai pekerjaan yang terlalu rumit untuk dijalani.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#evidence",
-    "href": "portfolio/week-09.html#evidence",
+    "objectID": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
+    "href": "portfolio/week-09.html#featurebenefitvalueoutcome-chain",
     "title": "Desire-State Communication",
-    "section": "Evidence",
-    "text": "Evidence\n\nTambahkan link, gambar, video, transcript, artefak, catatan observer, atau bukti tindakan. Jelaskan bagian mana yang merupakan kontribusi Anda.",
+    "section": "Feature–benefit–value–outcome chain",
+    "text": "Feature–benefit–value–outcome chain\nMonitor dan Panduan Tindakan → petani tahu kapan harus menyiram/memupuk → keterlambatan penanganan berkurang → gagal panen akibat faktor yang sebenarnya bisa dicegah menurun.\nLensa Tani → petani dapat mendiagnosis hama/penyakit lebih cepat lewat foto → penanganan dilakukan sebelum kerusakan meluas → gagal panen akibat hama/penyakit menurun.\nTanya AI → petani muda mendapat jawaban cepat tanpa menunggu penyuluh → bertani terasa tidak serumit yang dibayangkan → lebih banyak generasi muda bertahan sebagai petani, sehingga regenerasi petani membaik.\nKami tidak menyatakan rantai ini sebagai kepastian. Setiap panah adalah hipotesis yang baru bisa diuji kebenarannya setelah aplikasi benar-benar dipakai petani dalam jangka waktu tertentu, bukan hanya didemonstrasikan dalam sesi presentasi atau testing satu kali.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#analisis-komunikasi",
-    "href": "portfolio/week-09.html#analisis-komunikasi",
+    "objectID": "portfolio/week-09.html#percakapan-dan-response",
+    "href": "portfolio/week-09.html#percakapan-dan-response",
     "title": "Desire-State Communication",
-    "section": "Analisis komunikasi",
-    "text": "Analisis komunikasi\n\n\n\nElemen\nEvidence dan analisis\n\n\n\n\nPerson & character\nGanti dengan analisis Anda.\n\n\nObjective & state\nGanti dengan analisis Anda.\n\n\nRepertoire & language\nGanti dengan analisis Anda.\n\n\nResponse & adaptation\nGanti dengan analisis Anda.\n\n\nAgreement/action\nGanti dengan analisis Anda.\n\n\nRelationship outcome\nGanti dengan analisis Anda.",
+    "section": "Percakapan dan response",
+    "text": "Percakapan dan response\nPada sesi user testing lapangan, tim kami menjelaskan kepada narasumber petani bahwa jika aplikasi ini berhasil, ia akan benar-benar bisa membantu menyelesaikan masalah seperti gagal panen akibat keterlambatan penanganan dan kesulitan regenerasi petani muda.\n\nPetani: “Wah, ini kalau benar-benar bisa berhasil dan beneran ada, bisa membantu banget sih. Soalnya ini ribet juga kalau harus pakai intuisi sendiri, apalagi buat petani muda. Bakal ngebantu banget pokoknya.”\n\nRespons ini menunjukkan bahwa petani tersebut memvalidasi rumusan desired state kami dari sudut pandang pengguna nyata, bukan sekadar juri kompetisi. Ia menguatkan bahwa masalah “mengandalkan intuisi sendiri” memang terasa berat, khususnya bagi petani muda yang belum punya banyak pengalaman, sehingga tiga fitur kami memang menjawab kebutuhan yang ia rasakan sendiri.\nNamun, saya perlu mengakui secara jujur bahwa respons ini adalah validasi, bukan koreksi. Petani ini tidak mempertajam atau mengubah definisi “berhasil” yang kami ajukan, berbeda dari pola ideal di mana target membantu memperjelas desired state lewat koreksi langsung, misalnya dengan mengungkapkan ukuran keberhasilan yang lebih spesifik dari sudut pandangnya sendiri. Ia menyetujui gagasan secara umum, tetapi kami belum menguji seberapa detail pemahamannya tentang “berhasil”, misalnya berapa kali ia perlu memakai aplikasi ini sebelum ia sendiri menganggapnya berhasil.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#penggunaan-ai",
-    "href": "portfolio/week-09.html#penggunaan-ai",
+    "objectID": "portfolio/week-09.html#risk-dan-evidence",
+    "href": "portfolio/week-09.html#risk-dan-evidence",
     "title": "Desire-State Communication",
-    "section": "Penggunaan AI",
-    "text": "Penggunaan AI\nNyatakan Tidak menggunakan AI atau jelaskan:\n\nalat dan peran AI;\nprompt atau instruksi penting;\nbagian output yang digunakan, diubah, atau ditolak;\npemeriksaan accuracy, privacy, dan authority;\napa yang tetap Anda pelajari sebagai manusia.",
+    "section": "Risk dan evidence",
+    "text": "Risk dan evidence\nRisiko utama adalah kesenjangan antara prototipe dan realitas penggunaan. Antusiasme petani pada sesi testing ini bisa jadi dipengaruhi oleh suasana wawancara yang positif (social desirability bias), bukan murni penilaian objektif terhadap kelayakan aplikasi. Petani yang menjadi target pengguna juga belum tentu memiliki perangkat dengan koneksi internet stabil, belum tentu terbiasa dengan antarmuka aplikasi modern, dan pemasangan sensor IoT di lahan membutuhkan biaya serta kemauan yang belum tentu dimiliki semua petani kecil.\nSafeguard yang kami tawarkan: fitur Lensa Tani dan Tanya AI dirancang tetap bisa dipakai tanpa sensor IoT, seperti yang dianalisis pada portofolio Minggu 7, sehingga nilai aplikasi tidak bergantung sepenuhnya pada infrastruktur yang mahal.\nEvidence threshold yang perlu dipenuhi sebelum klaim “menyelesaikan masalah gagal panen dan regenerasi petani” bisa dianggap valid: uji coba nyata dengan sekelompok petani selama minimal satu musim tanam, dengan data gagal panen dan tingkat penggunaan aplikasi yang terukur, bukan hanya respons antusias dari satu sesi wawancara singkat.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
     ]
   },
   {
-    "objectID": "portfolio/week-09.html#feedback-dan-tindak-lanjut",
-    "href": "portfolio/week-09.html#feedback-dan-tindak-lanjut",
+    "objectID": "portfolio/week-09.html#evidence-dan-refleksi",
+    "href": "portfolio/week-09.html#evidence-dan-refleksi",
     "title": "Desire-State Communication",
-    "section": "Feedback dan tindak lanjut",
-    "text": "Feedback dan tindak lanjut\nFeedback yang diterima: Ganti dengan kutipan atau ringkasan berbasis evidence.\nAdaptation/replay: Jelaskan apa yang Anda ubah dan response setelah perubahan.\nNext practice: Tetapkan satu perilaku spesifik yang akan dilatih berikutnya.",
+    "section": "Evidence dan refleksi",
+    "text": "Evidence dan refleksi\n\n\n\n\nWawancara user testing lapangan bersama narasumber petani, membahas potensi manfaat NUSATANI bagi petani muda dan kebutuhan nyata terkait keputusan perawatan tanaman. Wajah narasumber disamarkan.\n\n\nKontribusi saya: melakukan wawancara user testing langsung di lahan tanam, menyampaikan gagasan desired state aplikasi, dan mendokumentasikan respons narasumber.\n\n\nEpisode ini juga melanjutkan evidence dari portofolio Minggu 6 dan 7, yaitu tangkapan layar sesi final GEMASTIK XIX dan diagram arsitektur sistem NUSATANI.\nKutipan petani di atas adalah rekonstruksi dari ingatan tim terhadap inti ucapannya, bukan transkrip kata per kata, karena sesi tersebut tidak direkam secara terpisah untuk kebutuhan tugas ini.\nAI (Claude) digunakan untuk membantu menyusun struktur portofolio dan mengelaborasi jawaban saya menjadi kalimat yang lebih runtut. AI tidak digunakan untuk mengarang koreksi desired state yang sebenarnya tidak terjadi; respons petani dinyatakan secara jujur sebagai validasi, bukan koreksi.\nNext practice: pada sesi user testing berikutnya, saya akan secara eksplisit menanyakan ukuran keberhasilan dari sudut pandang petani sendiri, misalnya “menurut Bapak/Ibu, kalau aplikasi ini bekerja dengan baik, hal konkret apa yang akan berubah dalam cara Bapak/Ibu bertani?”, supaya desired state benar-benar teruji dan dikoreksi oleh pengguna, bukan hanya divalidasi secara umum.",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"
@@ -7688,7 +7666,7 @@
     "href": "portfolio/week-09.html#self-assessment",
     "title": "Desire-State Communication",
     "section": "Self-assessment",
-    "text": "Self-assessment\n\n\n\nDimensi\nSkor 1–4\nEvidence singkat\n\n\n\n\nPerson & Character\n—\n—\n\n\nObjective & State\n—\n—\n\n\nRepertoire, Language & AI\n—\n—\n\n\nResponse & Adaptation\n—\n—\n\n\nAgreement, Action & Relationship\n—\n—\n\n\n\nTotal: — / 20\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
+    "text": "Self-assessment\n\n\n\n\n\n\n\n\nDimensi\nSkor\nEvidence singkat\n\n\n\n\nPerson & Character\n4\nTarget diperluas ke pengguna nyata (petani), bukan hanya juri kompetisi, dengan evidence foto lapangan\n\n\nObjective & State\n3\nCurrent dan desired state dirumuskan jelas dan divalidasi dari sudut pandang pengguna\n\n\nRepertoire, Language & AI\n3\nFeature-benefit-value-outcome chain disusun sebagai hipotesis, bukan klaim pasti; batas AI dinyatakan\n\n\nResponse & Adaptation\n2\nDiakui jujur bahwa respons petani bersifat validasi, bukan koreksi terhadap rumusan desired state\n\n\nAgreement, Action & Relationship\n3\nEvidence threshold dirumuskan dengan mempertimbangkan risiko social desirability bias dari respons antusias narasumber\n\n\n\nTotal: 15/20, Kompeten.\n\nAssessment dosen\nSkor: — / 20\nEvidence yang mendukung: —\nPrioritas perbaikan: —\nKeputusan: Belum dinilai / Perlu revisi / Tercapai",
     "crumbs": [
       "Beranda",
       "Desire-State Communication"

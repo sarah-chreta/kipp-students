@@ -1,8 +1,8 @@
 ---
 title: "Problem–Solution Interest Pitch"
 week: 7
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "16"
 assessor_score: "—"
 description: "Problem–solution fit dan signal Interest."
 categories: [TAIDA, Interest]
@@ -18,8 +18,64 @@ Menghubungkan solution mechanism dengan problem, benefit, dan value yang relevan
 - Interest pitch dengan evidence atau demonstration.
 - Response, state assessment, hidden concern, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 7](../examples/week-07.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Problem, mechanism, benefit, dan value
 
-{{< include ../includes/evidence-template.md >}}
+| Problem | Mechanism | Expected benefit | Value bagi target |
+| :--- | :--- | :--- | :--- |
+| Gagal panen akibat faktor cuaca dan keterlambatan pemberian pupuk/air | Fitur **Monitor dan Panduan Tindakan**: sensor IoT (kelembapan tanah, pH, NPK, suhu) mengirim data lahan secara real-time ke aplikasi, digabung dengan data cuaca dari BMKG, lalu sistem menyusun daftar tindakan (to-do list) yang perlu dilakukan petani, misalnya kapan harus menyiram atau memupuk | Petani tidak lagi menebak jadwal perawatan sendiri, sehingga tindakan seperti pemberian pupuk dan air bisa lebih tepat waktu dan sesuai kondisi lahan yang sebenarnya | Mengurangi risiko gagal panen yang dapat dicegah, bukan karena faktor alam yang tidak terkendali, melainkan karena keterlambatan penanganan yang sebenarnya bisa dihindari |
+| Keterbatasan pengetahuan soal hama dan penyakit tanaman | Fitur **Lensa Tani**: petani memotret tanaman yang bermasalah, foto dikirim ke API AI yang menganalisis dan mengembalikan diagnosis hama/penyakit beserta rekomendasi tindakan penanganannya | Petani tidak perlu menebak sendiri jenis hama atau penyakit, dan langsung mendapat langkah penanganan yang sesuai | Penanganan hama dan penyakit menjadi lebih cepat dan tepat, sehingga menekan salah satu penyebab gagal panen yang paling sering terjadi |
+| Regenerasi petani yang melambat karena generasi muda enggan menjadi petani | Fitur **Tanya AI**: petani dapat bertanya langsung ke AI kapan saja, tanpa harus menunggu jadwal kunjungan penyuluh pertanian yang sering memakan waktu lama | Petani muda mendapat jawaban cepat atas pertanyaan sehari-hari, sehingga bertani terasa tidak serumit dan tidak semenakutkan yang dibayangkan | Menurunkan hambatan masuk bagi petani muda, karena ketergantungan pada pengetahuan tacit dari penyuluh atau petani senior berkurang |
+
+Ketiga mekanisme ini didukung oleh arsitektur yang sama: sensor IoT (mikrokontroler ESP32 dengan sensor multi-parameter) terhubung lewat modul seluler 4G LTE ke *server cloud*, lalu diautentikasi ke akun pengguna melalui QR scan, sementara prototipe antarmuka dibangun di Figma secara *high-fidelity* dan rencana implementasinya menggunakan Flutter untuk Android dan iOS.
+
+## Pitch dan demonstration
+
+Pitch ini disampaikan dalam sesi yang sama dengan episode Minggu 6, saat tim kami mempresentasikan NUSATANI kepada juri GEMASTIK XIX Divisi IV.
+
+> "Ketiga masalah yang kami sebutkan tadi, yaitu gagal panen akibat cuaca dan keterlambatan perawatan, hama dan penyakit tanaman, serta regenerasi petani, masing-masing punya fitur yang menjawabnya. Monitor dan Panduan Tindakan memanfaatkan data sensor lahan dan cuaca supaya petani tahu kapan harus menyiram dan memupuk. Lensa Tani membantu mendeteksi hama atau penyakit dari foto tanaman dan langsung memberi rekomendasi penanganan. Tanya AI membantu petani, khususnya yang muda, mendapat jawaban cepat tanpa menunggu penyuluh."
+
+Juri kemudian mengajukan pertanyaan yang sama dengan yang dibahas pada episode Minggu 6:
+
+> **Juri:** "Kalau misalnya nggak ada koneksi IoT, itu masih bisa kah?"  
+> **Tim kami:** "Bisa, karena dibantu chip juga di IoT-nya."
+
+## Hidden concern dan adaptation
+
+Pada awalnya, saya mengira pertanyaan juri soal koneksi IoT hanya menanyakan ketahanan teknis sistem. Setelah direnungkan kembali, kekhawatiran sebenarnya tampaknya lebih mendasar: **apakah nilai utama aplikasi ini bergantung sepenuhnya pada IoT, sehingga kalau sambungannya bermasalah, aplikasi jadi tidak berguna sama sekali.** Jika benar, itu artinya seluruh *value proposition* NUSATANI berisiko runtuh pada satu titik kegagalan.
+
+Tim kami menjawab dengan menjelaskan bahwa hama dan penyakit tanaman adalah salah satu penyebab gagal panen yang paling sering terjadi, dan fitur Lensa Tani untuk mendeteksinya bekerja berdasarkan foto yang diunggah petani, bukan data sensor IoT. Artinya, meskipun koneksi IoT sedang bermasalah, fitur ini tetap bisa dipakai, sehingga aplikasi tidak kehilangan seluruh nilainya hanya karena satu komponen teknis terganggu.
+
+Saat sesi berlangsung, saya tidak mengubah mekanisme atau desain solusi. Jawaban yang diberikan murni klarifikasi lisan di tempat, bukan adaptasi nyata terhadap produk.
+
+Namun, merenungkan kembali untuk kebutuhan portofolio ini, saya menyadari bahwa klarifikasi kami sebenarnya bisa diperjelas lebih jauh. Secara desain, Lensa Tani dan Tanya AI sebenarnya memang tidak bergantung pada sensor IoT, karena keduanya hanya membutuhkan input foto atau teks dari pengguna. Hanya fitur Monitor dan Panduan Tindakan yang benar-benar bergantung pada data sensor real-time. Artinya, jawaban saya kepada juri sebenarnya bisa diperjelas lagi: bukan sekadar "masih bisa dipakai", tetapi dua dari tiga fitur memang secara desain sudah independen dari IoT sejak awal. Kesadaran ini baru muncul saat menulis portofolio, bukan saat sesi presentasi berlangsung, sehingga tidak dapat saya klaim sebagai adaptasi yang terjadi di tempat.
+
+Juri menunjukkan sinyal *Interest* dengan menyatakan secara eksplisit bahwa ide ini menarik dan bahwa masalah yang kami angkat memang nyata terjadi di Indonesia namun kurang mendapat perhatian. Saya menandai ini sebagai *Interest terhadap masalah* yang kuat, tetapi belum tentu *Interest terhadap solusi* yang sama kuatnya, karena pertanyaan juri sebelumnya justru menunjukkan ia masih mempertanyakan ketangguhan desain solusinya. Membedakan dua jenis *Interest* ini penting: validasi atas urgensi masalah tidak otomatis berarti solusi kami sudah dianggap tepat.
+
+## Evidence dan refleksi
+
+- Tangkapan layar sesi final GEMASTIK XIX yang dilampirkan pada portofolio Minggu 6 menjadi evidence yang sama untuk episode ini, karena keduanya berasal dari sesi tanya jawab yang sama.
+- Diagram arsitektur sistem (*System Context Diagram*) NUSATANI digunakan sebagai evidence pendukung untuk menjelaskan mekanisme teknis di balik setiap fitur, khususnya alur data dari Sensor IoT dan API AI menuju aplikasi.
+- Dialog pada bagian *Pitch dan demonstration* adalah rekonstruksi dari ingatan tim, bukan transkrip kata per kata, karena sesi tersebut tidak direkam secara terpisah untuk kebutuhan tugas ini.
+- AI (Claude) digunakan untuk membantu menyusun struktur portofolio, menyusun tabel *Problem, Mechanism, Expected benefit, Value*, dan mengelaborasi jawaban saya menjadi kalimat yang lebih runtut tanpa mengubah maksudnya. AI tidak digunakan untuk mengarang detail teknis sistem; detail tersebut saya ambil dari dokumentasi arsitektur proyek yang sudah ada.
+- *Next practice:* saat menjelaskan ketergantungan sistem pada koneksi, saya akan memetakan dulu fitur mana yang benar-benar bergantung pada komponen tersebut dan mana yang tidak, sebelum menjawab pertanyaan serupa di sesi presentasi berikutnya. Untuk fitur Monitor dan Panduan Tindakan yang memang bergantung pada data sensor, saya juga perlu merancang skenario saat koneksi IoT terputus, misalnya menentukan apakah ada mode cadangan atau pemberitahuan ke petani.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+| :--- | :---: | :--- |
+| Person & Character | 3 | Target (juri) yang sama dengan Minggu 6 dipertahankan, konsisten dengan otoritasnya dalam menilai kelayakan solusi |
+| Objective & State | 3 | Tabel problem-mechanism-benefit-value menghubungkan tiga masalah dengan tiga fitur secara eksplisit |
+| Repertoire, Language & AI | 3 | Pitch terstruktur per fitur; penggunaan AI dan sumber teknis dinyatakan jujur |
+| Response & Adaptation | 4 | Kekhawatiran tersembunyi diidentifikasi secara reflektif; diakui jujur tidak ada adaptasi di tempat, tetapi analisis lanjutan memetakan fitur mana yang sebenarnya bergantung pada IoT dan mana yang tidak |
+| Agreement, Action & Relationship | 4 | Sinyal *Interest* dari juri dicatat dan dianalisis secara kritis, dengan membedakan *Interest* terhadap masalah dan terhadap solusi |
+
+**Total:** 16/20, Kompeten.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::

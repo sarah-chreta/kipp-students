@@ -1,8 +1,8 @@
 ---
 title: "Target–Attention Challenge"
 week: 6
-status: "Belum dimulai"
-self_score: "—"
+status: "Siap dinilai"
+self_score: "17"
 assessor_score: "—"
 description: "Target map, attention pitch, response, dan state assessment."
 categories: [TAIDA, Attention]
@@ -18,8 +18,64 @@ Memilih target person yang tepat dan membuat issue diakui relevan melalui eviden
 - Problem/opportunity pitch serta evidence.
 - Response, state sesudah pitch, dan adaptation.
 
-::: {.callout-tip title="Lihat contoh pengisian"}
-[Buka contoh fiktif Minggu 6](../examples/week-06.qmd) untuk melihat tingkat kekonkretan evidence dan analisis. Jangan menyalin contoh sebagai evidence pribadi.
-:::
+## Target map
 
-{{< include ../includes/evidence-template.md >}}
+| Person | Relevance | Authority | Current state |
+| :--- | :--- | :--- | :--- |
+| **Juri GEMASTIK XIX Divisi IV (babak final)** | Menilai apakah solusi NUSATANI layak dan bernilai bagi penggunanya | Menentukan skor dan kelolosan tim di babak final | Unaware, belum tahu NUSATANI, belum paham urgensi masalah petani, belum tahu cara aplikasi membantu |
+| Dosen pembimbing tim | Sudah mendampingi sejak riset awal | Memberi arahan teknis dan non-teknis | Aware, sudah memahami solusi sejak proses berjalan |
+| Petani (narasumber wawancara) | Pengguna langsung yang mengalami masalah | Memberi validasi kebutuhan nyata | Problem aware, sudah pernah diwawancara dan menyampaikan kendalanya |
+
+Saya memilih **juri GEMASTIK XIX** sebagai target karena otoritasnya paling menentukan nasib proyek, yaitu skor dan kelolosan, dan karena pada sesi final itu, ia benar-benar belum tahu apa pun tentang NUSATANI. Dosen pembimbing dan narasumber petani sudah berada di *state* yang lebih maju, sehingga tidak cocok untuk menguji kemampuan menarik perhatian dari titik nol.
+
+## Attention pitch
+
+> "Tim kami menjelaskan bahwa petani, terutama yang berusia di bawah 35 tahun, menghadapi tiga masalah utama: gagal panen akibat faktor cuaca, keterbatasan pengetahuan soal hama dan penyakit tanaman, serta isu regenerasi petani. Kami lalu memaparkan proses riset kami, mulai dari wawancara pengguna hingga tiga putaran *user testing*, dan menutupnya dengan menunjukkan rancangan *high-fidelity* di Figma untuk tiga fitur utama: Monitor dan Panduan Tindakan, Lensa Tani, dan Tanya AI."
+
+*Evidence yang dipakai:* proses riset bertahap (wawancara, tiga putaran *testing*) dan prototipe Figma *high-fidelity* sebagai bukti bahwa solusi sudah divalidasi, bukan sekadar ide.
+
+## Response dan state assessment
+
+Juri merespons dengan tertarik dan mengajukan beberapa pertanyaan verifikasi:
+
+> **Juri:** "Kalau misalnya nggak ada koneksi IoT, itu masih bisa kah?"  
+> **Tim kami:** "Bisa, karena dibantu chip juga di IoT-nya."
+
+> **Juri:** "Masalah yang dihadapi petani itu sebenarnya apa aja?"  
+> **Tim kami:** "Jadi tiga masalah utama: gagal panen karena faktor cuaca yang di luar kendali petani, keterbatasan pengetahuan soal hama dan penyakit tanaman sehingga seringnya penanganan telat, dan isu regenerasi petani karena generasi muda jarang mau melanjutkan jadi petani."
+
+> **Juri:** "Terus, keterlambatan memberi pupuk dan air itu maksudnya gimana?"  
+> **Tim kami:** "Keterlambatan pemberian pupuk dan air itu sendiri memang salah satu masalah yang biasa dihadapi petani. Hal ini berkaitan juga dengan masalah hama atau penyakit tanaman yang bisa muncul karena penanganan yang telat. Makanya solusi yang kami tawarkan memang menyasar bagian itu, supaya petani bisa dibantu mengetahui dan menangani masalah tersebut lebih cepat."
+
+Respons ini menunjukkan *state* juri berubah dari **Unaware** menjadi **Attention yang mengarah ke Interest awal**. Ia tidak hanya memperhatikan, tetapi aktif menggali detail teknis (redundansi IoT) dan detail masalah (jenis kendala petani), yang berarti ia sudah mempertimbangkan kelayakan solusi, bukan sekadar mendengarkan secara pasif. Namun saya tidak mengklaim *state*-nya sudah mencapai Desire atau Action, karena juri belum menyatakan dukungan eksplisit terhadap kelolosan atau skor.
+
+## Evidence dan refleksi
+
+- Tangkapan layar sesi final GEMASTIK XIX Divisi IV Desain Pengalaman Pengguna, menunjukkan tim BURUBURU mempresentasikan prototipe NUSATANI secara langsung kepada tiga juri. Nama dan wajah juri serta rekan tim lain disamarkan.
+
+  ![Sesi final GEMASTIK XIX Divisi IV: tim BURUBURU mempresentasikan prototipe NUSATANI kepada juri](images/W06-sesi-final-gemastik.png)
+
+- Dialog pada bagian *Attention pitch* dan *Response* adalah rekonstruksi dari ingatan tim terhadap jalannya tanya jawab, bukan transkrip kata per kata, karena sesi tersebut tidak direkam secara terpisah untuk kebutuhan tugas ini.
+- AI (Claude) digunakan untuk membantu menyusun struktur portofolio dan merapikan narasi episode berdasarkan cerita yang saya sampaikan, termasuk mengelaborasi satu jawaban saya menjadi kalimat yang lebih runtut tanpa mengubah maksudnya. AI tidak digunakan untuk mengarang isi pertanyaan atau jawaban juri.
+- *Next practice:* menyiapkan jawaban untuk pertanyaan verifikasi teknis, seperti redundansi IoT, sebelum sesi presentasi berikutnya, supaya responsnya lebih runtut dan tidak terkesan dadakan.
+
+## Self-assessment
+
+| Dimensi | Skor | Evidence singkat |
+| :--- | :---: | :--- |
+| Person & Character | 3 | Target dipilih berdasarkan *relevance* dan *authority* dibanding dua target lain yang dipertimbangkan |
+| Objective & State | 3 | *State* awal (Unaware) dan state sesudah (Attention menuju Interest) dinyatakan dengan batasan yang jelas |
+| Repertoire, Language & AI | 3 | Pitch terstruktur (masalah ke proses ke solusi); penggunaan AI dinyatakan |
+| Response & Adaptation | 4 | Dua pertanyaan verifikasi juri direspons langsung dan spesifik, dengan detail teknis dan konteks masalah |
+| Agreement, Action & Relationship | 4 | Dokumentasi asli sesi final terlampir sebagai evidence yang dapat diverifikasi |
+
+**Total:** 17/20, Kompeten.
+
+::: {.assessor-only}
+### Assessment dosen
+
+**Skor:** — / 20  
+**Evidence yang mendukung:** —  
+**Prioritas perbaikan:** —  
+**Keputusan:** Belum dinilai / Perlu revisi / Tercapai
+:::
