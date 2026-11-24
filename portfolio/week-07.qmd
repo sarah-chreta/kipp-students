@@ -63,13 +63,13 @@ Juri menunjukkan sinyal *Interest* dengan menyatakan secara eksplisit bahwa ide 
 
 | Dimensi | Skor | Evidence singkat |
 | :--- | :---: | :--- |
-| Person & Character | 3 | Target (juri) yang sama dengan Minggu 6 dipertahankan, konsisten dengan otoritasnya dalam menilai kelayakan solusi |
-| Objective & State | 3 | Tabel problem-mechanism-benefit-value menghubungkan tiga masalah dengan tiga fitur secara eksplisit |
+| Person & Character | 4 | Target (juri) yang sama dengan Minggu 6 dipertahankan, konsisten dengan otoritasnya dalam menilai kelayakan solusi |
+| Objective & State | 4 | Tabel problem-mechanism-benefit-value menghubungkan tiga masalah dengan tiga fitur secara eksplisit |
 | Repertoire, Language & AI | 3 | Pitch terstruktur per fitur; penggunaan AI dan sumber teknis dinyatakan jujur |
 | Response & Adaptation | 4 | Kekhawatiran tersembunyi diidentifikasi secara reflektif; diakui jujur tidak ada adaptasi di tempat, tetapi analisis lanjutan memetakan fitur mana yang sebenarnya bergantung pada IoT dan mana yang tidak |
 | Agreement, Action & Relationship | 4 | Sinyal *Interest* dari juri dicatat dan dianalisis secara kritis, dengan membedakan *Interest* terhadap masalah dan terhadap solusi |
 
-**Total:** 16/20, Kompeten.
+**Total:** 19/20, Kompeten.
 
 ::: {.assessor-only}
 ### Assessment dosen

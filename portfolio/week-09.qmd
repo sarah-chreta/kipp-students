@@ -72,12 +72,12 @@ Kontribusi saya: melakukan wawancara *user testing* langsung di lahan tanam, men
 | Dimensi | Skor | Evidence singkat |
 | :--- | :---: | :--- |
 | Person & Character | 4 | Target diperluas ke pengguna nyata (petani), bukan hanya juri kompetisi, dengan evidence foto lapangan |
-| Objective & State | 3 | *Current* dan *desired state* dirumuskan jelas dan divalidasi dari sudut pandang pengguna |
+| Objective & State | 4 | *Current* dan *desired state* dirumuskan jelas dan divalidasi dari sudut pandang pengguna |
 | Repertoire, Language & AI | 3 | *Feature-benefit-value-outcome chain* disusun sebagai hipotesis, bukan klaim pasti; batas AI dinyatakan |
-| Response & Adaptation | 2 | Diakui jujur bahwa respons petani bersifat validasi, bukan koreksi terhadap rumusan *desired state* |
-| Agreement, Action & Relationship | 3 | *Evidence threshold* dirumuskan dengan mempertimbangkan risiko *social desirability bias* dari respons antusias narasumber |
+| Response & Adaptation | 3 | Diakui jujur bahwa respons petani bersifat validasi, bukan koreksi terhadap rumusan *desired state* |
+| Agreement, Action & Relationship | 4 | *Evidence threshold* dirumuskan dengan mempertimbangkan risiko *social desirability bias* dari respons antusias narasumber |
 
-**Total:** 15/20, Kompeten.
+**Total:** 18/20, Kompeten.
 
 ::: {.assessor-only}
 ### Assessment dosen

@@ -63,13 +63,13 @@ Respons ini menunjukkan *state* juri berubah dari **Unaware** menjadi **Attentio
 
 | Dimensi | Skor | Evidence singkat |
 | :--- | :---: | :--- |
-| Person & Character | 3 | Target dipilih berdasarkan *relevance* dan *authority* dibanding dua target lain yang dipertimbangkan |
+| Person & Character | 4 | Target dipilih berdasarkan *relevance* dan *authority* dibanding dua target lain yang dipertimbangkan |
 | Objective & State | 3 | *State* awal (Unaware) dan state sesudah (Attention menuju Interest) dinyatakan dengan batasan yang jelas |
 | Repertoire, Language & AI | 3 | Pitch terstruktur (masalah ke proses ke solusi); penggunaan AI dinyatakan |
 | Response & Adaptation | 4 | Dua pertanyaan verifikasi juri direspons langsung dan spesifik, dengan detail teknis dan konteks masalah |
 | Agreement, Action & Relationship | 4 | Dokumentasi asli sesi final terlampir sebagai evidence yang dapat diverifikasi |
 
-**Total:** 17/20, Kompeten.
+**Total:** 18/20, Kompeten.
 
 ::: {.assessor-only}
 ### Assessment dosen
